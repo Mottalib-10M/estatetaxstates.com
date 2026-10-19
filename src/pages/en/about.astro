@@ -8,12 +8,12 @@ import { KIT as K } from '../../lib/kit';
 import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
 const lang = 'en';
 const path = route('about', lang);
-const title = 'Estate Tax Atlas 2026: who publishes these calculators';
-const description = "Estate Tax Atlas is published by Radif Partners: 2026 state estate and inheritance taxes read on each state's law and computed on your estate. Nothing sold.";
+const title = 'Estate Tax States 2026: who publishes these calculators';
+const description = "Estate Tax States is published by Radif Partners: 2026 state estate and inheritance taxes read on each state's law and computed on your estate. Nothing sold.";
 ---
 <PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
   <article class="prose prose-slate max-w-none prose-headings:font-serif">
-    <h1>About Estate Tax Atlas</h1>
+    <h1>About Estate Tax States</h1>
     <p>{AUTHOR_DESC.en}</p>
     <h2>The gap this site fills</h2>
     <p>Search for "state estate tax" and the first result is a table dated 2018 that still shows a federal exemption of $11.2 million. The next ones are charts for 2025, with Washington's old exemption and New York missing, or a 2026 article that gives Connecticut's exemption as $13.6 million when the state's law ties it to the federal amount, {K.usd(K.E.CT.exemption)} this year. Most of these pages end with a form to book a meeting with an adviser. None computes a tax.</p>

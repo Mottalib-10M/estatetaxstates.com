@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://us-estate-tax.example/sitemap-index.xml
+Sitemap: https://estatetaxstates.com/sitemap-index.xml

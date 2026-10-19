@@ -6,9 +6,9 @@ import { route } from '../../i18n/routes';
 import { contactPageSchema } from '../../lib/seo';
 const lang = 'en';
 const path = route('contact', lang);
-const description = 'Write to the publisher of Estate Tax Atlas about a state exemption, a rate, a beneficiary class or a source. E-mail only, no review of your own estate, nothing sold.';
+const description = 'Write to the publisher of Estate Tax States about a state exemption, a rate, a beneficiary class or a source. E-mail only, no review of your own estate, nothing sold.';
 ---
-<PageLayout title="Contact Estate Tax Atlas: corrections to a state rule or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+<PageLayout title="Contact Estate Tax States: corrections to a state rule or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
   <div class="prose prose-slate max-w-none prose-headings:font-serif">
     <h1>Contact</h1>
     <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form, no appointment, no newsletter: we sell no planning service and need no address.</p>

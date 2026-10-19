@@ -1,4 +1,4 @@
-# Écrire ou étoffer une page d'Estate Tax Atlas (us-estate-tax)
+# Écrire ou étoffer une page d'Estate Tax States (us-estate-tax)
 
 Cette notice s'adresse aux agents qui écrivent les pages. Lis-la en entier avant d'écrire, avec `~/Documents/GitHub/RECETTE-SITE.md` (§0, §5, §6, §6.5, §7, §9.3, §11, §17.4, §21, §26).
 

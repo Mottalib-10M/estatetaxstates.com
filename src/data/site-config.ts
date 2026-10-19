@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://us-estate-tax.example";
-export const SITE_NAMES: Record<string, string> = {"en": "Estate Tax Atlas"};
+export const SITE_URL = "https://estatetaxstates.com";
+export const SITE_NAMES: Record<string, string> = {"en": "Estate Tax States"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-US"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_US"};
 export const LOCALE_TAG = 'en-US';
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners reads 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Federal estate and gift tax exclusion", "Annual gift tax exclusion", "Portability of the deceased spouse's unused exclusion", "State estate taxes and exemption thresholds", "New York estate tax cliff", "State inheritance taxes by beneficiary class", "Estate tax on real property in another state"]};
-export const CONTACT_EMAIL = "contact@us-estate-tax.example";
+export const CONTACT_EMAIL = "contact@estatetaxstates.com";
 export const THEME_COLOR = '#2D4A6B';
 export const LOGO_SYMBOL = 'EST';
 export const BING_VERIFY_CODE = '';
