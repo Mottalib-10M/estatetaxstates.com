@@ -1,0 +1,74 @@
+URL: https://www.revenue.state.mn.us/sites/default/files/2026-01/m706-inst-25.pdf
+Lu le: 2026-10-19
+Titre: 2025 Estate Tax Form M706 Instructions, Minnesota Department of Revenue
+
+2025 Estate Tax Form M706 Instructions
+
+[...]
+
+For estates of decedents whose dates of death are in calendar year 2025
+Continued
+Estate Tax Exclusion and Filing Requirement
+For 2025 decedents, the exclusion amount and tax filing threshold is $3,000,000. The exclusion 
+amount is subtracted on Form M706, Line 6a.
+For 2025 decedents, the maximum qualified small business property and farm property deduction 
+amount is $2,000,000. The combined exclusion amount, and deduction for qualified small business 
+property and farm property remains $5,000,000.
+Filing Requirements
+If the decedent was a resident of Minnesota at the time of death, the estate is required to file Form 
+M706 if the federal gross estate plus federal adjusted taxable gifts made within three years of the 
+decedent’s death exceeds $3,000,000 on the date of death or if the estate is required to file a federal 
+estate tax return.
+If the decedent was a nonresident of Minnesota, the estate is required to file Form M706 if property 
+with situs in Minnesota is included in the federal gross estate and the federal gross estate plus federal 
+adjusted taxable gifts made within three years of the decedent’s death exceeds $3,000,000 on the date 
+of death or if the estate is required to file a federal estate tax return. 
+The federal gross estate is determined by completing the federal Form 706 (see page 5). The federal 
+adjusted taxable gifts are defined in section 2001(b) of the Internal Revenue Code. (M.S. 289A.10, 
+
+[...]
+
+The regular due date for filing Form M706 is nine months after the date of death. (M.S. 289A.18, 
+subd. 3)
+Filing extensions. The automatic extended due date for filing Form M706 is 6 months after the regu-
+lar due date or the amount of time granted by the Internal Revenue Service (IRS) to file the federal 
+estate tax return, whichever is longer. (M.S. 289A.19, subd. 4)
+Any tax not paid by the regular due date is subject to penalties and interest (see Penalties on page 3).
+Deadline for Paying 
+The Minnesota estate tax must be paid no later than nine months after the date of death of the dece-
+dent. (M.S. 289A.20, subd. 3)
+
+[...]
+
+Use the 2025 Rate Table to determine the amount to enter on line 10. 
+Line 11
+Use Worksheet B on page 3 of Form M706 to determine the amount to enter on line 11.
+Worksheet B Instructions
+Step 1 – Minnesota Gross Estate. From the federal estate tax return, add the gross value of each item of the decedent’s real and tangible person-
+al property located in Minnesota. If the decedent is a resident of Minnesota, include all intangible personal property. Resident estates, provide a 
+schedule of property not included on this line. Nonresident estates, provide a schedule of property included in this line.
+A nonresident decedent who owns an interest in a pass-through entity that has real or tangible personal property located or normally kept in 
+Minnesota must include that real or tangible personal property on step 1 of Worksheet B. Pass-through entities include S corporations, partner-
+ships, limited liability companies, and trusts. A pass-through entity excludes securities traded on an exchange regulated by the SEC. 
+Step 2 – Gifts of Property with Minnesota Situs. From the federal taxable gifts included on line 2b of Form M706, add the gross value of each 
+real or tangible item of personal property located in Minnesota at the time the gift was executed. If the decedent was a resident of Minnesota at 
+the time of the gift, include intangible personal property. 
+Step 7 – Ratio. When dividing step 3 by step 6, round the result to five decimal places and enter on step 7. Multiply the ratio on step 7 by the 
+amount on line 10 of Form M706.  Enter that result on line 11 of Form M706.
+Line 12 — Nonresident Decedent Tax Credit
+This nonrefundable credit is for nonresident decedents who reported in the gross estate real or tangible personal property owned by the decedent 
+through a pass-through entity. 
+Determine the amount of Line 12 by entering the lesser of the following:
+• The amount of estate or inheritance tax paid to another state attributable to property with Minnesota situs held in the pass-through entity.
+• The amount of tax due (before credits) attributable to the property with Minnesota situs held in the pass-through entity.
+To determine the amount of tax attributable to property with Minnesota situs held in the pass-through entity, the estate must determine the 
+
+[...]
+
+2025 Rate Table 
+If line 9 is:  over but not over Enter on line 10 of Form M706:  of the amount over
+ 0 7,100,000  0 +  13.0% 0
+ 7,100,000 8,100,000 923,000 + 13.6% 7,100,000
+ 8,100,000 9,100,000 1,059,000 + 14.4% 8,100,000
+ 9,100,000 10,100,000 1,203,000 + 15.2% 9,100,000
+ 10,100,000 — 1,355,000 + 16.0% 10,100,000

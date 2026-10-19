@@ -1,0 +1,17 @@
+URL: https://www.law.cornell.edu/uscode/text/26/2056
+Lu le: 2026-10-19
+Titre: 26 U.S. Code § 2056 - Bequests, etc., to surviving spouse (LII)
+
+prev | next
+(a) Allowance of marital deduction
+For purposes of the tax imposed by section 2001, the value of the taxable estate shall, except as limited by subsection (b), be determined by deducting from the value of the gross estate an amount equal to the value of any interest in property which passes or has passed from the decedent to his surviving spouse, but only to the extent that such interest is included in determining the value of the gross estate.
+[...]
+(d) Disallowance of marital deduction where surviving spouse not United States citizen
+(1) In general Except as provided in paragraph (2), if the surviving spouse of the decedent is not a citizen of the United States—
+(A)
+no deduction shall be allowed under subsection (a), and
+(B)
+section 2040(b) shall not apply.
+(2) Marital deduction allowed for certain transfers in trust
+(A) In general
+Paragraph (1) shall not apply to any property passing to the surviving spouse in a qualified domestic trust.

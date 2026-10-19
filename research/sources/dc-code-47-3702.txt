@@ -1,0 +1,22 @@
+URL: https://code.dccouncil.gov/us/dc/council/code/sections/47-3702
+Lu le: 2026-10-19
+Titre: Code of the District of Columbia § 47–3702. Tax on transfer of taxable estate of residents
+
+Code of the District of Columbia
+§ 47–3702. Tax on transfer of taxable estate of residents; amounts; credit; property of resident defined.
+(a) A tax in the amount of the federal credit is imposed on the transfer of the taxable estate having its taxable situs in the District of every resident decedent dying after March 31, 1987, but before January 1, 2016, subject, where applicable, to the credit provided for in subsection (b) of this section.
+(a-1) A tax is imposed on the taxable estate of every resident decedent dying after December 31, 2015, as follows:
+(1) The rate of tax shall be 16%; except, that the portion of the taxable estate that does not exceed the current zero bracket amount shall be taxed at 0%, and if the taxable estate exceeds the zero bracket amount, the following tax rates shall be applied to the incremental values of the taxable estate above the zero bracket amount:
+(A) The rate of tax on the taxable estate over $1 million but not over $1.5 million shall be 6.4%;
+(B) The rate of tax on the taxable estate over $1.5 million but not over $2 million shall be 7.2%;
+(C) The rate of tax on the taxable estate over $2 million but not over $2.5 million shall be 8%;
+(D) The rate of tax on the taxable estate over $2.5 million but not over $3 million shall be 8.8%;
+(E) The rate of tax on the taxable estate over $3 million but not over $3.5 million shall be 9.6%;
+(F) The rate of tax on the taxable estate over $3.5 million but not over $4 million shall be 10.4%;
+(G) The rate of tax on the taxable estate over $4 million but not over $5 million shall be 11.2%;
+(H) The rate of tax on the taxable estate over $5 million but not over $6 million shall be 12%;
+(I) The rate of tax on the taxable estate over $6 million but not over $7 million shall be 12.8%;
+(J) The rate of tax on the taxable estate over $7 million but not over $8 million shall be 13.6%;
+(K) The rate of tax on the taxable estate over $8 million but not over $9 million shall be 14.4%; and
+(L) The rate of tax on the taxable estate over $9 million but not over $10 million shall be 15.2%.
+(2) If any real or tangible personal property of a resident decedent has a taxable situs outside the District, the amount of the tax due under this section shall be reduced by the proportion that the value of the real or tangible property outside the District bears to the amount of the gross estate of the resident decedent.

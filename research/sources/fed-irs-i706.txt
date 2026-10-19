@@ -1,0 +1,90 @@
+URL: https://www.irs.gov/instructions/i706
+Lu le: 2026-10-19
+Titre: Instructions for Form 706 (07/2026) | Internal Revenue Service
+
+What’s New
+Various dollar amounts and limitations indexed for inflation.
+For decedents dying in 2026, the following amounts are applicable.
+The basic exclusion amount is $15,000,000.
+The ceiling on special-use valuation is $1,460,000.
+The amount used in figuring the 2% portion of estate tax payable in installments is $1,940,000.
+The basic credit amount is $5,945,800.
+The IRS will publish amounts for future years in annual revenue procedures.
+[...]
+Which Estates Must File
+For decedents who died in 2026, Form 706 must be filed by the executor of the estate of every U.S. citizen or resident:
+Whose gross estate, plus adjusted taxable gifts and specific exemption, is more than $15,000,000; or
+Whose executor elects to transfer the deceased spousal unused exclusion (DSUE) amount to the surviving spouse, regardless of the size of the decedent’s gross estate. See the instructions for Part VI—Portability of Deceased Spousal Unused Exclusion (DSUE) , later, and sections 2010(c)(4) and (c)(5).
+To determine whether you must file a return for the estate under 1 above, add:
+The adjusted taxable gifts (as defined in section 2503) made by the decedent after December 31, 1976;
+The total specific exemption allowed under section 2521 (as in effect before its repeal by the Tax Reform Act of 1976) for gifts made by the decedent after September 8, 1976; and
+The decedent’s gross estate valued as of the date of death.
+Two or more persons liable to file.
+If two or more persons are liable for filing the return, they should all join together in filing one complete return.
+[...]
+When To File
+You must file Form 706 to report estate and/or GST tax within 9 months after the date of the decedent’s death. If you are unable to file Form 706 by the due date, you may receive an extension of time to file. Use Form 4768, Application for Extension of Time To File a Return and/or Pay U.S. Estate (and Generation-Skipping Transfer) Taxes, to apply for an automatic 6-month extension of time to file.
+Portability election.
+An executor can only elect to transfer the DSUE amount to the surviving spouse if the Form 706 is filed timely, that is, within 9 months of the decedent’s date of death or, if you have received an extension of time to file, before the 6-month extension period ends.
+Extension to elect portability.
+Executors who did not have a filing requirement under section 6018(a) but failed to timely file Form 706 to make the portability election may be eligible for an extension under Rev. Proc. 2022-32, 2022-30 I.R.B. 101 (superseding Rev. Proc. 2017-34, 2017-26 I.R.B. 1282). Executors filing to elect portability may now file Form 706 on or before the fifth anniversary of the decedent’s death.
+An executor wishing to elect portability under this extension must state at the top of the Form 706 being filed that the return is “Filed Pursuant to Rev. Proc. 2022-32 to Elect Portability under section 2010(c)(5)(A).” See Rev. Proc. 2022-32 availbale at IRS.gov/irb/2022-30_IRB#REV-PROC-2022-32 for more information.
+Note:
+[...]
+The estate and GST taxes are due within 9 months of the date of the decedent’s death. You may request an extension of time for payment by filing Form 4768. In some cases, you may also elect under section 6166 to pay in installments or under section 6163 to postpone the part of the tax attributable to a reversionary or remainder interest. These elections are made by checking “Yes” on Part III, lines 3 and 4 (respectively) and attaching the required statements.
+[...]
+Table A—Unified Rate Schedule
+Column A
+Taxable amount over Column B
+Taxable amount not over Column C
+Tax on amount in column A Column D
+Rate of tax on excess over amount in column A
+$0 $10,000 $0 18%
+10,000 20,000 1,800 20%
+20,000 40,000 3,800 22%
+40,000 60,000 8,200 24%
+60,000 80,000 13,000 26%
+80,000 100,000 18,200 28%
+100,000 150,000 23,800 30%
+150,000 250,000 38,800 32%
+250,000 500,000 70,800 34%
+500,000 750,000 155,800 37%
+750,000 1,000,000 248,300 39%
+1,000,000 – – – – 345,800 40%
+Line 1
+If you elected alternate valuation on Part III, line 1, enter the amount you entered in the “Alternate value” column of Part V, item 13. Otherwise, enter the amount from the “Value at date of death” column.
+Line 3b. State Death Tax Deduction
+You may take a deduction on line 3b for estate, inheritance, legacy, or succession taxes paid on any property included in the gross estate as the result of the decedent’s death to any state or the District of Columbia.
+You may claim an anticipated amount of deduction and figure the federal estate tax on the return before the state death taxes have been paid. However, the deduction cannot be finally allowed unless you pay the state death taxes and claim the deduction within 4 years after the return is filed, or later (see section 2058(b)) if:
+A petition is filed with the Tax Court of the United States,
+You have an extension of time to pay under section 6161 or section 6166, or
+You file a claim for refund or credit of an overpayment which extends the deadline for claiming the deduction.
+Note:
+[...]
+2026 $15,000,000 $5,945,800
+[...]
+Lines 9a Through 9e. Applicable Credit Amount (Formerly Unified Credit Amount)
+The applicable credit amount is allowable credit against estate and gift taxes. It is figured by determining the tentative tax on the applicable exclusion amount, which is the amount that can be transferred before an estate tax liability will be incurred.
+The applicable exclusion amount equals the total of lines 9a, 9b, and 9c. See Lines 9d and 9e, applicable exclusion and credit amount , later, for more information.
+Line 9a, basic exclusion amount.
+In 2026, the basic exclusion amount, as adjusted for inflation under section 2010(c)(3), is $15,000,000.
+Line 9b, DSUE.
+If the decedent had a spouse who died after 2010, whose estate did not use all of its applicable exclusion against gift or estate tax liability, a DSUE amount may be available for use by the decedent’s estate. If the predeceased spouse died in 2011, the DSUE amount was figured and attached to the predeceased spouse’s Form 706. If the predeceased spouse died in 2012 or after, this amount is found in Part VI, Section C, of the Form 706 filed by the estate of the decedent’s predeceased spouse. The amount to be entered on line 9b is figured in Part VI, Section D, line 4.
+Line 9c, restored exclusion amount.
+If a decedent made a taxable gift during the decedent’s lifetime to the decedent’s same-sex spouse and that transfer resulted in a reduction of the decedent’s available applicable exclusion amount, the amount of the applicable exclusion that was reduced can be restored. If the applicable exclusion was previously restored on a Form 709, enter the value on Schedule C, line 3, of Form 709. If the applicable exclusion has not yet been previously restored, follow the directions in the instructions for Form 709, Schedule C, to determine the restored exclusion amount. The restored exclusion amount is entered on line 9c.
+Lines 9d and 9e, applicable exclusion and credit amount.
+The total of lines 9a, 9b, and 9c is entered on line 9d. If the amounts entered on both lines 9b and 9c are zero, enter $5,945,800 on line 9e. Otherwise, determine the applicable credit on the amount on line 9d by using Table A—Unified Rate Schedule and enter the result on line 9e.
+[...]
+The marital deduction is generally not allowed if the surviving spouse is not a U.S. citizen. The marital deduction is allowed for property passing to such a surviving spouse in a QDOT or if such property is transferred or irrevocably assigned to such a trust before the estate tax return is filed. The executor must elect QDOT status on the return. See the instructions that follow for details on the election.
+[...]
+Qualified Domestic Trust (QDOT) Election
+The marital deduction is allowed for transfers to a surviving spouse who is not a U.S. citizen only if the property passes to the surviving spouse in a QDOT or if such property is transferred or irrevocably assigned to a QDOT before the decedent’s estate tax return is filed.
+[...]
+For transfers made through 1998, the GST exemption was $1 million. The current GST exemption is $15,000,000. The exemption amounts for 1999 through 2026 are as follows.
+[...]
+2026 $15,000,000
+In general, each annual increase of GST exemption can only be allocated to transfers made during or after the year of the increase, cannot be applied retroactively to GST transfers (thus to direct skips, taxable distributions, or taxable terminations) made in a year prior to the effective date of the increase, and cannot cause a refund of GST tax owed on a prior GST. (But see section 2632(d) and the availability of retroactive allocations of exemption in the event a non-skip person predeceases the transferor.) The increase in GST exemption can generally be applied to prior transfers (such as a transfer to a GST trust) as a late allocation and such allocation applies prospectively. See section 2632, section 2642, Regulations section 26.2632-1, and Regulations section 26.2642-2.
+[...]
+When a taxable gift is made, the DSUE amount received from the last deceased spouse is applied before the surviving spouse’s basic exclusion amount. A surviving spouse may use the DSUE amount of the last deceased spouse to offset the tax on any taxable transfer made after the deceased spouse’s death. A surviving spouse who has more than one predeceased spouse is not precluded from using the DSUE amount of each spouse in succession. A surviving spouse may not use the sum of DSUE amounts from multiple predeceased spouses at one time nor may the DSUE amount of a predeceased spouse be applied after the death of a subsequent spouse.
+[...]
+A QDOT allows the estate of a decedent to bequeath property to a surviving spouse who is not a citizen of the United States and still receive a marital deduction. When property passes to a QDOT, estate tax is imposed under section 2056A as distributions are made from the trust. When a QDOT is established and there is a DSUE amount, the executor of the decedent’s estate will determine a preliminary DSUE amount for the purpose of electing portability. This amount will decrease as section 2056A distributions are made. In estates with a QDOT, the DSUE amount generally may not be applied against tax arising from lifetime gifts because it will not be available to the surviving spouse until it is finally determined, usually upon the death of the surviving spouse or when the QDOT is terminated.

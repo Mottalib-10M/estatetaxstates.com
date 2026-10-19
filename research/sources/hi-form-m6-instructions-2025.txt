@@ -1,0 +1,233 @@
+URL: https://files.hawaii.gov/tax/forms/2025/m6ins.pdf
+Lu le: 2026-10-19
+Titre: Instructions for Form M-6 (Rev. 2025), Hawaii Estate Tax Return, State of Hawaii Department of Taxation
+
+INSTRUCTIONS 
+FORM M-6 
+(REV. 2025)
+STATE OF HAWAII - DEPARTMENT OF TAXATION
+ 
+INSTRUCTIONS FOR FORM M-6 
+HAWAII ESTATE TAX RETURN
+(NOTE: References to “married” and “spouse” are also references to “in a civil union” and “civil union partner,” respectively.)
+Changes You Should Note
+Act 123, Session Laws of Hawaii 2025, conforms the Hawaii Es-
+tate and Generation-Skipping Transfer Tax Law to the Internal Rev-
+enue Code (IRC) as amended as of December 31, 2024 with the 
+exception of the excludable amount of $5,490,000. The exclusion 
+amount of $5,490,000 is set forth for the decedent in chapter 11 of 
+the IRC as amended as of December 21, 2017, as if the decedent 
+died on December 31, 2017. For the 2025 tax year, the federal 
+excludable base amount is set at $13,990,000, causing a “Gap” 
+between the federal and state excludable amount.
+Although Hawaii does not have a gift tax, the applicable exclu -
+sion amount is reduced by the federal adjusted taxable gift(s) made 
+by the decedent.
+If you are not required to file federal Form 706, but are required 
+to file Hawaii Form M-6, Hawaii Estate Tax Return, due to the ex-
+cludable gap between the federal and state, you should complete 
+a “Computed-Hawaii only” Form 706 to arrive at the Hawaii taxable 
+estate amount. See Special Instructions - For Estates Required to 
+File a Hawaii Return but not a Federal Return.
+General Instructions
+Purpose of Form —  Hawaii does not have a gift tax or an inheri-
+tance tax, but it does have an estate tax for estates of decedents 
+dying after January 25, 2012. For persons dying after January 25, 
+2012, the Hawaii Estate and Generation-Skipping Transfer Tax is 
+imposed on the transfer of the taxable estate of every resident and 
+the taxable estate located in Hawaii of every nonresident.
+The federal Estate Tax Return (Form 706 or Form 706-NA), and 
+its related instructions must be used to determine the Hawaii tax -
+able estate.
+Generation-skipping transfers due to taxable distributions or 
+taxable terminations made after June 30, 1994 and before January 
+1, 2005 or on or after May 1, 2010 are reported using the Hawaii 
+Generation-Skipping Transfer Tax Report, Form M-6GS.
+Which Estates Must File — If the decedent was a resident of Ha -
+waii or a nonresident of Hawaii, but a U.S. resident or U.S. citi-
+zen, and the taxable estate (federal Form 706, Part 2, line 5) is 
+$5,490,000 or less, no estate tax return is required. However, the 
+estate of a decedent with a surviving spouse must timely file a re-
+turn to elect portability of the deceased spousal unused exclusion 
+(DSUE) amount, to the surviving spouse.
+If the decedent was a nonresident not citizen and the taxable 
+estate (federal Form 706-NA, Part II, line 3) is $60,000 or less, no 
+return is required.
+However, the personal representative or person(s) in posses -
+sion, control, or custody of the property must file a Request for Re-
+lease (Form M-6A) with the Department of Taxation (Department) 
+if they wish to obtain a release, which indicates that the personal 
+representative or person(s) in possession, control, or custody are 
+free from taxes under chapter 236E, HRS.
+Same Sex Marriages — Same-sex marriages are recognized in 
+Hawaii. Hawaii’s law recognizes marriages between individuals of 
+the same-sex, and extends to such same-sex couples the same 
+
+[...]
+
+aware that while the Internal Revenue Service will not permit the 
+marital deduction for federal estate tax purposes, estates subject 
+to the Hawaii estate tax may take the deduction up to the maximum 
+amount allowed.
+Portability of the Deceased Spousal Unused Exclusion (DSUE) 
+— The federal Tax Relief Act of 2010 introduced portability of the 
+DSUE amount into the estate tax system. Portability provides that 
+any unused basic exclusion amount that remains at the death of 
+the first spouse (called the “deceased spousal unused exclusion 
+amount”) may be used by the surviving spouse, in addition to the 
+surviving spouse’s own exemption. If the surviving spouse has had 
+more than one predeceased spouse, the DSUE is limited to (a) 
+the lesser of $5,490,000 or (b) the unused exclusion of the last 
+predeceased spouse. Portability can only be elected on a timely 
+filed estate tax return of the predeceased spouse whose exemp-
+tion is intended to be used, regardless of whether the estate of the 
+predeceased spouse is otherwise required to file a tax return. To 
+claim the predeceased spouse’s exclusion amount for the surviving 
+spouse, the personal representative of the predeceased spouse 
+will need to file a Hawaii estate tax return even if the predeceased 
+spouse’s estate is not taxable.
+Portability applies only to decedents who pass away after Janu
+-
+ary 25, 2012 who were U.S. residents or U.S. citizens, and who 
+were validly married on the date of death or in a Hawaii civil union 
+or the equivalent. Portability does not apply to decedents who were 
+nonresidents not citizens except where allowed by any applicable 
+treaty obligation of the United States. If applicable, attach a state-
+ment to the return that refers to the particular treaty applicable to 
+the estate and for which the estate is claiming its benefits. The 
+DSUE amount cannot exceed $5,490,000 or the amount of the un-
+used basic exclusion amount, whichever is less.
+See Special Instructions Only if Filing a Hawaii Return to Claim 
+Portability.
+Who Must File —  Form M-6 must be filed by the personal rep-
+resentative of the decedent’s estate. A “personal representative” 
+means the personal representative of a decedent appointed under 
+chapter 560, HRS, and includes an executor as defined under sec-
+tion 2203 of the IRC, administrator, successor personal representa-
+tive, special administrator, and persons who perform substantially 
+the same function under the law governing their status.
+When to File — Form M-6 is due nine months after the date of the 
+decedent’s death. An extension to file Form M-6 is based on the 
+[page 1]
+INSTRUCTIONS 
+FORM M-6
+
+[...]
+
+  Honolulu, HI 96809-0259
+Definitions —
+“Nonresident” means a decedent who was not domiciled in Ha-
+waii at time of death.
+“Nonresident not citizen” means a decedent required to file un-
+der subchapter B of chapter 11 of the Internal Revenue Code.
+“Resident” means a decedent who was domiciled in Hawaii at 
+the time of death.
+Special Instructions - For Estates Required to 
+File a Hawaii Return but not a Federal Return
+Act 27, SLH 2018 decoupled the Hawaii applicable exclusion 
+amount from the federal applicable exclusion amount. Effective for 
+decedents dying on or after January 1, 2018, the Hawaii applicable 
+exclusion amount is set at $5,490,000. Consequently, a Hawaii re-
+turn may be required even though a federal return is not required. 
+Since Hawaii estate taxation is derived from federal law, estates of 
+decedents in this situation must prepare a “dummy” federal estate 
+tax return in order to properly compute their Hawaii estate tax li -
+ability. In these cases, a “Computed-Hawaii only” Form 706 must 
+
+[...]
+
+Schedule A, Line 8. — If the decedent was a surviving spouse who 
+received a DSUE amount from one or more predeceased spouses, 
+enter the DSUE amount on line 8. If none, enter zero. Enter the 
+name, tax identification number, and date of death of the prede-
+ceased spouse(s) whose unused exclusion amount is claimed as 
+portable in the space provided. Attach a copy of Form M-6 showing 
+the election made by the estate of the predeceased spouse(s).
+Schedule A, Line 11. — Compute the tax for the amount shown 
+on line 10 based on the tax rate schedule on page 6. If the amount 
+entered on line 11 is zero, go to Part 2 if the decedent was married 
+
+[...]
+
+SCHEDULE B - NONRESIDENT DECEDENT’S ESTATE
+Complete United States Estate (and Generation-Skipping 
+Transfer) Tax Return (federal Form 706)  — The United States 
+Estate (and Generation-Skipping Transfer) Tax Return (federal 
+Form 706) must be filed with this return for decedents dying after 
+December 31, 2020. Federal Form 706 should be completed us-
+ing federal estate tax law provided under section 236E-3, HRS, 
+to arrive at the Hawaii taxable estate. Federal Form 706 (used by 
+estates of nonresidents of Hawaii but U.S. residents or citizens) 
+should be completed through Part 2, line 12. Include any schedules 
+and federal Forms 712 as required. Identify any Hawaii property.
+Schedule B, Line 1. —  Reciprocity exemption: A nonresident de-
+cedent’s estate is exempt from Hawaii’s estate tax if the nonresi -
+dent’s state of domicile exempts the property of Hawaii residents 
+from estate, inheritance, or other death taxes normally imposed 
+by the domicile state. The exemption must be applicable to the 
+decedent based on the date of death and such exemption must 
+specifically reference Hawaii, or must contain a reciprocal provision 
+under which nonresidents of the domicile state are exempted from 
+applicable death taxes with respect to property or transfers which 
+would otherwise be subject to the jurisdiction of that state. The non-
+resident decedent must also have been a citizen and resident of 
+the U.S. at the time of death.
+Entries for property having a situs in Hawaii, Hawaii taxable es-
+tate, and Hawaii estate tax should all be zero if all of the decedent’s 
+Hawaii assets are exempt pursuant to the applicable agreement or 
+statutory provisions.  Although there may be no tax due, if the dece-
+dent’s estate is required to file a federal estate tax return, a Hawaii 
+estate tax return must also be filed, setting forth the property in 
+Hawaii but with a value of zero. Attach a statement to the Hawaii 
+estate tax return that refers to the particular agreement or statutory 
+provisions applicable to the estate and for which the estate is claim-
+ing its benefits.
+Schedule B, Line 2. — If the amount entered on line 2 is zero, go 
+to Part 2 if the decedent is married and the surviving spouse will 
+claim the DSUE amount.
+
+[...]
+
+SCHEDULE C - NONRESIDENT ALIEN DECEDENT’S ESTATE
+Complete United States Estate (and Generation-Skipping 
+Transfer) Tax Return, Estate of nonresident not a citizen of 
+the United States (federal Form 706-NA) — The United States 
+Estate (and Generation-Skipping Transfer) Tax Return, Estate of 
+a decedent who was a nonresident not citizen of the U.S. (federal 
+Form 706-NA) must be filed with this return for decedents dying 
+after December 31, 2019. Federal Form 706-NA should be com -
+pleted using federal estate tax law provided under section 236E-3, 
+HRS, to arrive at the Hawaii taxable estate. Federal Form 706-NA 
+(used by estates of nonresidents not citizens) should be completed 
+through Part II, line 8. Include any schedules and federal Forms 
+712 as required. Identify any Hawaii property.
+The transfer of a nonresident not citizen’s property is exempt 
+from Hawaii’s Estate and Generation-Skipping Transfer Tax to the 
+extent that the property of residents is exempt from taxation under 
+the laws of the state in which the nonresident not citizen, is domi -
+ciled; except that the following shall be subject to Hawaii’s tax:
+1. Real property located in Hawaii, whether or not held in a trust
+the corpus of which is included in a decedent’s gross estate for
+federal estate tax purposes;
+2. A  beneficial interest in a land trust that owns real property lo -
+cated in Hawaii; and
+3. T angible and intangible personal property having a situs in Ha -
+waii, including:
+a. Shares of stock owned by a nonresident not citizen, if is -
+sued by a domestic corporation;
+b. Any property of which the decedent has made a transfer, by
+trust or otherwise, within the meaning of IRC sections 2035
+
+[...]
+
+Tax Rate Schedule
+as of January 1, 2020
+If the amount on Schedule A, line 10, Schedule B, line 12 or Schedule C, line 12 is:
+Over But not over the tax is:
+$              0  $1,000,000 10.0% of the net taxable estate
+1,000,000 2,000,000 $100,000 plus 11.0% of amount over $1,000,000
+2,000,000 3,000,000 210,000 plus 12.0% of amount over 2,000,000
+3,000,000 4,000,000 330,000 plus 13.0% of amount over 3,000,000
+4,000,000 5,000,000 460,000 plus 14.0% of amount over 4,000,000
+5,000,000 10,000,000 600,000 plus 15.7% of amount over 5,000,000
+10,000,000 ------------ 1,385,000 plus 20% of amount over 10,000,000

@@ -1,0 +1,88 @@
+URL: https://illinoisattorneygeneral.gov/application/estate-tax-calculator/CalcHtm.js
+Lu le: 2026-10-19
+Titre: Script officiel du calculateur « 2013-2025 Estate Calculator » (page https://illinoisattorneygeneral.gov/estate-taxes/2013-2025-estate-calculator, liée sur /estate-taxes comme « 2013-2026 Decedents Estate Tax Calculator »)
+
+// JScript source code
+
+var fedPcent, ftestu, ftestl;
+var prcnt = 0, excess = 0, credit = 0;
+var tax1, tax2;
+ArrayHTML = new Array(30);
+
+function calculatetax(f, I1, I2) {
+    //Clean up results
+    fedPcent = 0.40;
+    ftestu = 5250000; // 5120000;
+    ftestl = 4000000; //3500000;
+    var trialc = 1;
+    var rowc = 3;
+    rowc = (rowc + 1);
+    tax1 = 0;
+    tax2 = 5;
+    var ilt = I1.toString().replace(/\$|\,/g, '');
+    var fedt = I2.toString().replace(/\$|\,/g, '');
+    
+    var adjtte;
+    if (fedt===0) {
+        fedt = ilt;
+    }
+
+    //START IL CALC
+    while (Math.abs(tax1 - tax2) >= 1) {
+        tax2 = tax1;
+        adjtte = (ilt - tax1);
+        calc4il(adjtte, f, rowc, trialc, tax1);
+        trialc = (trialc + 1);
+    }
+    //START FED CALC
+    if (((fedt - tax1 - ftestl) * fedPcent) < tax1 ){         // && fedt < ftestu) {
+        tax2 = 0;
+        while (Math.abs(tax1 - tax2) > 1) {
+            tax2 = tax1;
+            adjtte = (fedt - tax1);
+            tax1 = ((adjtte - ftestl) * fedPcent);  
+            printfed(f, rowc, trialc, tax1, adjtte);
+            trialc = (trialc + 1);
+        }
+    }
+    //Show Results
+    document.getElementById('ResultTOTAL').innerHTML = "The original taxable estate is " + fc(ilt) + " and the final result is " + fc(Math.round(tax1, 0));
+}
+
+function checktbl(z, p, e, c) {
+    if (0 <= z && 40000 > z) { c = 0; p = 0; e = 0; }
+    if (40000 <= z && 90000 > z) { c = 0; p = 0.008; e = 40000; }
+    if (90000 <= z && 140000 > z) { c = 400; p = 0.016; e = 90000; }
+    if (140000 <= z && 240000 > z) { c = 1200; p = 0.024; e = 140000; }
+    if (240000 <= z && 440000 > z) { c = 3600; p = 0.032; e = 240000; }
+    if (440000 <= z && 640000 > z) { c = 10000; p = 0.04; e = 440000; }
+    if (640000 <= z && 840000 > z) { c = 18000; p = 0.048; e = 640000; }
+    if (840000 <= z && 1040000 > z) { c = 27600; p = 0.056; e = 840000; }
+    if (1040000 <= z && 1540000 > z) { c = 38800; p = 0.064; e = 1040000; }
+    if (1540000 <= z && 2040000 > z) { c = 70800; p = 0.072; e = 1540000; }
+    if (2040000 <= z && 2540000 > z) { c = 106800; p = 0.08; e = 2040000; }
+    if (2540000 <= z && 3040000 > z) { c = 146800; p = 0.088; e = 2540000; }
+    if (3040000 <= z && 3540000 > z) { c = 190800; p = 0.096; e = 3040000; }
+    if (3540000 <= z && 4040000 > z) { c = 238800; p = 0.104; e = 3540000; }
+    if (4040000 <= z && 5040000 > z) { c = 290800; p = 0.112; e = 4040000; }
+    if (5040000 <= z && 6040000 > z) { c = 402800; p = 0.12; e = 5040000; }
+    if (6040000 <= z && 7040000 > z) { c = 522800; p = 0.128; e = 6040000; }
+    if (7040000 <= z && 8040000 > z) { c = 650800; p = 0.136; e = 7040000; }
+    if (8040000 <= z && 9040000 > z) { c = 786800; p = 0.144; e = 8040000; }
+    if (9040000 <= z && 10040000 > z) { c = 930800; p = 0.152; e = 9040000; }
+    if (10040000 <= z && 99999999999 > z) { c = 1082800; p = 0.16; e = 10040000; }
+
+[...]
+
+}
+
+function calc4il(t, f, rc, tc, temptax) {
+    var amt4tbl, amtabvbrk, rstabvbrk;
+
+    amt4tbl = (t - 60000);
+    checktbl(amt4tbl, prcnt, excess, credit);
+    amtabvbrk = (amt4tbl - excess);
+    rstabvbrk = (amtabvbrk * prcnt);
+    temptax = (rstabvbrk + credit);
+    var realprcnt = (prcnt * 100);
+    realprcnt = realprcnt.toFixed(1);

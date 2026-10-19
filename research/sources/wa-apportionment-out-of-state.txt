@@ -1,0 +1,15 @@
+URL: https://dor.wa.gov/taxes-rates/other-taxes/estate-tax/estate-tax-apportionment-out-state-property
+Lu le: 2026-10-19
+Titre: Estate tax apportionment for out of state property | Washington Department of Revenue
+
+Estate tax apportionment for out of state property
+An estate that contains out of state property must first calculate estate tax due on the entire estate as if all property is Washington property. Then, an apportionment calculation is done to determine estate tax payable.
+To determine the amount of estate tax payable if the estate contains out of state property, the tax computed on the entire estate is multiplied by a fraction. Generally, the numerator of the fraction is all Washington property and the denominator is the gross estate.
+If apportioning for out of state property:
+Complete the Washington State Estate Tax Addendum # 4 – Apportionment for Out of State Property (PDF 1.25MB)  form. This addendum can be completed electronically if you file your return using our My DOR services.
+
+[...]
+
+Out of state property defined
+In general terms, out of state property means property that is physically located outside of the state of Washington. Intangible personal property is allocated to the state of domicile of the decedent. Trust assets included in the gross estate of the decedent are identified as in state or out of state property based on the physical location for tangible personal property and real property or the decedent’s domicile for intangible personal property.
+Out of state property owned by a decedent domiciled in Washington is any tangible personal property and any real property located outside of Washington. Out of state property owned by a decedent domiciled outside of Washington is all intangible personal property, any tangible personal property and any real property located outside of Washington.

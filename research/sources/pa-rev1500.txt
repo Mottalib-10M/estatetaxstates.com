@@ -1,0 +1,305 @@
+URL: https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/inheritancetax/documents/rev-1500.pdf
+Lu le: 2026-10-19
+Titre: REV-1500 Pennsylvania Inheritance Tax Return Resident Decedent + Instructions for REV-1500, REV-1500 IN (EX) 08-24, PA Department of Revenue
+Note: texte extrait du PDF (pypdf), pages 2 (calcul de l impot) et 5 a 7 (instructions). Sur la ligne 16 le taux lineal apparait "X .0" a l extraction (champ de formulaire tronque) ; le taux 4,5 % est donne en toutes lettres dans les instructions.
+
+--- page 2 ---
+PAGE 2
+Decedent’s Name: 
+Decedent’s Social Security Number
+     RECAPITULATION 
+       1.   Real Estate (Schedule A). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1. 
+       2.   Stocks and Bonds (Schedule B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2. 
+       3.   Closely Held Corporation, Partnership, or Sole-Proprietorship (Schedule C) . . . . . . .  3. 
+       4.   Mortgages and Notes Receivable (Schedule D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4. 
+       5.   Cash, Bank Deposits, and Miscellaneous Personal Property (Schedule E) . . . . . . . .  5. 
+       6.   Jointly Owned Property (Schedule F)             Separate Billing Requested. . . . . . . . . .  6. 
+       7.   Inter-Vivos Transfers & Miscellaneous Non-Probate Property 
+             (Schedule G)                                                  Separate Billing Requested. . . . . . . . . .  7. 
+       8.   Total Gross Assets (total Lines 1 through 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8. 
+       9.   Funeral Expenses and Administrative Costs (Schedule H) . . . . . . . . . . . . . . . . . . . . .  9. 
+     10.   Debts of Decedent, Mortgage Liabilities, and Liens (Schedule I) . . . . . . . . . . . . . . . . 10. 
+      11.  Total Deductions (total Lines 9 and 10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11. 
+     12.   Net Value of Estate (Line 8 minus Line 11) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12. 
+     13.   Charitable and Governmental Bequests/Sec. 2113 Trusts for which 
+             an election to tax has not been made (Schedule J) . . . . . . . . . . . . . . . . . . . . . . . . . . . 13. 
+     14.   Net Value Subject to Tax (Line 12 minus Line 13) . . . . . . . . . . . . . . . . . . . . . . . . . . . 14. 
+      TAX CALCULATION - SEE INSTRUCTIONS FOR APPLICABLE RATES 
+      15.   Amount of Line 14 taxable 
+              at the spousal tax rate, or 
+              transfers under Sec. 2116 
+              (a)(1.2) or (1.4)                                                                                               X .0              15. 
+      16.   Amount of Line 14 taxable 
+              at lineal rate                                                                                                    X .0              16. 
+      17.   Amount of Line 14 taxable 
+              at sibling rate                                                                                                  X .12            17. 
+      18.   Amount of Line 14 taxable 
+              at collateral rate                                                                                              X .15            18. 
+     19.   TAX DUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19.
+Under penalties of perjury, I declare I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief,  
+it is true, correct, and complete. Declaration of preparer other than the person responsible for filing the return  is based on all information of which preparer has  
+any knowledge. 
+SIGNATURE OF PERSON RESPONSIBLE FOR FILING RETURN                                                                                                               DATE 
+ADDRESS 
+SIGNATURE OF PREPARER OTHER THAN PERSON RESPONSIBLE FOR FILING THE RETURN                                                         DATE 
+ADDRESS 
+1505624205
+15056242051505624205
+REV-1500 (EX) MOD 08-24 (FI)
+--- page 5 ---
+Instructions for REV-1500 
+Pennsylvania Inheritance Tax Return Resident Decedent
+REV-1500 IN (EX) 08-24
+IMPORTANT: All legal sized documents must be  
+reduced to 8 1/2 x 11 paper. 
+ 
+STATUTES AND GENERAL DESCRIPTIONS 
+Pennsylvania inheritance tax is imposed by the Inheritance 
+and Estate Tax Act of 1991, which applies to estates of  
+decedents who died on or after Oct. 3, 1991. The 1991 Act 
+[72 P.S. § 9101 et seq.] was amended in 1994, for estates  
+of decedents who died on or after July 1, 1994 and again  
+in 1995 for estates of decedents who died on or after Jan.  
+1, 1995. The PA Inheritance Tax was previously imposed by 
+the Inheritance and Estate Tax Act of 1961, which applies  
+to estates of decedents who died between Jan. 1, 1962,  
+and Dec. 13, 1982. The law was amended by Act 255 of  
+1982, which applies only to estates of decedents who died  
+between Dec. 13, 1982, and Oct. 3, 1991. Information on  
+applicability of inheritance tax to estates of decedents who  
+died before Jan. 1, 1962, can be obtained from the  
+Department of Revenue, Bureau of Individual Taxes. 
+Inheritance tax is a tax on the right of succession or privi -
+lege of receiving property at a death, and it is imposed  
+upon the transfer of taxable property. The net value subject 
+to tax is determined by subtracting from the value of the  
+gross estate the amount of approved deductions.  
+WHO MUST FILE 
+An inheritance tax return must be filed for every decedent  
+who has property which is or may be subject to tax. You  
+must file a return if you are:  
+• The personal representative. The personal representa -
+tive (executor or administrator appointed by the Register 
+of Wills) of the decedent’s estate is the person responsi-
+ble for filing the return and disclosing property of the  
+decedent that the personal representative has or  
+acquires knowledge of, or; 
+• The transferee of property. The transferee of property  
+should file a return if: no personal representative is  
+appointed, if the personal representative does not file a  
+return, or if the personal representative files a return but 
+does not include the subject property. 
+A “transferee” means any person to whom a transfer is  
+made and includes surviving joint tenants, beneficiaries,  
+heirs, legatees, devisees, grantees, assignees,  and  
+donees. The return must disclose any asset in which or  
+from which the transferee receives any ownership, interest, 
+income, possession or enjoyment, whether present or  
+future, and whether in trust or otherwise. Separate returns  
+are not to be filed by transferees for property included in a  
+personal representative’s return. The inclusion of property  
+in the return does not constitute an admission that its trans-
+fer is taxable.
+WHEN TO FILE 
+Returns must be filed within nine months after the death of  
+the decedent. Failure to file may subject the estate to a  
+penalty of 25 percent of the tax ultimately found to be due  
+or $1,000, whichever is less. 
+EXTENSION TO FILE 
+If the return cannot be filed within nine months from the  
+decedent’s date of death, an extension to file may be  
+requested from the Department of Revenue. Provide the  
+decedent’s name, county file number (if known), date of  
+death, Social Security number, and the reason for an  
+extension. The extension request must be made before the 
+return is due, and should be mailed to:  
+PA DEPARTMENT OF REVENUE 
+BUREAU OF INDIVIDUAL TAXES 
+INHERITANCE TAX DIVISION-EXT 
+PO BOX 280601 
+HARRISBURG PA  17128-0601 
+Or email the request to: RA-InheritanceTaxExt@pa.gov 
+Extensions will be granted for events beyond the control of 
+the estate such as litigation over assets and will disputes.  
+Extensions are not granted for events within the control of  
+the estate such as a failure to collect the information need-
+ed to complete the return. A response will not be sent  
+unless the extension request is rejected.  
+IMPORTANT: Granting of an extension to file does  
+not relieve the estate from the payment of tax.  
+Interest will accrue beginning nine months and one day  
+from the decedent’s death on any tax ultimately found to be 
+due and not timely paid. 
+WHERE TO FILE 
+The return is to be filed in duplicate with the Register of  
+Wills of the county in which the decedent was a resident at 
+the time of death. 
+FORMS AND SCHEDULES 
+Forms and schedules are available on the department’s  
+website at revenue.pa.gov  or by calling  
+1-800-362-2050. Services for Taxpayers with Special  
+Hearing and/or Speaking Needs: Dial 711 to use the  
+Telecommunications Relay Service (TRS), a text-based  
+telephone option. 
+Large quantities of forms must be ordered by written  
+request from: 
+PA DEPARTMENT OF REVENUE 
+BUREAU OF ADMINISTRATIVE SERVICES 
+TAX FORMS SERVICES UNIT 
+1854 BROOKWOOD STREET 
+HARRISBURG PA  17104-2244 
+GENERAL INFORMATION
+1revenue.pa.gov REV-1500
+--- page 6 ---
+2 revenue.pa.gov
+A list of schedules and a brief description can be found on  
+Page 7. 
+TAXABLE PROPERTY 
+In general, any items the decedent owned solely, as tenant-
+in-common, jointly, or in trust are taxable unless specifically 
+excluded by law. For additional information see instructions 
+for Schedules A, B, C, D, E, F, and G for descriptions of tax-
+able property. 
+ACTIVE-DUTY MILITARY MEMBER EXEMPTION 
+Effective for estates of decedents dying on or after  
+September 6, 2022, personal property that is transferred  
+from the estate of a serving military member who has died  
+as a result of an injury or illness received while on active  
+duty in the armed forces, a reserve component, or the  
+National Guard, is exempt from inheritance tax.  
+VALUATION 
+Generally, valuation is based on the fair market value as of 
+the decedent’s date of death. Special rules apply to the val-
+uation of life estates and future interests created by a dece-
+dent. See the instructions for Schedules K and M for more 
+information. 
+For estates of decedents dying on or after Jan. 1, 1995,  
+special rules exist for the valuation of a trust established for 
+the sole use of the surviving spouse. See the instructions  
+for Schedule O for further information.  
+Special rules also apply to the valuation of farmland. See  
+the instructions for Schedule A for further information con -
+cerning the special farm use valuation and agriculture  
+exemptions. 
+It is important to note that Pennsylvania does not have a  
+six-month alternate valuation date similar to that found in  
+the Internal Revenue Code. 
+DEDUCTIONS 
+Funeral expenses, administrative costs, and debts owed by 
+the decedent at the time of death are deductions allowed  
+against the inheritance tax liability. See the instructions for  
+Schedules H and I for descriptions of allowable deductions.  
+TAX RATES 
+The law in effect at the date of death is what governs the  
+tax rate. The following information is based on a date of  
+death on or after July 1, 2000.  Historical rates are located  
+on page 8. 
+Spousal Tax Rate: 0 percent 
+Any asset passing to a decedent’s spouse is taxed at 0 per-
+cent. No common-law marriage contracted after Jan. 1,  
+2005 shall be valid. Common-law marriages otherwise law-
+ful and contracted on or before Jan. 1, 2005 will be recog -
+nized when proved with sufficient evidence of its existence. 
+If satisfactory evidence of the common-law marriage does  
+not exist or the contract came into existence after Jan. 1,  
+2005 transfers to the surviving common-law spouse are  
+taxable at the collateral, or 15 percent rate.  
+Minor Child’s Estate: 0 percent 
+Transfers from the estate of a child age 21 or younger to  
+the child’s natural parent, adoptive parent, or stepparent  
+are subject to a zero tax rate.  
+Parental Transfers to Minor Children: 0 percent 
+For dates of death on or after January 1, 2020, transfers to 
+or for the use of a child twenty-one years of age or younger 
+from a natural parent, an adoptive parent, or a stepparent  
+of the child are subject to a zero tax rate.  
+Lineal Tax Rate: 4.5 percent 
+The lineal tax rate is applicable for transfers to:  
+Grandfather, grandmother, father, mother, children, un-
+remarried wife and husband, or widower of a child, and lin-
+eal descendants. “Children” includes natural children  
+whether or not they have been adopted by others, adopted 
+children, and stepchildren. “Lineal descendants” includes  
+all children of the natural parents and their descendants,  
+whether or not they have been adopted by others, adopted 
+descendants and their descendants, and step descen -
+dants. 
+Sibling Tax Rate: 12 percent 
+The sibling tax rate is applicable for transfers to: Brothers  
+or half-brothers, sisters or half-sisters; persons having at  
+least one parent in common with the decedent, either by  
+blood or by adoption. Transfers between stepsiblings are  
+subject to tax at the collateral rate.  
+Collateral Tax Rate: 15 percent 
+The collateral tax rate is applicable for transfers to all other 
+beneficiaries. This includes but is not limited to transfers to 
+or for the benefit of aunts, uncles, cousins, nieces,  
+nephews, friends, sister-in-law, brother-in-law, pets, and  
+entities not classified as a charity. 
+Charitable Bequests 
+Transfers to exempt charitable organizations, exempt insti-
+tutions, and government entities are exempt from tax.  
+DOCUMENTATION REQUIREMENT 
+If the decedent died testate or had maintained an inter-vivos 
+(living) trust, a copy of the will and/or trust document must be 
+submitted with the return. Additional verification or documen-
+tation on certain assets or deductions may be required by the 
+Department of Revenue to complete the review of this form. 
+The Department will request by letter, telephone, or email the 
+information needed. Failure to provide the information will  
+result in a delay of the processing of the return, or in the  
+issuance of an unfavorable assessment.  
+Any supplemental information which the estate representa-
+tive considers confidential should be submitted directly to:  
+PA DEPARTMENT OF REVENUE 
+BUREAU OF INDIVIDUAL TAXES 
+PO BOX 280601 
+HARRISBURG PA  17128-0601 
+Include a statement that the documents are not part of the  
+public record. Confidential documents need not be  
+attached to the return filed with the Register of Wills.  
+FILING A FALSE RETURN 
+Any person who willfully makes a false return or report com-
+mits a misdemeanor of the third degree, and fined twenty-
+five percent of the tax due or $1,000, whichever is less.  
+REV-1500
+--- page 7 ---
+3revenue.pa.gov
+PAYMENT OF TAX 
+Tax on property transfered is due within nine months of the 
+decedent’s death. 
+IMPORTANT: The granting of an extension to file the 
+tax return does not extend the time for payment of the 
+tax ultimately found to be due.  
+A 5 percent discount is allowed on the tax paid within three 
+months of the decedent’s death. No discount applies to any 
+amount that may be subsequently refunded.  
+The discount is capped at 5 percent of the total tax due. In  
+order to calculate discount amount: 
+• If an underpayment was made, divide the payment  
+made by 0.95. Example: tax due is $150, a payment  
+made in the discount period is $100; $100.00/0.95 =  
+$105.26 is the total of the payment and discount.  
+• If the correct amount or overpayment was made, multi -
+ply the total tax due by 5 percent to calculate discount.  
+Example: total tax due is $200; $200x0.05 = $10 is the  
+discount amount. 
+IMPORTANT: All checks must be made payable to  
+“Register of Wills, Agent” and presented to the  
+Register of Wills of the county where the decedent resided.  
+The commonwealth places no limitation on tax liability until 
+a proper and complete return is made and the return is  
+assessed by the Department of Revenue.  
+NOTE: A prepayment of tax may be made at the  
+Register of Wills before the REV-1500 is filed. In  
+writing, supply the Register with the decedent’s full name,  
+date of death, and Social Security number along with the  
+prepayment. 
+INTEREST 
+Interest is charged beginning with the first day of delin -
+quency, or nine months and one day from the date of death, 
+to the date of payment. The applicable interest rates (REV-
+1611) can be found by visiting the department’s online serv-
+ices at revenue.pa.gov. 
+An interest and penalty calculator is available at  
+mypath.pa.gov. 

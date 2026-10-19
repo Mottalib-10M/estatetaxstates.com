@@ -1,0 +1,12 @@
+URL: https://services.marylandcomptroller.gov/taxes/en/estate-and-inheritance-tax?id=kb_article_view&sysparm_article=KB0010045
+Lu le: 2026-10-19
+Titre: Tax Guidance - Estate and Inheritance Tax - Taxpayer Services (Comptroller of Maryland, article KB0010045 ; page rendue en JavaScript, lue via Chrome)
+
+The Maryland estate tax is a state tax imposed on the privilege of transferring property. Simply stated, the tax consists of an accounting of everything a decedent owned or had certain interests in at the date of death. The tax is administered and collected by the Comptroller of Maryland and is due within nine (9) months after the decedent's date of death. See the MET-1 Estate Tax Return and the links below for more information.
+
+The Maryland inheritances tax is a tax imposed on the privilege of receiving property. The tax is collected by the Register of Wills located in the county where the decedent either lived or owned property and is not due until the property is distributed from the estate. For more information, contact the Office of the Register of Wills.
+
+[...]
+
+Note de collecte : l'article KB0010216 « 2026 Estate and Fiduciary Forms » (https://services.marylandcomptroller.gov/taxes/en/2026-estate-and-fiduciary-forms?id=kb_article_view&sysparm_article=KB0010216) contient le lien « Download Form MET 1 » vers https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/forms/2026/met-1.pdf, décrit comme « Estate Tax Return for decedents dying after December 31, 2018 ».
+Le site du Register of Wills (registers.maryland.gov) n'a pas pu être lu (connexion refusée depuis curl, WebFetch et Chrome).

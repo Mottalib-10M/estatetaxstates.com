@@ -1,0 +1,243 @@
+URL: https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/forms/2026/met-1.pdf
+Lu le: 2026-10-19
+Titre: Form MET 1, Maryland Estate Tax Return, Rev. 07/26 (to be used for decedents dying after December 31, 2018), Comptroller of Maryland — lien depuis l'article KB0010216 « 2026 Estate and Fiduciary Forms »
+
+COM/RAD-101 18-49
+Form MET 1
+Rev. 07/26
+USE THIS AREA FOR DATE STAMPS
+Revenue Administration Division
+P.O. Box 828
+Annapolis, MD 21404-0828
+MARYLAND ESTATE TAX RETURN
+To be used for decedents dying after December 31, 2018
+Attach the Federal Estate Tax Return, Form 706. Please print or type.
+SECTION ISECTION II
+Decedent information:   Nonresident _______________ (indicate Maryland county in which taxable property is located)
+ First Name Middle name Last name Social Security number
+Address at date of death (Po Box, Number, Street and Apt. No.)
+Address Line 2 (Apt No., Suite No., Floor No.)
+City County State ZIP code
+Date of death Due date of return (nine months after date of death)  Extended due date of return (Attach copy of extension)
+
+[...]
+
+COM/RAD-101 18-49
+Certification of Register of Wills:
+I, _____________________________________Register of Wills for ___________________________________________
+hereby certify that Maryland inheritance taxes totaling  _________________ have been paid as of  ____________________________
+Signed ___________________________________________
+
+[...]
+
+1. Federal total gross estate (from line 1, federal Form 706) ... 1. $
+2. Property for which a QTIP election was previously made on a form MET 1
+filed for the estate of the decedent’s pre-deceased spouse (to the extent
+not included in line 1) (from line 1 of Schedule C)
+.........  2. $
+3. Augmented gross estate (add lines 1 and 2)...............  3. $
+4. Federal total allowable deductions (from line 2, federal Form 706) 4. $
+5. Maryland QTIP election this return (from line 1 of Schedule D) 5. $
+6. Total deductions (add lines 4 and 5) .................... 6. $
+7. Maryland estate tax base (subtract line 6 from line 3).
+Do not enter less than zero$ .......................... 7.
+8. Complete lines 8b-8c. Subtract 8c from line 7 and enter here
+(Do not enter less than zero) If line 8 is zero, skip lines 9 through 14
+and enter zero on line 15  ...........................  8. $
+a. Maryland estate tax exclusion amount  ....  8a. $
+b. Enter the Maryland deceased spousal unused
+exclusion amount from Schedule F, Part II,
+Line 3 if applicable. Otherwise enter zero  ..  8b. $
+c. Total (add lines 8a and 8b) ............   8c. $
+9. Multiply line 8 by 16% (.16)  .........................   9. $
+COMPLETE AND ATTACH MARYLAND SCHEDULE B FOR LINE 10
+10. Allowable maximum credit for state death taxes (from line 13 of
+Schedule B) ....................................   10. $
+IF LINE 10 IS ZERO, OR IF ALL PROPERTY WITHIN THE AUGMENTED GROSS 
+ESTA
+TE HAS A MARYLAND TAX SITUS, SKIP TO LINE 13
+11. Percentage of Maryland estate to augmented gross estate (Schedule
+A, line 27)%
+12. Maryland apportioned credit (line 11 times line 10)  ........   12. $
+13. Gross Maryland estate tax liability (enter the lesser of lines 9, 10 and 12,
+whichever is applicable)  ..........................   13.  $
+14. a. Maryland inheritance tax paid .........   14a. $
+b. Death tax paid to another state on assets
+also included in the Maryland estate ...  14b. $
+c. Total (add lines 14a and 14b) .....................   14c. $
+15. Net Maryland estate tax (line 13 minus line 14c) ...........   15. $
+16. a.  Estimated tax previously remitted ....   16a. $
+b. Maryland estate tax previously remitted
+(amended returns only)  ...........  16b. $
+c. Total (add lines 16a and 16b)  .........   16c. $
+17. Maryland estate tax due or (overpayment) (line 15 minus line 16c) ..   17. $
+18. Interest charges ................................   18. $
+19. Penalty charges .................................   19. $
+20. Total balance due or (overpayment)(add lines 17, 18, and 19)  ..  20. $
+21. Amount of overpayment to be refunded ............ REFUND  
+22. Total balance due ......... Pay in full when filing this return  
+3
+5,000,000.00
+
+[...]
+
+augmented gross estate on line 3 includes Maryland 
+property and property located outside the state of 
+Maryland, complete Maryland Schedule A first. Then 
+enter on line 11, the percentage of the Maryland 
+estate from line 27 on Schedule A. Multiply line 11 
+times line 10 and enter the result on line 12.
+Line 13 If the augmented gross estate includes only 
+Maryland property, enter the lesser of line 9 or line 
+10. If the augmented gross estate includes property 
+in Maryland and outside the state, enter the lesser 
+of line 9 or 12. The amount reported on line 13 is 
+the gross Maryland estate tax liability. This amount 
+must be satisfied by the due date of the return 
+shown on page 1 to avoid interest and penalty.
+Line 14b Enter the portion of any tax paid to another state or 
+territory on property included in the Maryland estate 
+shown on line 26 of Schedule A. You must provide 
+evidence of payment and attach your computation 
+of this credit. 
+ More information about the credit for death 
+tax paid to another state: The Maryland estate 
+tax is the amount, if any, by which the federal credit 
+exceeds the total of death taxes other than the 
+Maryland estate tax that: (i) are imposed by a state 
+on property included in the Maryland estate; (ii) are 
+allowable in computing the federal credit; and (iii) 
+
+[...]
+
+[page 5]
+COM/RAD-101 18-49
+(Percent) (Percent)
+0 $40,000 0 None 2,040,000 2,540,000 106,800 8.0
+$40,000 90,000 0 0.8 2,540,000 3,040,000 146,800 8.8
+90,000 140,000 $400 1.6 3,040,000 3,540,000 190,800 9.6
+140,000 240,000 1,200 2.4 3,540,000 4,040,000 238,800 10.4
+240,000 440,000 3,600 3.2 4,040,000 5,040,000 290,800 11.2
+440,000 640,000 10,000 4.0 5,040,000 6,040,000 402,800 12.0
+640,000 840,000 18,000 4.8 6,040,000 7,040,000 522,800 12.8
+840,000 1,040,000 27,600 5.6 7,040,000 8,040,000 650,800 13.6
+1,040,000 1,540,000 38,800 6.4 8,040,000 9,040,000 786,800 14.4
+1,540,000 2,040,000 70,800 7.2 9,040,000 10,040,000 930,800 15.2
+10,040,000 - - - - - - - 1,082,800 16.0
+Form MET 1
+Schedule B
+Rev. 
+07/26
+SCHEDULE B
+Use this schedule and worksheet to complete line 10, of the Maryland estate tax return 
+if the decedent died after December 31, 2018
+1. Maryland estate tax base (from line 7 Section IV of the Maryland
+Estate Tax Return).......................................................   1.  $
+2. Less $60,000 adjustment ..................................................   2.   $ ____________________
+3. Adjusted taxable estate (subtract line 2 from line 1) ...............................   3.  $
+Complete lines 4-13 using table A from the Federal Form 706 Instructions and table B below to determine the allowable maximum 
+credit for state death taxes for purpose of the Maryland estate tax.
+(60,000.00)
+Table B - Computation of Maximum Credit for State Death Taxes
+(1) (2) (3) (4) (1) (2) (3) (4)
+Adjusted 
+taxable estate 
+equal to or 
+more than –
+Adjusted 
+taxable estate 
+less than –
+Credit on 
+amount in 
+column (1)
+Rate of credit 
+on excess over 
+amount in 
+column (1)
+Adjusted 
+taxable estate 
+equal to or 
+more than
+Adjusted 
+taxable estate 
+less than
+Credit on 
+amount in 
+column (1)
+Rate of credit 
+on excess over 
+amount in 
+column (1)
+4. Enter line 7, Section IV from the Maryland estate tax return  ........................ 4.  $
+5. Enter line 4 from the federal Form 706, adjusted taxable gifts .......................  5.  $
+6. Add lines 4 and 5 ...................................................... 6.  $
+7. Tentative federal tax on the amount on line 6 using Table A from the Federal Form 706 instructions..  7.  $
+8. Total gift tax payable, from line 7 of the federal Form 706 ..........................  8.  $
+9. Gross federal estate tax – subtract line 8 from line 7  .............................   9.  $
+10. Complete lines 10a and 10b. Add lines 10a and 10b and enter here.  ..................   10.  $
+a. Allowable unified credit of $1,945,800 reduced by any adjustments reported on line 10 of
+    the federal Form 706. Do not use Unified Credit from federal Form 706 ....  10a. $
+b. Enter amount from Schedule F, Part II, Line 4. If not applicable, enter $0 ...   10b. $
+11. Subtract line 10 from line 9 (do not enter less than zero)  ..........................   11.  $
+If line 11 is zero, STOP here and enter zero on line 10 of the Maryland estate tax return.
+Otherwise, continue to line 12 of Schedule B.
+12. Maximum credit for state death taxes. Calculate the credit using Table B above and the Adjusted
+Taxable Estate on line 3 of Schedule B and enter here  .......................... 12.  $
+13. Enter the lesser of line 11 or 12. This is the allowable maximum credit for state death taxes.
+Enter on line 10 of the Maryland Estate Tax Return ...........................   13.  $
+Decedent information:
+
+[...]
+
+GENERAL INSTRUCTIONS
+For estates of decedents dying after December 31, 2018
+When the Form MET 1 must be filed: A Maryland estate tax return 
+(Form MET 1) must be filed where the federal gross estate plus 
+adjusted taxable gifts plus, property for which a Maryland QTIP 
+election was previously made on a Form MET 1 filed for the estate 
+of the decedent’s predeceased spouse equals or exceeds 
+$5,000,000, and the decedent at the date of death was:
+ 1. A resident of the State of Maryland or
+ 2.  A nonresident of the State of Maryland whose estate 
+includes any interest in real property permanently located 
+in this State; or 
+tangible personal property that has a 
+taxable situs in this State.
+The Maryland estate tax return must be filed within nine months 
+after the date of death of the decedent, even if the federal estate 
+tax return (IRS Form 706) is not required to be filed with the 
+Internal Revenue Service.
+Who must file Form MET 1:  The duly appointed personal 
+representative shall file the return. If there is more than one 
+
+[...]
+
+attachments to the Maryland Estate Tax Return. To request these 
+forms, please call the Estate Tax Unit at (410) 260-7850. 
+Portability of the Maryland Deceased Spousal Unused 
+Exclusion (DSUE):  Portability provides that any unused basic 
+exclusion amount
+ that remains at the death of the last deceased
+ 
+spouse (called the “deceased spousal unused exclusion amount”) 
+may be used by the surviving spouse, in addition to the surviving 
+spouse’s own exclusion. The last deceased spouse is the most 
+recently deceased person who was married to the surviving spouse 
+at the time of the surviving spouse’s death. 
+All portability elections must be made in accordance with MD Code, 
+Tax - General, § 7-309. 
+Portability can only be elected on a timely filed estate tax return of 
+the predeceased spouse whose exclusion is intended to be used, 
+regardless of whether the estate of the predeceased spouse is 
+otherwise required to file a tax return. If a person files a Maryland 
+estate tax return solely for the purpose of making a portability 
+election, the personal representative shall file the Maryland estate 
+tax return within 5 years after the date of death of the decedent. 
+The DSUE amount can only be claimed by surviving spouses who 
+die on or after January 1, 2019. The DSUE amount cannot exceed 
+$5,000,000 or the amount of the unused basic exclusion amount, 
+whichever is less. 
+How to Elect Portability:
+Nonresident Predeceased Spouses or Predeceased 
+Spouses Dying Prior to 1/1/2019
+To elect portability of the decedent's unused exclusion amount 

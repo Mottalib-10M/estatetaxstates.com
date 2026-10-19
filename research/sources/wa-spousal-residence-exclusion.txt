@@ -1,0 +1,30 @@
+URL: https://dor.wa.gov/taxes-rates/other-taxes/estate-tax/estate-tax-spousal-personal-residence-exclusion
+Lu le: 2026-10-19
+Titre: Estate tax spousal personal residence exclusion | Washington Department of Revenue
+
+Estate tax spousal personal residence exclusion
+For people who pass away on or after January 1, 2025, the personal residence of married or registered domestic partnership couples (spouses) may be excluded from the calculation when determining if the gross estate of the decedent meets the filing requirements.
+The personal residence exclusion is only used to determine if a filing is required. The personal residence value is not excluded from the gross estate if the remainder of the decedent’s assets meets or exceeds the filing threshold.
+What is a personal residence?
+The term “personal residence” includes any of the following:
+House and the spousal owned land the house sits on.
+Mobile home or park model, if it is fixed to a foundation on the spousal owned land it sits on (no longer considered a mobile unit).
+A single-unit dwelling (such as a condo).
+Houseboat or floating home.
+Leasehold property (such as a cabin on government property).
+DST (Delaware Statutory Trust co-op owned percentage) residence.
+Requirements to exclude the spousal personal residence
+The following requirements must be met for the personal residence to be excluded from the calculation of the gross estate when determining if the estate meets the filing threshold:
+No other elections are required of the estate’s filing.
+If the estate wishes to elect the treatment of a trust or portion of a trust as a qualified terminable interest property (QTIP) trust, they must file even if below the filing threshold.
+There must be a surviving spouse.
+If the spouses die in simultaneous deaths, the personal residence exclusion would not apply. See Chapter 11.05A RCW for explanation of simultaneous deaths.
+The personal residence must pass to the surviving spouse.
+If the personal residence passes outright, then no filing is needed when rest of requirements are met.
+If the personal residence passes into an irrevocable trust (credit shelter, bypass, B, exemption, exclusion, etc.), for the benefit of the surviving spouse, and no QTIP election is made for any part of the trust, then no filing is needed when the rest of the requirements are met.
+If the personal residence passes into a QTIP-elected trust for IRS purposes and the estate wishes to make a different election for Washington state, then a filing must be filed to make election regardless of filing threshold.
+Both spouses must have occupied the personal residence for at least six months of the year prior to death.
+If one or both spouses were in long-term care (hospital, nursing home, assisted living facility, etc.) during the year prior to death, the personal residence still qualifies, as long as neither of them resided for more than six months during that year in another personal residence.
+The personal residence may be rented to another person if both spouses are in long-term care.
+The decedent’s gross estate value, after removing the decedent’s share of the personal residence, is below the current filing threshold.
+For estate tax filing threshold amounts, see the Filing thresholds and exclusion amounts table.

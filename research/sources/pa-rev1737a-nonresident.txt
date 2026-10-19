@@ -1,0 +1,254 @@
+URL: https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/inheritancetax/documents/rev-1737-a.pdf
+Lu le: 2026-10-19
+Titre: REV-1737-A Inheritance Tax Return Nonresident Decedent + Instructions REV-1737-A IN (EX) MOD 03-19, PA Department of Revenue
+Note: texte extrait du PDF (pypdf), pages 1 a 5.
+
+--- page 1 ---
+INTERNAL USE ONLY
+DATE FILED
+REV-1737-A 
+BurEau OF InDIvIDual TaXEs 
+PO BOX 280601 
+HarrIsBurg, Pa 17128-0601
+OFFICIAL USE ONLY
+INHERITANCE TAX RETURN 
+NONRESIDENT DECEDENT
+PAGE 1
+File Number
+ DECEDENT INFORMATIONSECTION I
+ RETURN TYPESECTION II
+ TAX COMPUTATION METHODSECTION III
+FILL IN ALL OVALS THAT APPLY
+Original Estate Return
+Flat Rate Proportionate Rate (Complete Section X on Page 3)Check one:
+1.  Decedent Died Testate 2.  Spouse is Sole Beneficiary 3.  Federal Estate Tax Return Required
+6.  Business Assets
+9.  Deferral/Election of Spousal Trust
+5.  Family-Owned Business Exemption
+10.____ Total Number of Safe Deposit Boxes
+4.  Agricultural Exemption
+Supplemental Estate Return
+(Only include items not previously 
+reported)
+(Date of death prior to 12/ 13/1982)(Individual reporting non-probate assets 
+separate from the estate; Schedule F  
+and G assets only)
+Individual-Transferee Return Remainder Return
+(Attach copy of Will) (With no Trust involved)
+(Date of death after 6/30/2013)(Date of death after 6/30/2012)
+7.  Decedent Maintained Living Trust
+(Attach copy of Trust)
+8.  Future Interest Compromise
+(Date of death after 12/12/1982)
+ CORRESPONDENT INFORMATIONSECTION IV
+ SIGNATURESSECTION V
+ Street Address 
+ City  State  ZIP Code
+ Correspondent’s Name
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief it is true, correct and complete. Declaration of preparer other than the personal representative is based on all inf ormation of which preparer  
+has any knowledge.
+ Street Address 
+ Signature of Preparer other than Representative
+ Date
+ Date
+ Signature of Person Responsible for Filing Return
+ Street Address 
+ Daytime Telephone Number Correspondent’s Email Address 
+Spouse’s Last Name
+Last Four Digits of 
+Spouse’s SSNSpouse’s First Name MI
+Decedent’s Last Name Suffix Decedent’s First Name MI
+Date of Death MMDDYYYY Date of Birth MMDDYYYY Social Security Number
+(If Applicable) Enter Surviving Spouse’s Information Below
+1737019105
+17370191051737019105
+(EX) MOD 03-19 (FI)
+--- page 2 ---
+Decedent’s Name: 
+Social Security Number
+PAGE 2
+ DECEDENT ADDRESSSECTION VI
+ RECAPITULATIONSECTION VII
+ Street Address 
+ City  State  ZIP Code
+     RECAPITULATION 
+       1.   Real Estate (Schedule A). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1. 
+       2.   Stocks and Bonds (Schedule B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2. 
+       3.   Closely Held Corporation, Partnership or Sole-Proprietorship (Schedule C) . . . . . . . . . . . . .    3. 
+       4.   Mortgages and Notes Receivable (Schedule D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4. 
+       5.   Cash, Bank Deposits and Miscellaneous Personal Property (Schedule E) . . . . . . . . . . . . . .    5. 
+       6.   Jointly Owned Property (Schedule F)             Separate Billing Requested . . . . . . . . . . . . . . .    6. 
+       7.   Inter-Vivos Transfers & Miscellaneous Non-Probate Property 
+             (Schedule G)                                                  Separate Billing Requested.. . . . . . . . . . . . . . .    7. 
+       8.   Total Gross Assets (total Lines 1 through 7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8. 
+       9.   Funeral Expenses and Administrative Costs (Schedule H) . . . . . . . . . . . . . . . . . . . . . . . . . . .    9. 
+     10.   Debts of Decedent, Mortgage Liabilities and Liens (Schedule I) . . . . . . . . . . . . . . . . . . . . . .  10. 
+      11.  Total Deductions (total Lines 9 and 10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11. 
+     12.   Net Value of Estate (Line 8 minus Line 11) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12. 
+     13.   Charitable and Governmental Bequests/Sec. 2113 Trusts for which 
+             an election to tax has not been made (Schedule J) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13. 
+     14.   Net Value Subject to Tax (Line 12 minus Line 13) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14. 
+                                 
+      SEE INSTRUCTIONS FOR APPLICABLE RATES 
+     15.   Amount of Line 14 taxable 
+             at the spousal tax rate, or  
+             transfers under Sec. 2116 
+             (a)(1.2) or (1.4)                                                                                                     X .0      15. 
+     16.   Amount of Line 14 taxable 
+             at lineal rate                                                                                                          X .0      16. 
+     17.   Amount of Line 14 taxable 
+             at sibling rate                                                                                                        X .12             17. 
+     18.   Amount of Line 14 taxable 
+             at collateral rate                                                                                                    X .15             18. 
+     19.   TAX DUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19.
+ TAX CALCULATIONSECTION VIII
+1737019205
+1737019205
+REV-1737-A (EX) MOD 03-19 (FI)
+1737019205
+--- page 3 ---
+PAGE 3
+Decedent’s Name: 
+1.     Tax Due (Page 2, Line 19) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1.
+        Payment 1
+2.     Prior Payments - Enter total payment amount on Line 2  
+         (If more than one prior payment was made, list each payment separately.)
+5.     If Line 2 + Line 3 is greater than Line 1 + Line 4, enter the difference. This is the OVERPAYMENT. . .5. 
+        Complete the OVERPAYMENT Section below
+1. Total Pennsylvania real property and tangible personal property  
+located in Pennsylvania  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(1)
+2. Total gross assets wherever situated (Page 2 Line 8)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(2)
+3. Proportion (Divide Line 1 by Line 2)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(3)
+4. Total debts and deductions and amounts devised to charitable organizations  
+(Add Page2 lines 11 and 13)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(4)
+6. Spousal transfers or transfers under Sec. 2116 (a)(1.2) or (1.4) 
+Amount Taxable at            % X Proportion (Line 3)  . . . . . . . . . . . . .                                       X                                         = (6)
+7. Amount Taxable at lineal rate X  
+Proportion (Line 3)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       X                                         = (7)
+8. Amount Taxable at sibling rate X  
+Proportion (Line 3)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       X                                         = (8)
+9. Amount Taxable at collateral rate X 
+Proportion (Line 3)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       X                                         = (9)
+5. Taxable Estate as if a Pennsylvania resident (Subtract Line 4 from Line 2)  . . . . . . . . . . . . . .(5)
+Make check payable to: COMMONWEALTH OF PENNSYLVANIA
+The results of Lines 6 thru 9 are to be entered on Page 2, Section VIII Lines 15 thru 18 of the Tax Calculation respectively.
+ TAX PAYMENTS AND CREDITSSECTION IX
+ PROPORTIONATE RATE COMPUTATIONSECTION X
+Social Security Number
+OVERPAYMENT: (select one oval)
+Leave overpayment on the account*
+Issue a partial refund and leave the remaining amount on the account* . . . . . . . . . . . Refund Amount $
+Issue a refund of the entire overpayment
+Important: Estate refunds will be issued in the name of the estate and mailed to the correspondent on file at the time of issuance. If yo u are unable to 
+cash a refund check in the name of the estate or the refund should be mailed to another individual, a representative of the estate may request a change. 
+See instructions for additional information. 
+*The department will only maintain an overpayment for 3 years.
+        Payment 2
+        Payment 3
+        Payment 4                                                                        . . . . . . . . . . . . . . . . . . . . .Total Amount Paid 2. 
+         (If additional space is needed, attach a separate piece of paper)
+3.     Discount - Only if applicable (See Instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3.
+4.     Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4.
+6.     If Line 1 + Line 4 is greater than Line 2 + Line 3, enter the difference. This is the TAX DUE . . . . . .   6.
+1737019305
+17370193051737019305
+REV-1737-A (EX) MOD 03-19 (FI)
+--- page 4 ---
+
+--- page 5 ---
+REV-1737-A 1www.revenue.pa.gov
+ 
+STATUTES AND GENERAL DESCRIPTION 
+The Pennsylvania Inheritance Tax is imposed by the  
+Inheritance and Estate Tax Act of 1991 which applies to  
+decedents dying on or after October 3, 1991. The 1991 Act 
+[72 P.S. § 9101 et seq.] was amended in 1994 for  
+decedents dying on or after July 1, 1994 and again in 1995 
+for decedents dying on or after January 1, 1995. The  
+Pennsylvania Inheritance Tax was previously imposed by  
+the Inheritance and Estate Tax Act of 1961 which applies to 
+decedents who died between January 1, 1962 and  
+December 13, 1982. The law was amended by Act 255 of  
+1982 which applies only to decedents dying on or after  
+December 13, 1982. 
+Inheritance Tax is a tax on the right of succession or  
+privilege of receiving property at a death, and it is imposed  
+upon the transfer of taxable property. The net value subject 
+to tax is determined by subtracting from the value of the  
+gross estate the amount of legal deductions.  
+Section 2116(b) (2) of the Inheritance and Estate Tax Act of 
+1991 sets forth the method of computation of Inheritance  
+Tax in the estate of a nonresident decedent: 
+“When the decedent was a nonresident, the tax shall be  
+computed upon the value of real property and tangible  
+personal property having its situs in this Commonwealth, in 
+excess of unpaid property taxes assessed on the property  
+and any indebtedness for which it is liened, mortgaged or  
+pledged, at the rates in effect at the transferor’s death. The 
+person liable to make the return under Section 2136 
+(relating to returns) may elect to have the tax computed as  
+if the decedent was a resident and his entire estate was  
+property having its situs in this Commonwealth and the tax  
+due shall be the amount which bears the same ratio to the  
+tax thus computed as the real property and tangible  
+personal property located in this Commonwealth bears to  
+the entire estate of the decedent.” 
+The election of the method of computing the nonresident  
+inheritance tax is made by filling in the appropriate oval on  
+Page 1, Part III of the REV-1737-A, Inheritance Tax Return 
+Nonresident Decedent.  
+ 
+An Inheritance Tax Return must be filed for every decedent 
+who has property which is or may be subject to tax. You  
+must file a return if you are:  
+  ●  The personal representative . The personal  
+representative (executor or administrator appointed by  
+the Register of Wills) of the decedent’s estate is the  
+person responsible for filing the return and disclosing  
+property of the decedent that the personal  
+representative has or acquires knowledge of, or;  
+  ●  The transferee of property . The transferee of property  
+should file a return if: no personal representative is  
+appointed, if the personal representative does not file a 
+return, or if the personal representative files a return  
+but does not include the subject property.  
+A “transferee” means any person to whom a transfer is  
+made and includes surviving joint tenants, beneficiaries,  
+heirs, legatees, devisees, grantees, assignees, donees.  
+The return must disclose any asset in which or from which  
+the transferee receives ownership, interest, income,  
+possession or enjoyment, whether present or future, and  
+whether in trust or otherwise. 
+Separate returns are not to be filed by transferees for 
+property included in a personal representative’s  
+return.  
+The inclusion of property in the return does not constitute  
+an admission that its transfer is taxable.  
+ 
+A return must be filed within nine months after the death of 
+the decedent. 
+ 
+If the return cannot be filed within nine months from the  
+decedent’s date of death, an extension of time to file can be 
+requested from the Department of Revenue. The  
+department will issue a one-time six month extension.  
+Provide the decedent’s name, file number (if known), date 
+of death, social security number and the reason for an  
+extension. Also include the name, address, and phone  
+number of the person responsible for filing the return. The  
+extension request must be made before the return is due,  
+and should be mailed to: 
+         PA DEPARTMENT OF REVENUE 
+         BUREAU OF INDIVIDUAL TAXES 
+         INHERITANCE TAX DIVISION-EXT 
+         PO BOX 280601 
+         HARRISBURG PA 17128-0601
+GENERAL INFORMATION
+WHO MUST FILE 
+WHEN TO FILE
+EXTENSION TO FILE
+Pennsylvania Department of Revenue 
+Instructions for REV-1737-A 
+Pennsylvania Inheritance Tax return nonresident DecedentrEv-1737-a In (EX) MOD 03-19
+--- page 6 ---

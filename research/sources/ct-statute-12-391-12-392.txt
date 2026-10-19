@@ -1,0 +1,53 @@
+URL: https://www.cga.ct.gov/current/pub/chap_217.htm
+Lu le: 2026-10-19
+Titre: Connecticut General Statutes, Chapter 217 Estate Tax (Sec. 12-391, Sec. 12-392) - Connecticut General Assembly
+
+Note: Readers should refer to the 2026 Supplement, revised to January 1, 2026, for updated versions of statutes amended, repealed or added during the 2025 legislative sessions.
+Sec. 12-391. Transfer of resident and nonresident estates. Definitions. Rate of tax. Determination of domicile. Limit on tax payable. Reduction of tax for investment in private investment fund.
+Sec. 12-392. Payment of tax. Penalties for late filing. Extension of time. Interest on overpayment. Method of filing. Notice to court of probate.
+
+[...]
+
+(4) “Federal basic exclusion amount” means the dollar amount published annually by the Internal Revenue Service at which a decedent would be required to file a federal estate tax return based on the value of the decedent's gross estate and federally taxable gifts.
+
+[...]
+
+(E) With respect to the estates of decedents who die on or after January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a resident of this state. The amount of the tax shall be determined using the schedule in subsection (g) of this section. A credit shall be allowed against such tax for (i) any taxes paid to this state pursuant to section 12-642 by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section 12-642 for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed fifteen million dollars. Such fifteen-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section 12-642 by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section 12-642 for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.
+
+[...]
+
+(D) With respect to the estates of decedents who die on or after January 1, 2019, a tax is imposed upon the transfer of the estate of each person who at the time of death was a nonresident of this state. The amount of such tax shall be computed by multiplying the amount of tax determined using the schedule in subsection (g) of this section by a fraction, the numerator of which is the value of that part of the decedent's gross estate over which this state has jurisdiction for estate tax purposes, and the denominator of which is the value of the decedent's gross estate. A credit shall be allowed against such tax for (i) any taxes paid to this state pursuant to section 12-642 by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2005, and (ii) any taxes paid by the decedent's spouse to this state pursuant to section 12-642 for Connecticut taxable gifts made by the decedent on or after January 1, 2005, that are includable in the gross estate of the decedent, provided such credit shall not exceed the amount of tax imposed by this section. In no event shall the amount of tax payable under this section exceed fifteen million dollars. Such fifteen-million-dollar limit shall be reduced by the amount of (I) any taxes paid to this state pursuant to section 12-642 by the decedent or the decedent's estate for Connecticut taxable gifts made on or after January 1, 2016, and (II) any taxes paid by the decedent's spouse to this state pursuant to section 12-642 for Connecticut taxable gifts made by the decedent on or after January 1, 2016, that are includable in the gross estate of the decedent, but in no event shall the amount be reduced below zero.
+
+[...]
+
+(9) With respect to the estates of decedents dying on or after January 1, 2023, the tax based on the Connecticut taxable estate shall be as provided in the following schedule:
+Amount of Connecticut
+Taxable Estate
+|
+Rate of Tax
+|
+|
+|
+Not over the
+|
+None
+|
+federal basic exclusion amount
+|
+|
+Over the
+|
+12% of the excess over the
+|
+federal basic exclusion amount
+|
+federal basic exclusion amount
+|
+
+[...]
+
+Sec. 12-392. Payment of tax. Penalties for late filing. Extension of time. Interest on overpayment. Method of filing. Notice to court of probate. (a)(1) For the estates of decedents dying prior to July 1, 2009, the tax imposed by this chapter shall become due at the date of the taxable transfer and shall become payable, and shall be paid, without assessment, notice or demand, to the Commissioner of Revenue Services at the expiration of nine months from the date of death. For the estates of decedents dying on or after July 1, 2009, the tax imposed by this chapter shall become due at the date of the taxable transfer and shall become payable and shall be paid, without assessment, notice or demand, to the commissioner at the expiration of six months from the date of death. Executors, administrators, trustees, grantees, donees, beneficiaries and surviving joint owners shall be liable for the tax and for any interest or penalty thereon until it is paid, notwithstanding any provision of chapter 802b, except that no executor, administrator, trustee, grantee, donee, beneficiary or surviving joint owner shall be liable for a greater sum than the value of the property actually received by him or her. If the amount of tax reported to be due on the return is not paid, for the estates of decedents dying prior to July 1, 2009, within such nine months, or for the estates of decedents dying on or after July 1, 2009, within such six months, there shall be imposed a penalty equal to ten per cent of such amount due and unpaid, or fifty dollars, whichever is greater. Such amount shall bear interest at the rate of one per cent per month or fraction thereof from the due date of such tax until the date of payment. Subject to the provisions of section 12-3a, the commissioner may waive all or part of the penalties provided under this chapter when it is proven to the commissioner's satisfaction that the failure to pay any tax was due to reasonable cause and was not intentional or due to neglect.
+
+[...]
+
+(J) A tax return shall be filed, in the case of every decedent who dies on or after January 1, 2023, and at the time of death was (i) a resident of this state, or (ii) a nonresident of this state whose gross estate includes any real property situated in this state or tangible personal property having an actual situs in this state. If the decedent's Connecticut taxable estate is over the federal basic exclusion amount, such tax return shall be filed with the Commissioner of Revenue Services and a copy of such return shall be filed with the court of probate for the district within which the decedent resided at the date of his or her death or, if the decedent died a nonresident of this state, the court of probate for the district within which such real property or tangible personal property is situated. If the decedent's Connecticut taxable estate is equal to or less than the federal basic exclusion amount, such return shall be filed with the court of probate for the district within which the decedent resided at the date of his or her death or, if the decedent died a nonresident of this state, the court of probate for the district within which such real property or tangible personal property is situated, and no such return shall be filed with the Commissioner of Revenue Services. The judge of probate for the district in which such return is filed shall review each such return and shall issue a written opinion to the estate representative in each case in which the judge determines that the estate is not subject to tax under this chapter.

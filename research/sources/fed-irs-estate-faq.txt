@@ -1,0 +1,46 @@
+URL: https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes
+Lu le: 2026-10-19
+Titre: Frequently asked questions on estate taxes | Internal Revenue Service
+
+If your Form 706 package was returned to you, you must take specific action to ensure your package is considered timely filed .
+Below are some of the more common questions and answers about estate tax issues. You may also find additional information in Publication 559 or some of the other forms and publications offered in our forms and publications page. Included in this area are the instructions to Forms 706 and 709. Within these instructions, you will find the tax rate schedules to the related returns. If the answers to your questions cannot be found in these resources, we strongly recommend visiting with a tax practitioner.
+Am I required to file an estate tax return? (updated Dec. 22, 2025)
+An estate tax return (Form 706) must be filed if the gross estate of the decedent (who is a U.S. citizen or resident), increased by the decedent’s adjusted taxable gifts and specific gift tax exemption, is valued at more than the filing threshold for the year of the decedent’s death, as shown in the table below.
+Filing threshold for year of death Year of death Filing threshold
+2011 $5,000,000
+2012 $5,120,000
+2013 $5,250,000
+2014 $5,340,000
+2015 $5,430,000
+2016 $5,450,000
+2017 $5,490,000
+2018 $11,180,000
+2019 $11,400,000
+2020 $11,580,000
+2021 $11,700,000
+2022 $12,060,000
+2023 $12,920,000
+2024 $13,610,000
+2025 $13,990,000
+2026 $15,000,000
+An estate tax return also must be filed if the estate elects to transfer any deceased spousal unused exclusion (DSUE) amount to a surviving spouse, regardless of the size of the gross estate or amount of adjusted taxable gifts. The election to transfer a DSUE amount to a surviving spouse is known as the portability election.
+An estate tax return may need to be filed for a decedent who was a nonresident and not a U.S. citizen if the decedent had U.S.-situated assets. Refer to some nonresidents with U.S. assets must file estate tax returns to learn more.
+I need to change something on an estate tax return that has already been filed. What is the process?
+File another Form 706 or Form 706-NA, as applicable
+Enter “Supplemental Information” across the top of page 1 of the form
+Include a statement of what has changed, along with the supporting information
+Attach a copy of pages 1, 2, 3, and 4 of the original Form 706 or Form 706-NA that has already been filed
+For the mailing address for a supplemental Form 706 or Form 706-NA, see filing estate and gift tax returns .
+How do I elect portability of the Deceased Spousal Unused Exclusion (DSUE) amount to benefit the surviving spouse?
+In order to elect portability of the decedent's unused exclusion amount (deceased spousal unused exclusion (DSUE) amount) for the benefit of the surviving spouse, the estate's representative must file an estate tax return (Form 706) and the return must be filed timely. The due date of the estate tax return is nine months after the decedent's date of death, however, the estate's representative may request an extension of time to file the return for up to six months. An automatic six month extension of time to file the return is available to all estates, including those filing solely to elect portability, by filing Form 4768 on or before the due date of the estate tax return.
+If I missed the due date for filing the estate tax return, can I get an extension of time to elect portability?
+If the estate representative did not file an estate tax return within nine months after the decedent's date of death, or within fifteen months of the decedent's date of death (if a six month extension of time for filing the estate tax return had been obtained), the availability of an extension of time to elect portability of the Deceased Spousal Unused Exclusion (DSUE) amount depends on whether the estate has a filing requirement, based on the filing threshold provided under § 6018(a).
+If the filing threshold has been met, or in other words, if, independent of the portability election, the estate is required to file an estate tax return based on the total value of the gross estate and the amount of any adjusted taxable gifts, no extension of time to elect portability is available and Revenue Procedure 2022-32 does not apply.
+However, if, the sum of the value of the decedent’s gross estate and the total amount of the decedent’s adjusted taxable gifts is less than the filing threshold, Revenue Procedure 2022-32 provides a simplified method for certain taxpayers to obtain an extension of time to make a “portability” election under § 2010(c)(5)(A) of the Internal Revenue Code. The simplified method under the revenue procedure to obtain an extension of time to make the portability election requires the filing of a complete and properly prepared estate tax return on or before the fifth annual anniversary of the decedent’s date of death and requires a notation on the estate tax return that the return is “FILED PURSUANT TO REV. PROC. 2022-32 TO ELECT PORTABILITY UNDER § 2010(c)(5)(A).” No user fee is required to use the simplified method under this revenue procedure. Estates that do not qualify for this relief, and do not have a filing requirement based on the filing threshold, may request an extension of time to make the portability election under § 2010(c)(5)(A) by requesting a letter ruling under the provisions of § 301.9100-3. The requirements for requesting a letter ruling are described in Revenue Procedure 2022-1 (or any successor revenue procedure).
+How does the basic exclusion amount apply in 2026 if I make large gifts before 2026? (updated Dec. 22, 2025)
+The Working Families Tax Cuts Bill was signed into law on July 4, 2025 as Public Law 119-21 and amends § 2010(c)(3) by increasing the basic exclusion amount to $15,000,000 for gifts for calendar year 2026.
+[...]
+What if I do not have everything ready for filing by the due date?
+The estate's representative may request an extension of time to file for up to six months from the due date of the return. However, the correct amount of tax is still due by the due date and interest is accrued on any amounts still owed by the due date that are not paid at that time.
+[...]
+Page Last Reviewed or Updated: 23-Jul-2026

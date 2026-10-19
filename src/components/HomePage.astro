@@ -1,0 +1,80 @@
+---
+/**
+ * Home, in its own order: the full death-tax calculator first, then the folded answer, the tile map of the
+ * 51 jurisdictions, the 13-row estate tax ledger, the inheritance tax grid (5 states by relationship),
+ * why the state matters more than the federal figure, the page index by family, long text in accordions,
+ * FAQ. Text: src/content/home.ts.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import TileMap from './TileMap.astro';
+import { HOME } from '../content/home';
+import { route, ROUTES } from '../i18n/routes';
+import { GROUPS } from '../i18n/nav';
+import { helpers, SOURCES } from '../lib/helpers';
+import { GUIDES } from '../lib/pages';
+import { KIT as K } from '../lib/kit';
+import { faqSchema, organizationSchema, websiteSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+const lang = 'en';
+const x = HOME;
+const path = route('home', lang);
+const h = helpers();
+const sources = x.sources.map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url }));
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webPageSchema({ name: x.h1, description: x.description, path, lang }), webApplicationSchema({ name: x.h1, description: x.description, path, lang }), faqSchema(x.faqs, lang)];
+const pageOf = (code: string) => GUIDES.find((g) => g.id.startsWith(K.nameOf(code).toLowerCase().replace(/ /g, '-')) && g.group === 'estate')?.id;
+const href = (id?: string) => (id && ROUTES.some((r) => r.id === id) ? route(id, lang) : undefined);
+const inhPage = (code: string) => href(GUIDES.find((g) => g.group === 'inheritance' && g.id.startsWith(K.nameOf(code).toLowerCase().replace(/ /g, '-')))?.id);
+---
+<PageLayout title={x.title} description={x.description} lang={lang} jsonLd={jsonLd} faqs={x.faqs} sources={sources}>
+  <header class="mb-5">
+    <p class="text-xs font-semibold uppercase tracking-widest text-accent-700">Deaths in 2026 · 50 states and DC</p>
+    <h1 class="mt-1 font-serif text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{x.h1}</h1>
+    <p class="mt-2 max-w-3xl text-base text-navy-700 sm:text-lg">{x.intro}</p>
+    <p class="mt-2 text-sm text-navy-600">Figures read on {K.day(x.asOf)} on each state's revenue department, statute and irs.gov · <a href={route('method', lang)} class="underline">How each tax is computed</a> · <a href={route('about', lang)} class="underline">Who publishes this</a> · not legal or tax advice</p>
+  </header>
+  <div data-outil data-chrome><Tool kind="estate" idPrefix="home" /></div>
+  <Clamp text={x.resume} lang={lang} id="clamp-home" class="my-8" />
+  <section class="my-8">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Which tax a death triggers, state by state</h2>
+    <TileMap />
+  </section>
+  <section class="my-8" data-chrome>
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Estate tax in the 13 jurisdictions that have one</h2>
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full border-collapse text-sm">
+        <thead><tr class="border-b-2 border-navy-300 text-left"><th class="py-2 pr-3">State</th><th class="py-2 pr-3 text-right">Exemption 2026</th><th class="py-2 pr-3 text-right">2025</th><th class="py-2 pr-3 text-right">Top rate</th><th class="py-2 pr-3">Spouse carryover</th><th class="py-2 pr-3">Return due</th><th class="py-2">Method</th></tr></thead>
+        <tbody>{x.estateRows().map((r) => <tr class="border-b border-navy-100"><td class="py-2 pr-3">{href(pageOf(r[0])) ? <a href={href(pageOf(r[0]))} class="font-medium text-accent-700 hover:underline">{r[1]}</a> : r[1]}</td><td class="py-2 pr-3 text-right font-semibold tabular-nums">{r[2]}</td><td class="py-2 pr-3 text-right tabular-nums text-navy-600">{r[3]}</td><td class="py-2 pr-3 text-right tabular-nums">{r[4]}</td><td class="py-2 pr-3">{r[5]}</td><td class="py-2 pr-3">{r[6]}</td><td class="py-2 text-navy-700">{r[7]}</td></tr>)}</tbody>
+      </table>
+    </div>
+    <p class="mt-2 text-xs text-navy-600">Washington: {K.usd(K.E.WA.firstHalf!.exemption)} for deaths from January 1 to June 30, 2026, {K.usd(K.E.WA.exemption)} from July 1. Each row was read on the state's own page or statute on {K.day(x.asOf)}; the source is cited on the state page.</p>
+  </section>
+  <section class="my-8" data-chrome>
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Inheritance tax on {K.usd(250000)}, by heir and state</h2>
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full border-collapse text-sm">
+        <thead><tr class="border-b-2 border-navy-300 text-left"><th class="py-2 pr-3">Heir</th>{K.INHERITANCE_CODES.map((c) => <th class="py-2 pr-3 text-right">{inhPage(c) ? <a href={inhPage(c)} class="text-accent-700 hover:underline">{K.nameOf(c)}</a> : K.nameOf(c)}</th>)}</tr></thead>
+        <tbody>{x.inhRows().map((r) => <tr class="border-b border-navy-100">{r.map((c, i) => <td class={`py-2 pr-3 ${i ? 'text-right tabular-nums' : ''}`}>{c}</td>)}</tr>)}</tbody>
+      </table>
+    </div>
+    <p class="mt-2 text-xs text-navy-600">Tax on one heir's share received from a resident of the state, deaths in 2026. Iowa ended its inheritance tax for deaths from January 1, 2025.</p>
+  </section>
+  <section class="prose prose-slate max-w-none prose-headings:font-serif"><Fragment set:html={x.why(h)} /></section>
+  <section class="mt-10" data-chrome>
+    <h2 class="font-serif text-2xl font-bold text-navy-900">One page per state and per question</h2>
+    <div class="mt-4 grid gap-6 md:grid-cols-2">
+      {GROUPS.map((g) => (
+        <div>
+          <h3 class="border-b border-navy-200 pb-1 text-sm font-semibold uppercase tracking-wide text-navy-700">{g.label}</h3>
+          <ul class="mt-2 divide-y divide-navy-100 text-sm">
+            {GUIDES.filter((p) => p.group === g.id).map((p) => <li class="py-1.5"><a href={route(p.id, lang)} class="font-medium text-accent-700 underline-offset-2 hover:underline">{p.nav}</a> <span class="text-navy-600">· {p.card}</span></li>)}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+  <section class="mt-10">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Rules behind the numbers</h2>
+    {x.sections(h).map((s) => <details class="fold"><summary><h3 class="fold-h">{s.title}</h3></summary><div class="prose prose-slate max-w-none pb-4"><Fragment set:html={s.html} /></div></details>)}
+  </section>
+</PageLayout>

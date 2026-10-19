@@ -1,0 +1,93 @@
+URL: https://www.nysenate.gov/legislation/laws/TAX/952 (lue via Chrome, curl renvoie 403)
+Lu le: 2026-10-19
+Titre: NYS Open Legislation | NYSenate.gov - Tax Law § 952 Tax imposed (most recent revision from 2015-04-24)
+
+§ 952. Tax imposed. (a) A tax is hereby imposed on the transfer of the
+New York estate by every deceased individual who at his or her death was
+a resident of New York state.
+
+(b) Computation of tax. The tax imposed by this section shall be
+computed on the deceased resident's New York taxable estate as follows:
+If the New York taxable estate is: The tax is:
+Not over $500,000 3.06% of taxable estate
+Over $500,000 but not over $1,000,000 $15,300 plus 5.0% of excess over
+$500,000
+Over $1,000,000 but not over $1,500,000 $40,300 plus 5.5% of excess over
+$1,000,000
+Over $1,500,000 but not over $2,100,000 $67,800 plus 6.5% of excess over
+$1,500,000
+Over $2,100,000 but not over $2,600,000 $106,800 plus 8.0% of excess
+over $2,100,000
+Over $2,600,000 but not over $3,100,000 $146,800 plus 8.8% of excess over
+$2,600,000
+Over $3,100,000 but not over $3,600,000 $190,800 plus 9.6% of excess over
+$3,100,000
+Over $3,600,000 but not over $4,100,000 $238,800 plus 10.4% of excess
+over $3,600,000
+Over $4,100,000 but not over $5,100,000 $290,800 plus 11.2% of excess
+over $4,100,000
+Over $5,100,000 but not over $6,100,000 $402,800 plus 12.0% of excess
+over $5,100,000
+Over $6,100,000 but not over $7,100,000 $522,800 plus 12.8% of excess
+over $6,100,000
+Over $7,100,000 but not over $8,100,000 $650,800 plus 13.6% of excess
+over $7,100,000
+Over $8,100,000 but not over $9,100,000 $786,800 plus 14.4% of excess
+over $8,100,000
+Over $9,100,000 but not over $930,800 plus 15.2% of excess over
+$10,100,000 $9,100,000
+Over $10,100,000 $1,082,800 plus 16.0% of excess
+over $10,100,000
+
+(c) Applicable credit amount. (1) A credit of the applicable credit
+amount shall be allowed against the tax imposed by this section as
+provided in this subsection. In the case of a decedent whose New York
+taxable estate is less than or equal to the basic exclusion amount, the
+applicable credit amount shall be the amount of tax that would be due
+under subsection (b) of this section on such decedent's New York taxable
+estate. In the case of a decedent whose New York taxable estate exceeds
+the basic exclusion amount by an amount that is less than or equal to
+five percent of such amount, the applicable credit amount shall be the
+amount of tax that would be due under subsection (b) of this section if
+the amount on which the tax is to be computed were equal to the basic
+exclusion amount multiplied by one minus a fraction, the numerator of
+which is the decedent's New York taxable estate minus the basic
+exclusion amount, and the denominator of which is five percent of the
+basic exclusion amount. Provided, however, that the credit allowed by
+this subsection shall not exceed the tax imposed by this section, and no
+credit shall be allowed to the estate of any decedent whose New York
+taxable estate exceeds one hundred five percent of the basic exclusion
+amount.
+
+(2) (A) For purposes of this section, the basic exclusion amount shall
+be as follows:
+In the case of decedents dying on or after: The basic exclusion amount
+is:
+April 1, 2014 and before April 1, 2015 $ 2,062,500
+April 1, 2015 and before April 1, 2016 3,125,000
+April 1, 2016 and before April 1, 2017 4,187,500
+April 1, 2017 and before January 1, 2019 5,250,000
+
+(B) In the case of any decedent dying in a calendar year beginning on
+or after January first, two thousand nineteen, the basic exclusion
+amount shall be equal to:
+
+(i) five million dollars, multiplied by
+
+(ii) one plus the cost-of-living adjustment, which shall be the
+percentage by which the consumer price index for the preceding calendar
+year exceeds the consumer price index for calendar year two thousand
+ten.
+
+(C) (i) For purposes of this paragraph, "consumer price index" means
+the most recent consumer price index for all-urban consumers published
+by the United States department of labor.
+
+(ii) For purposes of clause (ii) of subparagraph (B) of this
+paragraph, the consumer price index for any calendar year shall be the
+average of the consumer price index as of the close of the twelve-month
+period ending on August thirty-first of such calendar year.
+
+(iii) If any amount adjusted under this paragraph is not a multiple of
+ten thousand dollars, such amount shall be rounded to the nearest
+multiple of ten thousand dollars.

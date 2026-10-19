@@ -1,0 +1,253 @@
+URL: https://www.tax.ny.gov/pdf/current_forms/et/et706_fill_in.pdf
+Lu le: 2026-10-19
+Titre: Form ET-706 (9/25), New York State Estate Tax Return - For an estate of an individual who died on or after January 1, 2025 (fill-in)
+
+1 T axable estate for New York State (from Schedule A, Part 1, line 18, or Part 2, line 33)  ..........................  1.
+
+2
+New
+York State estate tax (from tax table on page 6)  ..........................................................................  2.
+
+3
+Applicable credit (see instructions)  .....................................................................................................  3.
+
+4
+T
+ax after credit (subtract line 3 from line 2)  ..........................................................................................  4.
+5
+
+Net prior tax payments to New York State (attach a Schedule of dates and amounts; see instructions)  ...  5.
+
+[...]
+
+18
+T
+axable estate for New York State (subtract line 17 from 14)  ...............................................................  18.
+
+19
+Amount from federal Form 706, page 4, part V
+, line 13; or Form 706-NA, page 2, part IV, line 1.
+
+...... 19.
+
+20
+Property with a location outside New
+York State (from Schedule B)  . 20.
+
+21
+Intangible property included in line 19 amount
+
+............................... 21.
+
+22
+Nontaxable estate for New
+York State purposes (add lines 20 and 21)  ...............................................  22.
+
+23
+Amount of federal gross estate subject to New
+York State estate taxes (subtract line 22 from line 19)   23.
+
+24
+Amount determined under §
+957 (relating to Powers of Appointment prior to 1930)  ................................  24.
+
+25
+T
+axable gifts (from Schedule D; see instructions for important changes)  ...................................................  25.
+
+26
+Includible QTIP for New York State not included in the amount reported on line 19 (see instructions)  ..  26.
+
+27
+T
+otal gross estate for New York State (add lines 23 through 26)  ..........................................................  27.
+
+28
+T
+otal allowable federal deductions (from federal Form 706, page 4,
+
+part V
+, line 24; or Form 706-NA, page 2, part IV, line 9)  ....................... 28.
+
+29
+Federal deductions not allowed for New
+York State purposes (from
+
+Schedule E, line 68)  ....................................................................... 29.
+
+30
+Allowable federal deductions for NYS purposes (subtract line 29 from line 28) .....................................  30.
+
+31
+T
+entative New York State taxable estate (subtract line 30 from line 27)  ................................................  31.
+
+32
+W
+orks of art on loan in New York State
+
+............................................................................................  32.
+
+33
+
+[...]
+
+=== page 6 ===
+02200609250094
+Page 6 of 6 ET -706 (9/25)
+This return must be filed within nine months after the date of death unless an extension of time to file the return has been granted.
+Mail your return and payment (if any) to:
+NYS ESTATE TAX
+PROCESSING CENTER
+PO BOX 15167
+ALBANY NY 12212-5167
+If not using U.S. Mail, see Publication 55, Designated Private Delivery Services.
+Reminders: Sign this return. If there is an amount due on line 6, make check payable in U.S. funds to Commissioner of Taxation
+and Finance. Attach a completed copy of the federal estate tax return along with any accompanying schedules and supplementary
+information.
+$  0  $  500,000   3.06%  of taxable estate
+500,000
+1,000,000
+$
+15,300
+plus
+5.0%
+of the excess over
+$
+500,000
+1,000,000
+1,500,000
+40,300
+plus
+5.5%
+"
+"
+"
+"
+1,000,000
+1,500,000
+2,100,000
+67,800
+plus
+6.5%
+"
+"
+"
+"
+1,500,000
+2,100,000
+2,600,000
+106,800
+plus
+8.0%
+"
+"
+"
+"
+2,100,000
+2,600,000
+3,100,000
+146,800
+plus
+8.8%
+"
+"
+"
+"
+2,600,000
+3,100,000
+3,600,000
+190,800
+plus
+9.6%
+"
+"
+"
+"
+3,100,000
+3,600,000
+4,100,000
+238,800
+plus
+10.4%
+"
+"
+"
+"
+3,600,000
+4,100,000
+5,100,000
+290,800
+plus
+1
+1.2%
+"
+"
+"
+"
+4,100,000
+5,100,000
+6,100,000
+402,800
+plus
+12.0%
+"
+"
+"
+"
+5,100,000
+6,100,000
+7,100,000
+522,800
+plus
+12.8%
+"
+"
+"
+"
+6,100,000
+7,100,000
+8,100,000
+650,800
+plus
+13.6%
+"
+"
+"
+"
+7,100,000
+8,100,000
+9,100,000
+786,800
+plus
+14.4%
+"
+"
+"
+"
+8,100,000
+9,100,000
+10,100,000
+930,800
+plus
+15.2%
+"
+"
+"
+"
+9,100,000
+
+10,100,000
+...................................   1,082,800
+plus
+16.0%
+"
+"
+"
+"
+10,100,000
+If the New York taxable estate is:
+over
+but not over
+The tax is:
+Tax table

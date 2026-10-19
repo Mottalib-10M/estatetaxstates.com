@@ -1,0 +1,65 @@
+URL: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=7-309&enactments=false
+Lu le: 2026-10-19
+Titre: Maryland Code, Article - Tax - General, §7-309 (Maryland General Assembly, Statutes Text)
+
+Article - Tax - General
+
+[...]
+
+§7–309.
+(a)    Notwithstanding an Act of Congress that repeals or reduces the federal credit under § 2011 of the Internal Revenue Code, the provisions of this subtitle in effect before the passage of the Act of Congress shall apply with respect to a decedent who dies after the effective date of the Act of Congress so as to continue the Maryland estate tax in force without reduction in the same manner as if the federal credit had not been repealed or reduced.
+(b)    (1)    Except as provided in paragraphs (2) through (9) of this subsection and subsection (c) of this section, after the effective date of an Act of Congress described in subsection (a) of this section, the Maryland estate tax shall be determined using:
+(i)    the federal credit allowable by § 2011 of the Internal Revenue Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of Congress; and
+(ii)    other provisions of federal estate tax law as in effect on the date of the decedent’s death.
+(2)    Except as provided in paragraphs (3) through (9) of this subsection and subsection (c) of this section, if the federal estate tax is not in effect on the date of the decedent’s death, the Maryland estate tax shall be determined using:
+(i)    the federal credit allowable by § 2011 of the Internal Revenue Code as in effect before the reduction or repeal of the federal credit pursuant to the Act of Congress; and
+(ii)    other provisions of federal estate tax law as in effect on the date immediately preceding the effective date of the repeal of the federal estate tax.
+(3)    (i)    Notwithstanding any increase in the unified credit allowed against the federal estate tax for decedents dying after 2003, the unified credit used for determining the Maryland estate tax for a decedent may not exceed the applicable credit amount corresponding to an applicable exclusion amount, within the meaning of § 2010(c) of the Internal Revenue Code, of:
+1.    $1,000,000 for a decedent dying before January 1, 2015;
+2.    $1,500,000 for a decedent dying on or after January 1, 2015, but before January 1, 2016;
+3.    $2,000,000 for a decedent dying on or after January 1, 2016, but before January 1, 2017;
+4.    $3,000,000 for a decedent dying on or after January 1, 2017, but before January 1, 2018;
+5.    $4,000,000 for a decedent dying on or after January 1, 2018, but before January 1, 2019; and
+6.    $5,000,000 for a decedent dying on or after January 1, 2019, plus any deceased spousal unused exclusion amount calculated in accordance with paragraph (9) of this subsection.
+(ii)    The Maryland estate tax shall be determined without regard to any deduction for State death taxes allowed under § 2058 of the Internal Revenue Code.
+(iii)    Unless the federal credit allowable by § 2011 of the Internal Revenue Code is in effect on the date of the decedent’s death, the federal credit used to determine the Maryland estate tax may not exceed 16% of the amount by which the decedent’s taxable estate, as defined in § 2051 of the Internal Revenue Code, exceeds:
+1.    $1,000,000 for a decedent dying before January 1, 2015;
+2.    $1,500,000 for a decedent dying on or after January 1, 2015, but before January 1, 2016;
+3.    $2,000,000 for a decedent dying on or after January 1, 2016, but before January 1, 2017;
+4.    $3,000,000 for a decedent dying on or after January 1, 2017, but before January 1, 2018;
+5.    $4,000,000 for a decedent dying on or after January 1, 2018, but before January 1, 2019; and
+6.    $5,000,000 for a decedent dying on or after January 1, 2019, plus any deceased spousal unused exclusion amount calculated in accordance with paragraph (9) of this subsection.
+(4)    (i)    With regard to an election to value property as provided in § 2032 of the Internal Revenue Code, if a federal estate tax return is not required to be filed:
+1.    an irrevocable election made on a timely filed Maryland estate tax return shall be deemed to be an election as required by § 2032(d) of the Internal Revenue Code;
+2.    the provisions of § 2032(c) of the Internal Revenue Code do not apply; and
+3.    an election may not be made under item 1 of this subparagraph unless that election will decrease:
+A.    the value of the gross estate; and
+B.    the Maryland estate tax due with regard to the transfer of a decedent’s Maryland estate.
+(ii)    An election to value property as provided in § 2032 of the Internal Revenue Code for Maryland estate tax purposes must be the same as the election made for federal estate tax purposes.
+(5)    (i)    With regard to an election to treat property as marital deduction qualified terminable interest property in calculating the Maryland estate tax, an irrevocable election made on a timely filed Maryland estate tax return shall be deemed to be an election as required by § 2056(b)(7)(B)(i), (iii), and (v) of the Internal Revenue Code.
+(ii)    An election under this paragraph made on a timely filed Maryland estate tax return shall be recognized for purposes of calculating the Maryland estate tax even if an inconsistent election is made for the same decedent for federal estate tax purposes.
+(6)    (i)    For purposes of calculating Maryland estate tax, a decedent shall be deemed to have had a qualifying income interest for life under § 2044(a) of the Internal Revenue Code with regard to any property for which a marital deduction qualified terminable interest property election was made for the decedent’s predeceased spouse on a timely filed Maryland estate tax return under paragraph (5) of this subsection.
+(ii)    For the purpose of apportioning Maryland estate tax under § 7–308 of this subtitle, any property as to which a decedent is deemed to have had a qualifying income interest for life under subparagraph (i) of this paragraph shall be deemed to be included in both the estate and the taxable estate of the decedent.
+(7)    For purposes of calculating Maryland estate tax, amounts allowable under § 2053 or § 2054 of the Internal Revenue Code as a deduction in computing the taxable estate of a decedent may not be allowed as a deduction or as an offset against the sales price of property in determining gain or loss if the amount has been allowed as a deduction in computing the federal taxable income of the estate or of any other person.
+(8)    Notwithstanding any contrary definition of “marriage” and “spouse” under any applicable provision of federal law, for purposes of calculating Maryland estate tax under this subsection, the surviving “spouse” of a decedent shall include any individual to whom, at the time of the decedent’s death, the decedent was lawfully married as determined under the laws of the State.
+(9)    (i)    In this paragraph, “deceased spousal unused exclusion amount” means the applicable exclusion amount in effect at the time of the death of the last predeceased spouse of the decedent under paragraph (3) of this subsection reduced by the taxable estate of the last predeceased spouse:
+1.    as reported on a Maryland estate tax return filed with the Comptroller; or
+2.    as reported on a federal estate tax return, if:
+A.    the last predeceased spouse was not a Maryland resident and no property with a Maryland estate tax situs was includible in the gross estate of the last predeceased spouse; or
+B.    the last predeceased spouse died before January 1, 2019, and no Maryland estate tax return was required to be filed with respect to the predeceased spouse’s estate.
+(ii)    The deceased spousal unused exclusion amount may not be taken into account under paragraph (3) of this subsection unless:
+1.    if the last predeceased spouse died on or after January 1, 2019, a Maryland estate tax return is timely filed for the last predeceased spouse, on which the deceased spousal unused exclusion amount is calculated and an irrevocable election is made that the deceased spousal unused exclusion amount may be taken into account; or
+2.    if the last predeceased spouse died before January 1, 2019, or was not a Maryland resident and no property with a Maryland estate tax situs was includible in the gross estate of the last predeceased spouse, an election was made under § 2010(c) of the Internal Revenue Code on the federal estate tax return of the last predeceased spouse.
+(iii)    1.    Notwithstanding any other provision of this article, the Comptroller may examine a Maryland estate tax return of a predeceased spouse after the time for assessing a tax under this title has expired under § 13–1101 of this article solely for the purposes of determining the validity of the deceased spousal unused exclusion election and the amount to be taken into account under paragraph (3) of this subsection.
+2.    This subparagraph may not be construed to authorize the assessment of any additional tax with respect to the predeceased spouse’s Maryland estate tax return if the period of limitation under § 13–1101 of this article has expired.
+(c)    (1)    (i)    In this subsection the following words have the meanings indicated.
+(ii)    “Farming purposes” has the meaning stated in § 2032A(e)(5) of the Internal Revenue Code.
+(iii)    “Qualified agricultural property” means real or personal property that is used primarily for farming purposes.
+(iv)    “Qualified recipient” means an individual who enters into an agreement to use qualified agricultural property for farming purposes after the decedent’s death.
+(2)    The Maryland estate tax shall be determined by excluding from the value of the gross estate up to $5,000,000 of the value of qualified agricultural property that passes from the decedent to or for the use of a qualified recipient.
+(3)    If the value of qualified agricultural property that passes from the decedent to or for the use of a qualified recipient exceeds $5,000,000, the Maryland estate tax imposed on the Maryland estate of the decedent may not exceed the sum of:
+(i)    16% of the amount by which the decedent’s taxable estate, excluding the value of all qualified agricultural property that passes from the decedent to or for the use of a qualified recipient, exceeds the applicable exclusion amount specified under subsection (b) of this section; and
+(ii)    5% of the amount by which the value of qualified agricultural property that passes from the decedent to or for the use of a qualified recipient exceeds $5,000,000.
+(4)    (i)    The Maryland estate tax shall be recaptured as provided in this paragraph if, within 10 years after the decedent’s death, the qualified agricultural property ceases to be used for farming purposes.
+(ii)    The amount of the estate tax imposed under this paragraph shall be the additional Maryland estate tax that would have been payable at the time of the decedent’s death but for the provisions under paragraphs (2) and (3) of this subsection.
+(5)    The Comptroller shall adopt regulations to implement this subsection.

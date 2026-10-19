@@ -1,0 +1,13 @@
+URL: https://revenue.nebraska.gov/about/2022-nebraska-legislative-changes
+Lu le: 2026-10-19
+Titre: 2022 Nebraska Legislative Changes | Nebraska Department of Revenue
+Note: tableau reproduit avec separateurs | (colonnes : Relationship to decedent | Current exemption amount | LB 310 exemption amount | Current rate on the excess | LB 310 rate on the excess).
+
+Inheritance Taxes Reduced (LB 310 - Operative July 21, 2022)
+LB 310 increases the exemption amounts and reduces the inheritance tax rates for inheritances from decedents dying on or after January 1, 2023 as follows:
+ |  Relationship to decedent  |  Current exemption amount  |  LB 310 exemption amount  |  Current rate on the excess  |  LB 310 rate on the excess
+Siblings and lineal descendants  |  $40,000  |  $100,000  |  1%  |  1%
+Remote relatives  |  $15,000  |  $40,000  |  13%  |  11%
+Nonrelatives  |  $10,000  |  $25,000  |  18%  |  15% 
+There is not an inheritance tax imposed on any beneficiary who is less than 22 years of age.
+LB 310 requires personal representatives to submit a report on inheritance taxes to the county treasurer after distributing the assets of the estate. Each county must submit a report to the DOR detailing the number of beneficiaries and the amount received for each class of beneficiary. Counties also report the number of nonresident beneficiaries. The report must be submitted by July 1 each year, beginning in 2023, and cover the prior calendar year.

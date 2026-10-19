@@ -1,0 +1,12 @@
+URL: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=7-204&enactments=false
+Lu le: 2026-10-19
+Titre: Maryland Code, Article - Tax - General, §7-204 (Maryland General Assembly, Statutes Text)
+
+Article - Tax - General
+
+[...]
+
+§7–204.
+(a)    In this section, “clear value” means fair market value minus expenses.
+(b)    The inheritance tax rate is 10% of the clear value of the property that passes from a decedent.
+(c)    If a decedent died on or before May 31, 1975, the rate of the inheritance tax is the rate in effect on the date of the decedent’s death.

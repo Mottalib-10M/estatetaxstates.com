@@ -1,0 +1,89 @@
+URL: https://www.tax.ny.gov/pit/estate/etidx.htm
+Lu le: 2026-10-19
+Titre: Estate tax (New York State Department of Taxation and Finance)
+
+Update for 2026
+The basic exclusion amount for dates of death on or after January 1, 2026, through December 31, 2026 is $7,350,000.
+The information on this page is for the estates of individuals with dates of death on or after April 1, 2014.
+For previous periods, see information for dates of death on or after February 1, 2000, and before April 1, 2014.
+ Information
+Filing requirements
+Residents
+The estate of a New York State resident must file a New York State estate tax return if the following exceeds the basic exclusion amount:
+the amount of the resident's federal gross estate, plus
+the amount of any includible gifts.
+Nonresidents
+The estate of a New York State nonresident must file a New York State estate tax return if:
+the estate includes any real or tangible property located in New York State, and
+the amount of the nonresident's federal gross estate, plus the amount of any includible gifts exceeds the basic exclusion amount.
+Includible gifts 
+Under § 2503 of the Internal Revenue Code (IRC), the estate must add back any taxable gift:
+made during the three-year period that ends on the decedent's date of death, and
+not already included in the decedent's federal gross estate.
+However, the estate does not need to add back a gift if it:
+was made while the decedent was a nonresident;
+was made before April 1, 2014;
+was made between January 1, 2019, and January 15, 2019; or
+is real or tangible property having an actual situs outside New York State at the time the gift was made.
+For estates of decedents dying on or after January 1, 2019, and before January 16, 2019, there is no addback of taxable gifts.
+New York State nonresidents: Only add back gifts if, at the time of the decedent's death, they were: 
+real or tangible personal property having an actual location in New York State, or 
+intangible personal property employed in a business, trade, or profession carried on in New York State.
+New York qualified terminal interest property election
+The Tax Law requires a New York qualified terminable interest property (QTIP) election be made directly on a New York estate tax return for decedents dying on or after April 1, 2019. For more information, see the General Information section and the instructions for lines 13 and 26 on Form ET-706-I, and also TSB-M-19-(1)E.
+Basic exclusion amount 
+For dates of death | 
+the basic exclusion amount is | 
+January 1, 2026, through December 31, 2026 | 
+$7,350,000 | 
+January 1, 2025, through December 31, 2025 | 
+$7,160,000 | 
+January 1, 2024, through December 31, 2024 | 
+$6,940,000 | 
+January 1, 2023, through December 31, 2023 | 
+$6,580,000 | 
+January 1, 2022, through December 31, 2022 | 
+$6,110,000 | 
+January 1, 2021, through December 31, 2021 | 
+$5,930,000 | 
+January 1, 2020, through December 31, 2020 | 
+$5,850,000 | 
+January 1, 2019, through December 31, 2019 | 
+$5,740,000 | 
+April 1, 2017, through December 31, 2018 | 
+$5,250,000 | 
+April 1, 2016, through March 31, 2017 | 
+$4,187,500 | 
+April 1, 2015, through March 31, 2016 | 
+$3,125,000 | 
+April 1, 2014, through March 31, 2015 | 
+$2,062,500 | 
+When to file and pay
+Within nine months of the decedent's death, estates must: 
+pay the tax due, and
+file with the Tax Department: 
+Form ET-706, New York State Estate Tax Return—using the return designated for the decedent’s date of death—and
+federal Form 706, United States Estate Tax Return— even if the estate is not required to file a federal estate tax return.
+Extensions
+Estates may apply for an extension of time to file the return, pay the tax, or both using Form ET-133, Application for Extension of Time to File and/or Pay Estate Tax.
+Generally, an extension may not exceed six months. In cases where payment within nine months of death would result in undue hardship to the estate, we may grant an extension of up to four years.
+Penalties may apply for late filing or late payment. Interest is due on any late payments, including those made pursuant to an extension.
+Tax rates
+New York State's estate tax is calculated using the tax table provided on Form ET-706. There are multiple versions of Form ET-706. Be sure to use the version that corresponds to the decedent's date of death. 
+Waivers and releases
+Personal property
+When authorization is required for the release of personal property, it is usually referred to as an estate tax waiver or a consent to transfer. New York State does not require waivers for estates of anyone who died on or after February 1, 2000. For details, See Publication 603, Estate Tax Waivers.
+Real property
+Authorization to transfer real property is referred to as a release of lien. 
+A waiver of citation is used for an estate to get court approval for a specific action. The Tax Department must approve a waiver of citation. For more information, see Form AU-67, Instructions to Request a Waiver of Citation and Consent.
+Other information you may need to provide:
+copy of the death certificate
+copy of the decedent's will or relevant trusts
+copies of appraisals
+letters of appointment for executors or administrators
+copies of relevant documents regarding litigation involving the estate
+documentation of any unusual items
+
+[...]
+
+Updated: December 3, 2025

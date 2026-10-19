@@ -1,0 +1,274 @@
+URL: https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/itnrfaq.pdf
+Lu le: 2026-10-19
+Titre: Non-Resident Inheritance Tax Frequently Asked Questions - NJ Division of Taxation
+Note: texte integral extrait du PDF (pypdf).
+
+--- page 1 ---
+Non-Resident Inheritance Tax Frequently Asked Questions 
+  General Information 
+1. Where should I send my completed forms?
+2. I need to overnight a package. What is the street address?
+3. I sent in a non-resident return. How come I have not heard back regarding the status?
+4. How do I make a payment on account?
+5. How do I apply for an extension?
+6. How much needs to be escrowed at closing for the sale of the decedent’s New Jersey
+real estate?
+7. We closed on a sale of the decedent’s New Jersey real estate. Why was New Jersey Non-
+Resident gross withholding tax withheld?
+Filing Non-Resident Returns 
+8. What is the purpose of the Non-Resident Inheritance Tax Return (Form IT-NR)?
+9. Can I file Form L-9-NR?
+10. The decedent’s estate is greater than $675,000. Can I file Form L-9 NR?
+11. The decedent’s estate passes pursuant to a trust agreement.  Can I file Form L9-NR?
+12. If the decedent was a non-resident, do I need to file a New Jersey Estate Tax Return?
+13. Do I file both Form L-9 NR and Form IT-NR for a non-resident?
+14. When are Form IT-NR and Form L-9 NR due?
+15. The decedent held a partnership interest that owned New Jersey real estate.  Do I need
+to file?
+16. The decedent held stock in a corporation that owns New Jersey real estate.  Do I need
+to file?
+17. What attachments should be included with the return?
+18. The New Jersey real estate is held as tenancy by the entirety by the decedent and
+his/her surviving spouse or civil union partner.  Do I need to file a return?
+19. What happened to the Flat Tax Method of filing?
+20. The beneficiaries of an estate are not New Jersey residents.  Do we need to file a non-
+resident return?
+21. How do I amend a return originally submitted?
+--- page 2 ---
+V
+aluation 
+22. M
+y return is late.  How is the interest calculated?
+23. How should I value the New Jersey real estate or tangible personal property?
+24. I’m preparing a Federal estate tax return.  Can I use the alternate values to complete
+the N.J. Non-Resident Inheritance Tax Return?
+25. What does the Inheritance and Estate Tax Branch allow for executor commissions?
+26. What items are excluded from computing executor commissions?
+27. If there is more than one executor, is each entitled to additional commissions?
+W
+aivers 
+28. If a non-resident decedent held a bank account at a New Jersey bank, what do I need
+to do?
+29. How do I obtain a tax waiver for real estate?
+30. T
+he decedent owned a membership certificate or stock in a cooperative housing
+corporation.  Do I need to file a Non-Resident Inheritance Tax Return?
+31. Is a waiver required if the decedent has interest in a partne rship or corporation that
+owns New Jersey real estate?
+32. The New Jersey real estate is held as tenancy b y the entirety by the decedent and
+his/her surviving spouse or civil union partner.  Do I need a tax waiver?
+Gen
+eral Information 
+1. Where should I send my completed forms?
+Forms should be sent to: 
+N
+ew Jersey Division of Taxation  
+Inheritance and Estate Tax Branch 
+PO Box 249  
+Trenton, New Jersey 08695-0249  
+--- page 3 ---
+2. I need to overnight my documents.  What is the street address?
+Overnight mail should be sent to: 
+New Jersey Division of Taxation  
+Inheritance and Estate Tax Branch 
+3 John Fitch Way, 6th Floor
+Trenton, New Jersey 08611  
+3. I sent a non-resident return.  Why did I not receive acknowledgement of receipt?
+The Inheritance Tax Branch does not send out receipts or return acknowledgements. The 
+time frame for processing returns and auditing returns varies.  
+4. How do I make a payment on account?
+Payments on account can be made with Form IT-EP. 
+5. How do I apply for an extension?
+Extensions should be requested with Form IT-EXT. 
+6. How much needs to be escrowed at closing for the sale of the decedent’s New 
+Jersey real estate?
+The Branch does not determine the amount of funds held in escrow. Either the title 
+company or the attorneys involved in the sale of the real estate would make that 
+determination. 
+--- page 4 ---
+7. We closed on a sale of the decedent’s New Jersey real estate. Why was New Jersey 
+non-resident Gross Withholding Tax withheld?  
+A non-resident taxpayer is required to pay the Gross Income Tax liability on the capital 
+gain upon the sale of real estate within this state. When a non-resident taxpayer sells New 
+Jersey real estate, an amount equal to 2% of the sale price is withheld as an estimated 
+payment of the tax and submitted to the New Jersey Division of Taxation. Call 609-292-
+6400 for more information regarding this issue.  This specific tax is not administered by the 
+Inheritance Tax Branch.  
+ 
+Filing non-resident returns 
+ 
+ 
+8. What is the purpose of the Non-Resident Inheritance Tax Return (Form IT-NR)?  
+Form IT-NR is used when a non-resident of New Jersey dies owning New Jersey real estate 
+or tangible personal property (automobile, boat, furniture, jewelry, etc.) located in New 
+Jersey.  
+ 
+9. Can I file Form L-9 NR?  
+Form L-9 NR can be used if all beneficiaries of the decedent’s entire estate, both in and 
+outside of New Jersey, are Class A or Class E. For a description of Class A & E beneficiaries, 
+please see IT-NR Table of Contents. Form IT-NR must be used if all beneficiaries of the 
+decedent’s estate (both in and outside New Jersey) are not Class A.  
+ 
+10. If the decedent was a non-resident, do I need to file a New Jersey Estate Tax 
+Return?  
+No. There is no New Jersey Estate Tax for estates of non-resident decedents. Non-residents 
+decedents are subject to only the New Jersey Inheritance Tax.  
+ 
+ 
+--- page 5 ---
+11. The decedent’s estate is greater than $675,000.  Can I file Form L-9 NR?  
+Yes, there is no dollar limit for using L-9 NR.  
+ 
+12. The decedent’s estate passes to a trust.  Can I file Form L-9 NR?  
+Yes, if all the beneficiaries of the trust are Class A. 
+ 
+13. Do I file both Form L9-NR and Form IT-NR for a non-resident?  
+Only one form is needed depending on the circumstance (see NR Flowchart).  
+ 
+14. When is Form IT-NR or Form L9-NR due?  
+The IT-NR is due eight (8) months after the decedent’s date of death.  The L-9 NR has no 
+due date.  
+ 
+15. The decedent held a partnership interest that owned New Jersey real estate.  Do I 
+need to file?  
+If the partnership is a bona fide partnership, you are not required to file.  Partnership 
+interest is considered intangible personal property,  which is not subject to tax or waiver 
+requirements for non-resident decedents.  
+ 
+16. The decedent held stock in a corporation which owns New Jersey real estate.  Do I 
+need to file?  
+No.  Stock in a corporation is considered intangible personal property. The property is an 
+asset of the corporation.  
+ 
+ 
+ 
+ 
+--- page 6 ---
+17. What attachments should be included with the return?  
+If you are submitting Form IT-NR, refer to page 7 of the return, which lists items to submit 
+with the return.   If you are submitting Form L9-NR, refer to page 2 of the return, which 
+lists necessary attachments.  
+ 
+18. The New Jersey real estate is held as tenancy by the entirety by the decedent and 
+his/her surviving spouse or civil union partner.  Do I need to file a return?  
+No.  Real estate held as tenancy by the entirety is not taxable.   No tax waiver is required or 
+will be issued. 
+ 
+19. What happened to the Flat Tax Method of filing?  
+The flat tax method has been replaced by Method 3 – Ratio Tax using Gross Estate. A 
+separate “Flat Tax Affidavit” is not required.  
+ 
+20. The beneficiaries of an estate are not New Jersey residents.  Do we need to file a 
+non-resident return?  
+The filing of any Inheritance Tax return is not based on the beneficiary’s residence. It is 
+based on the decedent’s residence.  
+ 
+21. How do I amend a return originally submitted?  
+Any assets and/or liabilities not originally disclosed in the original return may be reported 
+by letter or on an amended return. Verification should be provided as to the value of any 
+additional assets or amounts of additional deductions.  
+ 
+ 
+ 
+ 
+ 
+--- page 7 ---
+Valuation 
+ 
+22. My return is late.  How is the interest calculated?  
+Interest is calculated on any portion of the tax not paid within eight (8) months of the 
+decedent’s death at a rate of 10% per annum. See IT-NR page 2 for examples of interest 
+computations.  
+ 
+23. How should I value the New Jersey real estate or tangible personal property?  
+Property on the IT-NR or L9-NR is valued at its fair market value on the decedent’s date of 
+death.  The assessed value of the New Jersey real estate also must be set forth on the form.  
+ 
+ 
+24. I’m preparing a Federal estate tax return.  Can I use the alternate values to 
+complete the Non-Resident Inheritance Tax Return?  
+ 
+No. You must use the date of death values.  
+ 
+25. What does the branch allow for executor commissions? 
+Executor commissions are allowed as follows:  
+First        $ 200,000  @ 5% 
+Next         $ 800,000  @ 3 ½% 
+Excess over          $    1,000,000   @ 2% 
+Important:  Read Question 26 before calculating commissions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- page 8 ---
+26. What items are excluded from computing executor commission?  
+1. Assets held by the decedent and another as joint tenants with right of survivorship. 
+2. Assets held as trustee for or payable on death to, another. 
+3. Assets which had been transferred prior to death, or to take effect in possession or 
+enjoyment at or after death.  
+4. Items reported in Schedule E (Transfers, etc.).  
+5. Real estate not actually sold by the executor or administrator or, 
+6. Real estate which was not expressly directed to be sold by the terms of the 
+decedent’s will. * 
+ 
+* Note: Real estate must be sold by the estate representative, not the beneficiary, to 
+be included. 
+27. If there is more than one executor, is each entitled to additional commissions?  
+If more than one executor or administrator has been appointed, each additional executor 
+or administrator may take an additional 1%  of the property held by the estate excluding 
+items listed in Question 26 provided that no one executor shall be entitled to any greater 
+commission than that which would be allowed if there were but one executor or 
+administrator.  
+ 
+Waivers 
+ 
+28. If a non-resident decedent held a bank account at a New Jersey bank, what do I 
+need to do?  
+A waiver is not required for non-New Jersey residents owning intangible personal property 
+(bank accounts, stocks, etc.). However, the estate representatives are required to file an 
+affidavit with the financial institution involved establishing the facts of the decedent’s 
+domicile with that financial institution. The affidavit should include the following:  
+1. Place of residence  
+2. Voting district 
+3. Social and business affiliations  
+4. Where the last five income tax returns were filed prior to death.  
+5. Date of commencement and length of actual residence in place claimed as legal 
+domicile.  
+6. Whether the decedent formally resided in New Jersey 
+--- page 9 ---
+ 
+ 
+7. If the decedent used to live in New Jersey, what facts are relied upon to establish 
+abandonment of New Jersey and intention not to return? 
+ 
+If the financial institution, upon receipt of the affidavit, is convinced the 
+decedent was legally domiciled outside of New Jersey, the property in 
+question may be transferred without the written consent of the Director, 
+Division of Taxation.  
+ 
+ 
+ 
+29. How do I obtain a tax waiver for real estate?  
+A waiver can be obtained by filing the appropriate non-resident form (IT-NR or L9-NR).  
+ 
+30. The decedent owned a membership certificate or stock in a cooperative housing 
+corporation. Do I need to file a Non-Resident Inheritance Tax Return?  
+No. A waiver is not required. The decedent’s interest is deemed to be intangible personal 
+property.  
+ 
+31. Is a waiver required if the decedent has interest in a partnership or corporation 
+that owns New Jersey real estate?  
+No, a waiver is not required. The decedent’s interest is deemed to be intangible personal 
+property.  
+ 
+32. The New Jersey real estate is held as tenancy by the entirety by the decedent and 
+his/her surviving spouse or civil union partner.  Do I need a tax waiver?  
+No. Tax waivers are not required for real estate owned by a husband and wife/civil union 
+couple as “tenancy by the entirety” in the estate of the first spouse or civil union partner to 
+die.  

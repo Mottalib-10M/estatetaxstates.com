@@ -1,0 +1,21 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy of Estate Tax Atlas: state laws, dated figures, fixes" description="How Estate Tax Atlas writes its estate and inheritance tax pages: state statutes, revenue department pages and IRS texts only, every amount read from one dated parameter file." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial policy</h1>
+    <h2>What counts as a source</h2>
+    <p>For each state: the statute that sets the tax, and the revenue department page, form or instructions that apply it. For the federal tax: the Internal Revenue Code, the public law that changed it and the IRS revenue procedure that publishes the yearly amounts. Law firm articles, planners' charts and other calculators are read to know what people ask and where they go wrong, never as the source of a figure.</p>
+    <h2>How a figure reaches a page</h2>
+    <p>No amount is typed into the text. The parameter file holds each exemption, table and class with its source and the date it was read; the calculators and the pages read that file. Where a state publishes a worked example, such as the Illinois Attorney General's, the example is an automated test, and every published table is checked row by row against its own rates: if a figure is mistyped, the site does not build.</p>
+    <h2>Uncertain points</h2>
+    <p>When an official text is silent or two official texts disagree, the page says so instead of choosing. Examples in this edition: no state text on portability in several states, and Washington's 2027 adjustment, read differently by the statute and the Department of Revenue.</p>
+    <h2>Independence</h2>
+    <p>{AUTHOR_NAME} receives nothing from law firms, wealth managers, trust companies or insurers and links to none of them. There is no advertising today; if some is added it will be labeled, limited to three places a page, and never come from a firm selling estate planning.</p>
+    <h2>Review and corrections</h2>
+    <p>The site is reviewed at least every {REVIEW_CYCLE_MONTHS} months, and whenever a state publishes new amounts or passes a new law. A reported error is checked against the source and, once fixed, moves the date shown on the page. Write through the <a href={route('contact', lang)}>contact page</a>; the calculations are explained on the <a href={route('method', lang)}>method page</a>.</p>
+  </div>
+</PageLayout>

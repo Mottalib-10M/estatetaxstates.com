@@ -1,0 +1,22 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const code = `<iframe src="${SITE_URL}/embed/estate-tax-calculator/" title="2026 estate and inheritance tax calculator" width="100%" height="1100" style="border:0;max-width:1100px" loading="lazy"></iframe>`;
+---
+<PageLayout title="Embed the 2026 estate and inheritance tax calculator on your site" description="Estate attorneys' blogs, libraries and personal finance teachers can embed the 2026 state and federal estate tax calculator, heirs included, with one iframe line. No cookie." lang={lang} noindex={true} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Embed the calculator', path: route('widget', lang) }])]} breadcrumbs={[{ label: 'Embed the calculator' }]} showAuthor={false}>
+  <header class="mb-6">
+    <h1 class="font-serif text-3xl font-bold text-navy-900 md:text-4xl">Embed the estate tax calculator</h1>
+    <p class="mt-3 text-lg text-navy-700">One line of code. When a state changes its exemption or its table, the embedded calculator follows.</p>
+  </header>
+  <div class="prose prose-slate max-w-none">
+    <p>Terms: keep the credit line under the calculator visible, do not alter the frame, and do not present it as legal advice or as the tool of a government agency. The frame sets no cookie and sends us nothing about your readers. Questions: <a href={route('contact', lang)}>contact page</a>.</p>
+    <h2>State estate tax, inheritance tax per heir and federal estate tax</h2>
+    <pre class="overflow-x-auto rounded-lg bg-navy-900 p-4 text-sm text-white"><code>{code}</code></pre>
+  </div>
+  <div class="mt-8 overflow-hidden rounded-xl border border-navy-200">
+    <iframe src="/embed/estate-tax-calculator/" title="2026 estate and inheritance tax calculator" width="100%" height="1100" style="border:0" loading="lazy"></iframe>
+  </div>
+</PageLayout>

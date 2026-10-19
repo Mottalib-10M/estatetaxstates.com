@@ -1,0 +1,27 @@
+URL: https://www.irs.gov/pub/irs-pdf/i706na.pdf
+Lu le: 2026-10-19
+Titre: Instructions for Form 706-NA (Rev. September 2025)
+
+(Rev. September 2025)
+United States Estate (and Generation-Skipping Transfer) Tax Return
+[...]
+States.
+Who Must File
+The executor must file Form 706-NA if the date of death value 
+of the decedent’s U.S.-situated assets, together with the gift 
+tax specific exemption and the amount of adjusted taxable 
+gifts, exceeds the filing threshold of $60,000. The gift tax 
+specific exemption refers to the amount allowed for gifts 
+made by the decedent between September 9, 1976, and 
+[...]
+line 3 (to be entered on line 4), use T able A—Unified Rate 
+Schedule in the version of the Instructions for Form 706 that 
+corresponds to the decedent's date of death.
+Line 7
+Enter the unified credit. The unified credit is allowed for the 
+smaller of the line 6 amount or the maximum unified credit. In 
+general, the maximum unified credit is $13,000.
+For a citizen of a U.S. territory (see section 2209), the 
+maximum unified credit is the greater of:
+• $13,000, or
+• The product of $46,800 times a fraction.

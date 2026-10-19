@@ -1,0 +1,6 @@
+URL: https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-01/RI-706_Instructions_2025.pdf (lien « RI-706 Instructions » de https://tax.ri.gov/forms/individual-tax-forms/estate-tax-forms ; PDF lu dans Chrome, texte extrait avec pdf.js ; curl renvoie 403)
+Lu le: 2026-10-19
+Titre: RI-706 Estate Tax Return Instructions (2025) - State of Rhode Island Division of Taxation
+
+[Part 4 - Computation of Tax]
+Line 2 - Total gross estate less exclusion from page 4, Part 6, line 12. Line 3 - Rhode Island Gross Estate For a decedent domiciled in Rhode Island: Enter the amount of Rhode Island Assets excluding non-Rhode Island real and tangible property. For a decedent non-domiciled in Rhode Island: Enter the amount of Rhode Island real and tangible property. Line 4 – Determine the percentage of which the Rhode Island gross estate is of the federal gross estate. Divide line 3 by line 2. Carry to four decimal places.

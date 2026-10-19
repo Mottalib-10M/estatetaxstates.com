@@ -1,0 +1,243 @@
+URL: https://revenue.ky.gov/Individual/Inheritance-Estate-Tax/PublishingImages/Pages/default/Inheritance%20Tax%20Guide%2092F101%20%281-21%29.pdf
+Lu le: 2026-10-19
+Titre: A Guide to Kentucky Inheritance and Estate Taxes, 92F101 (1-21), Kentucky Department of Revenue
+Note: texte extrait du PDF (pypdf). ATTENTION : guide de 2021, anterieur aux lois 2026 (2026 Ky. Acts ch. 198 et ch. 161) ; le tableau de la page 6 est desordonne a l extraction (mise en page en colonnes), reproduit tel quel.
+
+--- page 3 ---
+1 
+INTRODUCTION 
+Kentucky has two death taxes. 
+Inheritance T ax 
+The Kentucky inheritance tax is a tax on a beneficiary’s right to receive property from a deceased person. The 
+amount of the inheritance tax depends on the relationship of the beneficiary to the deceased person and the value of the 
+property. Most of the time, the closer the relationship the greater the exemption and the smaller the tax rate. All property 
+belonging to a resident of Kentucky is subject to the tax except for real estate located in another state. Also, real estate and 
+personal property located in Kentucky and owned by a nonresident is subject to being taxed. 
+If the inheritance tax is paid within nine months of date of decedent’s death, a 5 percent discount is allowed. The 
+tax due should be paid when the return is filed. However, if the beneficiary’s net inheritance tax liability exceeds $5,000 
+and the return is filed timely, an election can be made to pay the tax in 10 equal annual installments. The first installment 
+is due at the time the return is filed. The portion of the tax deferred is charged with interest at the rate established by law 
+beginning 18 months after the date of death. 
+There are three classes of beneficiaries: Class A, Class B, and Class C. 
+Class A beneficiaries include: 
+surviving spouse, parent, child, grandchild, brother, sister, half-brother, and half-sister 
+If the date of death is after June 30, 1998, all Class A beneficiaries are exempt from paying Kentucky 
+inheritance tax. 
+Class B beneficiaries include: 
+niece, nephew, half-niece, half-nephew, daughter-in-law, son-in-law, aunt, uncle, great-grandchild 
+Note: nieces and nephews by marriage and great-nieces and great-nephews are Class C beneficiaries. 
+Class B beneficiaries receive a $1,000 exemption and the tax rate is 4 percent to 16 percent. See tax chart on page 6. 
+Class C beneficiaries include all persons not included in Class A or Class B. Cousins are considered Class C beneficiaries. 
+Class C beneficiaries receive a $500 exemption and the tax rate is 6 percent to 16 percent. See tax chart page 6. 
+--- page 4 ---
+2 
+Estate T ax 
+Since January 1, 2005, there has been no Kentucky estate tax. 
+The American Taxpayer Relief Act was signed into law on January 2, 2013 and permanently extends the deduction 
+for state estate taxes on the Federal 706. Before 2005, a credit was allowed against the federal estate tax for state 
+estate, inheritance, legacy, or succession taxes. The Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA) 
+repealed the state death tax credit for decedents dying after 2004 and replaced the credit with a deduction. Kentucky 
+estate tax is equal to the amount by which the credits for state death taxes allowable under the federal tax law exceeds 
+the inheritance tax, less the discount, if taken by the taxpayer. Since state death taxes are no longer treated as a credit for 
+federal estate taxes, there is no Kentucky estate tax. 
+For answers to questions pertaining to the filing of a Federal Estate and Gift Tax Return, you can call the IRS at 
+(800) 829-1040. 
+--- page 5 ---
+3 
+AFFIDAVIT OF EXEMPTION 
+On June 18, 1999, the Kentucky Department of Revenue sent a memorandum to the District Judges in the 
+Commonwealth of Kentucky requesting that an Affidavit of Exemption be accepted in place of an Inheritance and Estate 
+Tax Acceptance Letter for final settlement and closing of the administration of an estate. The affidavit should be used only 
+when the entire estate passes to nontaxable beneficiaries and a United States Estate and Gift Tax Return is not required to 
+be filed under federal law and applicable regulations. 
+Using this form will eliminate expending time and money for the preparation and review of Inheritance and Estate 
+Tax Returns. The Affidavit of Exemption should ease the administration of estates that do not owe any Kentucky death tax 
+and are not required to file a Federal Estate and Gift Tax Return. If you have questions, contact Financial Tax Section, (502) 
+564-4810. 
+If an Affidavit of Exemption is submitted to the Court, do not send a copy of the affidavit to the Kentucky Department 
+of Revenue. 
+--- page 6 ---
+4 
+AFFIDAVIT OF EXEMPTION 
+Affiant ____________________________ , being first duly sworn, states that he/she is fiduciary or beneficiary 
+of the estate of _______________________________ , who died on the _______ day of _______________ , _______ , a 
+resident of _________________________ County, Kentucky. 
+Affiant states that all assets of the estate pass to exempt beneficiaries pursuant to Kentucky Revised Statute 
+140.080* or exempt organizations pursuant to Kentucky Revised Statute 140.060** either by virtue of the 
+decedent’s will, the intestate laws of this state, or by contract (survivorship, payable on death, trust, etc.). 
+Affiant further states that a Kentucky Inheritance Tax Return will not be filed since no death tax is due the 
+state and a Federal Estate and Gift Tax Return (Form 706) is not required to be filed because the gross estate 
+is less than the required amount set out in Section 2010(c) of the Internal Revenue Code. This affidavit is being 
+submitted to satisfy the requirements of Kentucky Revised Statute 395.605. 
+__________________________________________________________ 
+Signature 
+Witness my hand this ________ day of __________________________ , __________ . 
+Sworn and subscribed to before me by _____________________________________ 
+this _______ day of ____________________________________________ , __________ . 
+______________________________________________________ Notary Public 
+My commission expires______________________________________ 
+*Exempt beneficiaries under KRS 140.080 include spouse, children, stepchildren, grandchildren, parent, brother, 
+and sister. 
+**Exempt organizations include educational, religious or other institutions, societies, or associations, whose 
+sole purpose is to carry on charitable, educational, or religious work. Also, cities, towns or public institutions 
+in this state qualify as exempt organizations provided that any transfer to such an organization is for public 
+purposes. 
+92A300 (9-13) 
+--- page 7 ---
+5 
+FILING AND PA YMENT INFORMATION 
+EFFECTIVE July 1, 1998 
+A tax return must only be filed by the personal representative when any part of the estate passes to taxable 
+beneficiaries or a Federal Estate and Gift Tax Return is required to be filed. 
+If all taxable assets pass to exempt beneficiaries, and a Federal Estate and Gift Tax Return is not required, an 
+Affidavit of Exemption will be accepted by the court for final settlement and closing of the administration of an estate. It is 
+not necessary to file a No T ax Due Inheritance T ax Return with the Kentucky Department of Revenue. If an Affidavit 
+of Exemption is submitted to the Court, do not send a copy of the affidavit to the Kentucky Department of Revenue. 
+A copy of the Affidavit of Exemption and tax returns can be obtained from the Financial Tax Section, Kentucky 
+Department of Revenue, Station 61, 501 High Street, Frankfort, Kentucky 40601-2103, or by calling (502) 564-4810, or from 
+the taxpayer service center in your area. See inside back cover for a listing of these centers. They can also be downloaded 
+from our website at revenue.ky.gov/forms/curhrfrms.htm 
+If taxes are due, when must the forms be filed? 
+If taxes are due, the return must be filed within 18 months from the date of the decedent’s death. If the tax due is 
+not paid within 18 months of death, interest and perhaps penalties are due. Filing the tax return should not be postponed 
+due to the delay in receiving the federal estate tax audit or closing letter or because the real estate is being sold. 
+--- page 8 ---
+$500 $500- $1,000- $10,000- $20,000- $30,000- $45,000- $60,000- $100,000- $200,000-
+  or less $1,000 $10,000 $20,000 $30,000 $45,000 $60,000 $100,000 $200,000 and over 
+      
+    
+INHERITANCE TAX TABLE 
+FOR ESTATES OF DECEDENTS WHO WERE RESIDENTS OF KENTUCKY 
+(APPLICABLE FOR DATES OF DEATH ON OR AFTER JUL Y 1, 1998) 
+CLASS A—The following list of beneficiaries are exempt from paying inheritance tax. 
+CLASS C 
+All persons not included in Classes A or B and educational, religious, 
+or other institutions, societies or associations, or public institutions not 
+exempted by KRS 140.060 
+CLASS B 
+*Nephew, niece, half-nephew, half-niece, daughter-in-law, son-in-law,
+aunt, uncle, or great-grandchild who is grandchild of child by blood,
+stepchild or child adopted during infancy . Exemption 
+$1,000 
+Exemption 
+$500 
+    0 0 4% of Amt. $360 + 5% $860 + 6% $1,460 + $2,660 + $4,160 + $8,960 + $22,960 + 
+      over of Amt. of Amt. 8% of Amt. 10% of 12% of 14% of 16% of 
+      $1,000 over over over Amt. over Amt. over Amt. over Amt. over 
+       $10,000 $20,000 $30,000 $45,000 $60,000 $100,0 00 $200,000 
+   
+    0  6% of Amt. $30 + 6% $570 + 8% $1,370 + $2,370 + $4,170 + $6,270 + $12,670 + $28,670 + 
+      over $500 of Amt. of Amt. 10% of 12% of 14% of 16% of 16% of 16% of 
+      over over Amt. over Amt. over Amt. over Amt. over Amt. over Amt. over 
+      $1,000 $10,000 $20,000 $30,000 $45,000 $60,000 $100,000 $200,000 
+CLASSIFICATION 
+OF BENEFICIARY 
+* Nephews and nieces by marriage and great-nephews and great-nieces are Class C beneficiaries.
+INSTRUCTIONS FOR USING INHERITANCE TAX TABLE ABOVE 
+A. Compute each beneficiary’s tax separately.
+B. Do not deduct the beneficiary’s exemption from the distributive share. The tax shown in the table for each distributive share bracket automatically applies the
+ the proper classification of the beneficiary at the left of the table. 
+ distributive  the distributive  of that beneficiary. 
+ allowable 
+exemption. 
+C. Determine
+D. Follow the tax table across to  share bracket at the top of the table that includes
+ to
+ share
+E. The tax applicable  that beneficiary’s distributive share is the amount shown plusthe designated percentage of the amount by which the distributive share exceeds the base
+of the distributive share
+DISTRIBUTIVE SHARE
+ bracket. 
+ BRACKETS 
+(1) Surviving spouse, parent
+(2) Child (adult or infant)
+  child by blood, stepchild, child adopted during infancy, or a child adopted during adulthood who was reared by 
+   decedent during infancy 
+(3) Grandchild
+  issue of child by blood, stepchild, child adopted during infancy, or of a child adopted during adulthood who was 
+   reared by decedent during infancy 
+(4) Brother, sister (whole or  half)
+--- page 9 ---
+7 
+* Nephews and nieces by marriage and great-nephews and great-nieces are Class C beneficiaries.
+INSTRUCTIONS FOR USING INHERITANCE TAX TABLE ABOVE
+A. Compute each beneficiary’s tax separately.
+B. Do not deduct the beneficiary ’s exemption from the distributive share. The tax shown in the table for each distributive share bracket automatically applies the allowable 
+exemption.
+C. Determine the proper classification of the beneficiary at the left of the table.
+D. Follow the tax table across to distributive share bracket at the top of the table that includes the distributive share of that beneficiary.
+E. The tax applicable to that beneficiary’s distributive share is the amount shown plus the designated percentage of the amount by which the distributive share exceeds the base 
+of the distributive share bracket.
+If tax is due, what must be included on the return? 
+In general, all real and personal property in which the decedent owned or has an interest must be included on the 
+tax return. 
+Example of taxable property: 
+Real estate 
+Cash 
+Bank accounts even if located outside of Kentucky 
+Certificates of deposit 
+Money 
+Stock, bonds 
+Life insurance payable to the insured or to the estate 
+Annuities 
+Debt due the decedent 
+Unpaid balance of mortgages, notes 
+Household goods 
+Livestock 
+Growing crops 
+Farm machinery 
+Automobiles 
+Income tax refunds 
+Boats, travel trailers 
+Royalties 
+Jewelry 
+Antiques 
+How must property included on the tax return be valued? 
+Most of the time all real and personal property must be reported at its fair cash value on the date of decedent’s 
+death. Under certain conditions when real estate passes to a son-in-law or a daughter-in-law the real estate can be valued at 
+its agricultural or horticultural value. Since special rules apply, for more information please contact the Financial Tax Section, 
+Kentucky Department of Revene, Sta. 61, 501 High Street, Frankfort, KY 40601-2103, or call (502) 564-4810. 
+What about gifts made before death? Are they taxable? 
+Any gift made within three years of death is subject to being taxed unless the gift was made for a living reason and 
+not in contemplation of death. 
+--- page 10 ---
+8 
+If a tax return has to be filed, what deductions are allowed in the Kentucky Inheritance T ax Return? 
+Funeral expenses up to $5,000 
+Attorney’s fees 
+Personal representative commissions 
+Debts and taxes owed by the decedent 
+Real property taxes 
+Mortgages 
+If the decedent was a resident of Kentucky, is property located outside of the state taxable? 
+If the decedent was a resident of Kentucky, all intangible property located outside of Kentucky is taxable. Under 
+certain conditions partnership property located in another state is taxable. Real estate is taxable in the state where it is 
+located. So, if a Kentucky resident owned real estate in another state, that real estate is not taxable for Kentucky inheritance 
+tax purposes. If a Kentucky nonresident owned real estate in Kentucky, then that property is subject to Kentucky inheritance 
+taxes. 
+How are assets distributed? 
+When a person dies, real and personal property may pass by title, under the terms of the will, or by the laws of 
+Kentucky. Survivorship property and property payable on death passes to the surviving co-owner shown on the deed or 
+instrument, unless a disclaimer was filed, and not by the terms of the will or by the laws of intestate succession. When a 
+person dies with a will, distribution of the estate is made according to the will, unless the will is renounced by the surviving 
+spouse or a disclaimer is filed. If the will is renounced, the surviving spouse receives one-third of the real property and 
+one-half of surplus personalty. The law provides that when a person dies without a will, one half of the estate, after funeral 
+expenses, debts, and cost of administration are paid, goes to the surviving spouse and one-half descends as follows (if 
+there is no surviving spouse, the whole estate descends): 
+1 . to his children and their descendants (descendants take the share of their deceased parents); if there are none, 
+2. to his father and mother; if one is deceased, to the survivor; if there is no father or mother, 
+3. to his brothers and sisters and their descendants; (half-brothers and half-sisters and their descendants inherit only one-
+half as much as those of the whole blood); if none, 
+4. to the husband or wife of the intestate; if none, 
+5. one share shall pass to the paternal and the other to the maternal kindred in the following order: 
+(a) the grandfather and grandmother equally, if one is deceased, it shall go to the survivor; if both are deceased, 
+(b) to the uncles and aunts and their descendants; if there are none, 
+(c) to the great-grandfathers and great-grandmothers; if none, 
+(d) to the brothers and sisters of the grandfathers and grandmothers; and 
+6. if there is no kindred to one of the parents as described in (5), the whole descends to the kindred of the other. If there 
+is neither paternal nor maternal kindred, the whole descends to the kindred of the spouse. 
+What are the exemptions, if the decedent was a nonresident of Kentucky? 
+The exemption for a beneficiary of a nonresident decedent’s estate is prorated based on the exemption of a 
+resident decedent and is in the proportion to the net value of the property subject to tax in Kentucky before federal estate 
+taxes to the total property transferred by the decedent. 
+--- page 11 ---

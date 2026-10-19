@@ -1,0 +1,16 @@
+URL: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=7-304&enactments=false
+Lu le: 2026-10-19
+Titre: Maryland Code, Article - Tax - General, §7-304 (Maryland General Assembly, Statutes Text)
+
+Article - Tax - General
+
+[...]
+
+§7–304.
+(a)    Subject to § 7-309 of this subtitle, in this section, “federal credit” means the maximum credit for death taxes paid to any state that is allowable under § 2011 of the Internal Revenue Code against the federal estate tax of a decedent as reduced by the proportion that the amount of the estate not included in the Maryland estate bears to the amount of the entire estate of the decedent.
+(b)    (1)    Except as otherwise provided in this subsection, the Maryland estate tax is the amount, if any, by which the federal credit exceeds the total of death taxes other than the Maryland estate tax that:
+(i)    are imposed by a state on property included in the Maryland estate;
+(ii)    are allowable in computing the federal credit; and
+(iii)    except as provided in § 13-906 of this article, have actually been paid out of the Maryland estate and received by the appropriate unit of this State.
+(2)    Subject to § 7-309 of this subtitle, the Maryland estate tax may not exceed the amount whose timely payment in accordance with federal law would reduce the amount of the federal estate tax payable out of the Maryland estate had this subtitle not been enacted.
+(c)    The Maryland estate tax is not affected by a failure to take or preserve the federal credit.

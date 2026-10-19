@@ -1,0 +1,33 @@
+URL: https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/26_706ME_dwnld_fillable.pdf
+Lu le: 2026-10-19
+Titre: 2026 Form 706ME, Maine Estate Tax Return - Maine Revenue Services
+
+=== page 2 ===
+Form 706ME is required to be filed only if:
+• The Internal Revenue Code requires a federal estate tax return be filed;
+• There is an amount reportable on line 2, below; or,
+• Line 6, below, is more than $7,160,000.
+STEP 4 - Tax Computation
+Maine Taxable Estate
+1. Federal taxable estate (federal Form 706, Part 2, line 3a) ................................1. .00
+2. Maine qualified terminable interest property (must not exceed $7,840,000) .....2. .00
+3. Maine elective property......................................................................................3. .00
+4. Value of gifts included in federal Form 706, Part 2, line 4, made within one
+year of date of death ..........................................................................................4. .00
+5. Maine taxable estate (line 1 minus line 2 plus lines 3 and 4) ............................5. .00
+Maine Apportionment Factor
+6. Apportionable base (federal Form 706, Part 2, line 1, plus lines 3 and 4 above) ....6. .00
+a. Real and tangible personal property located in Maine included in
+line 6 (see instructions) ..............................................................................6a. .00
+
+b. Intangible personal property included in line 6 (see instructions) ..............6b. .00
+7. Resident apportionment factor (Line 6a plus line 6b divided by line 6.
+Round to 6 decimals. If 100%, enter 1.000000) ................................................7. .
+8. Nonresident apportionment factor (Line 6a divided by line 6.
+Round to 6 decimals. If 100%, enter 1.000000) ................................................8. .
+Maine Estate Tax
+9. Gross Maine estate tax (apply the taxable estate amount on line 5 to the
+tax rate schedule in Table A, page 3) .................................................................9. .00
+10. Net Maine estate tax (Residents: multiply line 9 by line 7; Nonresidents:
+multiply line 9 by line 8) ...................................................................................10. .00
+Amount Due or Refund

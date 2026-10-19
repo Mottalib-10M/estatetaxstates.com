@@ -1,0 +1,36 @@
+---
+/**
+ * The 50 states and DC as a tile grid (one square per jurisdiction, roughly where it sits on the map),
+ * colored by what a death there triggers: estate tax, inheritance tax, both, or neither. Each tile links
+ * to the state's page, or to the page on states without either tax. Data: src/lib/states.ts.
+ */
+import { route, ROUTES } from '../i18n/routes';
+import { JURISDICTIONS, kindOf } from '../lib/states';
+const lang = 'en';
+const KIND = {
+  estate: { cls: 'bg-accent-700 text-white', label: 'Estate tax' },
+  inheritance: { cls: 'bg-amber-200 text-navy-900', label: 'Inheritance tax' },
+  both: { cls: 'bg-[repeating-linear-gradient(135deg,#20344b_0_6px,#fde68a_6px_12px)] text-white', label: 'Both (Maryland)' },
+  none: { cls: 'bg-navy-100 text-navy-800', label: 'Neither' },
+} as const;
+const tiles = JURISDICTIONS.map((j) => {
+  const k = kindOf(j.code);
+  const target = j.page ?? 'states-without-estate-tax';
+  const id = ROUTES.some((r) => r.id === target) ? target : 'home';
+  return { ...j, k, href: route(id, lang) };
+});
+---
+<figure class="my-6" data-chrome>
+  <div class="grid grid-cols-11 gap-[3px] sm:gap-1" role="list" aria-label="Estate and inheritance tax by state, 2026">
+    {tiles.map((t) => (
+      <a role="listitem" href={t.href} title={`${t.name}: ${KIND[t.k].label.toLowerCase()}`} style={`grid-column:${t.col + 1};grid-row:${t.row + 1}`}
+        class={`flex aspect-square items-center justify-center rounded-sm text-[0.6rem] font-semibold sm:text-xs ${KIND[t.k].cls} hover:outline hover:outline-2 hover:outline-navy-900`}>
+        <span class={t.k === 'both' ? 'rounded bg-navy-900 px-0.5' : ''}>{t.code}</span>
+      </a>
+    ))}
+  </div>
+  <figcaption class="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-xs text-navy-700">
+    {Object.entries(KIND).map(([, v]) => <span class="inline-flex items-center gap-1.5"><span class={`inline-block h-3 w-3 rounded-sm ${v.cls}`} aria-hidden="true"></span>{v.label}</span>)}
+    <span>Deaths in 2026. Tap a state for its rules.</span>
+  </figcaption>
+</figure>

@@ -1,0 +1,13 @@
+{
+ "accent": "#2D4A6B",
+ "symbol": "EST",
+ "variants": [
+  {
+   "file": "og-en.png",
+   "title": "Estate and inheritance tax\nstate by state, 2026",
+   "subtitle": "13 estate tax jurisdictions · 5 inheritance tax states · federal $15M",
+   "badge": "Each row dated and sourced to the state",
+   "brand": "Estate Tax Atlas"
+  }
+ ]
+}

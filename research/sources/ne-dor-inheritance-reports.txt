@@ -1,0 +1,58 @@
+URL: https://revenue.nebraska.gov/PAD/inheritance-tax
+Lu le: 2026-10-19
+Titre: Inheritance Tax | Property Assessment Division | Nebraska Department of Revenue
+
+ Inheritance Tax
+Inheritance Tax 
+2026 Inheritance Tax Reports
+ Inheritance Tax Report (PDF)
+ Inheritance Tax Report (Excel)
+2025 Inheritance Tax Reports
+ Inheritance Tax Report (PDF)
+ Inheritance Tax Report (Excel)
+2024 Inheritance Tax Reports
+ Inheritance Tax Report (PDF)
+ Inheritance Tax Report (Excel)
+2023 Inheritance Tax Reports
+​ Inheritance Tax Report (PDF) 
+ Inheritance Tax Report (Excel) 
+Legal Information
+Neb. Rev. Stat. § 77-2015. Inheritance tax; distribution of proceeds from estate; reports required; contents; department; duties.
+Contact Information
+Debra Williams
+Attorney/Manager, Property Assessment Division
+Nebraska Department of Revenue 
+301 Centennial Mall South
+PO Box 98919 
+Lincoln, NE 68509-8919
+402-471-5961 Fax: 402-471-5993
+debra.williams@nebraska.gov
+
+----
+URL: https://revenue.nebraska.gov/sites/default/files/doc/pad/inheritance_tax/2026/2026_Inheritance_Tax_Report.pdf
+Lu le: 2026-10-19
+Titre: Annual Report of County Inheritance Taxes Paid, July 1, 2025 - June 30, 2026, Nebraska Department of Revenue, Property Assessment Division (Publish Date: September 1, 2026)
+Note: en-tete et premieres lignes (comte Adams) extraits du PDF (pypdf).
+
+This report is compiled and published pursuant to Neb. Rev. Stat. § 77-2015.
+A: Total Number 
+of NE Resident 
+Beneficiaries
+B: Total 
+Number of 
+Nonresident 
+Beneficiaries
+ C: Total Resident 
+Beneficiary 
+Inheritance Tax Paid 
+to County 
+ D. Total Nonresident 
+Beneficiary Inheritance 
+Tax Paid to County 
+ E. Total Inheritance 
+Tax Paid to This County 
+Cnty# County
+1 Adams Class 1 212 95 865,303.63$ 347,839.94$ 
+Class 2 25 3 991,250.93$ 85,734.46$ 
+Class 3 8 0 100,637.14$ -$ 
+Total 245 98 1,957,191.70$ 433,574.40$ 2,390,766.10$ 

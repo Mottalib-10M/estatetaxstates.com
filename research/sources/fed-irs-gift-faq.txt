@@ -1,0 +1,41 @@
+URL: https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes
+Lu le: 2026-10-19
+Titre: Frequently asked questions on gift taxes | Internal Revenue Service
+
+What can be excluded from gifts?
+The general rule is that any gift is a taxable gift. However, there are many exceptions to this rule. Generally, the following gifts are not taxable gifts.
+Gifts that are not more than the annual exclusion for the calendar year.
+Tuition or medical expenses you pay for someone (the educational and medical exclusions).
+Gifts to your spouse.
+Gifts to a political organization for its use.
+In addition to this, gifts to qualifying charities are deductible from the value of the gift(s) made.
+May I deduct gifts on my income tax return?
+Making a gift or leaving your estate to your heirs does not ordinarily affect your federal income tax. You cannot deduct the value of gifts you make (other than gifts that are deductible charitable contributions). If you are not sure whether the gift tax or the estate tax applies to your situation, refer to Publication 559, Survivors, Executors, and Administrators .
+How many annual exclusions are available? (updated December 2025)
+The annual exclusion applies to gifts to each donee. In other words, if you give each of your children $19,000 in 2026, the annual exclusion applies to each gift. The table below shows the annual exclusion amount applicable in the year of the gift.
+Annual exclusion per donee for year of gift Year of gift Annual exclusion per donee
+2011 through 2012 $13,000
+2013 through 2017 $14,000
+2018 through 2021 $15,000
+2022 $16,000
+2023 $17,000
+2024 $18,000
+2025 $19,000
+2026 $19,000
+What if my spouse and I want to give away property that we own together? (updated December 2025)
+Each spouse is entitled to the annual exclusion amount on the gift, as shown in the table.
+Annual exclusion per donee (one spouse/two spouses) Year of gift Annual exclusion per donee Annual exclusion total per donee (from 2 spouses)
+2011 through 2012 $13,000 $26,000
+2013 through 2017 $14,000 $28,000
+2018 through 2021 $15,000 $30,000
+2022 $16,000 $32,000
+2023 $17,000 $34,000
+2024 $18,000 $36,000
+2025 $19,000 $38,000
+2026 $19,000 $38,000
+For information on gift splitting, see Gifts to Donees Other Than Your Spouse in the Instructions to Form 709 .
+[...]
+How does the basic exclusion amount apply in 2026 if I make large gifts before 2026?
+The Working Families Tax Cuts Bill was signed into law on July 4, 2025 as Public Law 119-21 and amends § 2010(c)(3) by increasing the basic exclusion amount to $15,000,000 for gifts for calendar year 2026
+[...]
+Page Last Reviewed or Updated: 23-Jul-2026

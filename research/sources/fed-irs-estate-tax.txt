@@ -1,0 +1,47 @@
+URL: https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax
+Lu le: 2026-10-19
+Titre: Estate tax | Internal Revenue Service
+
+The Estate Tax is a tax on your right to transfer property at your death. It consists of an accounting of everything you own or have certain interests in at the date of death ( Refer to Form 706 PDF ). The fair market value of these items is used, not necessarily what you paid for them or what their values were when you acquired them. The total of all of these items is your "Gross Estate." The includible property may consist of cash and securities, real estate, insurance, trusts, annuities, business interests and other assets.
+Once you have accounted for the Gross Estate, certain deductions (and in special circumstances, reductions to value) are allowed in arriving at your "Taxable Estate." These deductions may include mortgages and other debts, estate administration expenses, property that passes to surviving spouses and qualified charities. The value of some operating business interests or farms may be reduced for estates that qualify.
+After the net amount is computed, the value of lifetime taxable gifts (beginning with gifts made in 1977) is added to this number and the tax is computed. The tax is then reduced by the available unified credit.
+Most relatively simple estates (cash, publicly traded securities, small amounts of other easily valued assets, and no special deductions or elections, or jointly held property) do not require the filing of an estate tax return. A filing is required if the gross estate of the decedent, increased by the decedent’s adjusted taxable gifts and specific gift tax exemption, is valued at more than the filing threshold for the year of the decedent’s death, as shown in the table below.
+Filing threshold for year of death
+Year of Death
+If Amount Described Above Exceeds:
+2011
+$5,000,000
+2012
+$5,120,000
+2013
+$5,250,000
+2014
+$5,340,000
+2015
+$5,430,000
+2016
+$5,450,000
+2017
+$5,490,000
+2018
+$11,180,000
+2019
+$11,400,000
+2020
+$11,580,000
+2021
+$11,700,000
+2022
+$12,060,000
+2023
+$12,920,000
+2024
+$13,610,000
+2025
+$13,990,000
+2026
+$15,000,000
+Beginning January 1, 2011, estates of decedents survived by a spouse may elect to pass any of the decedent's unused exemption to the surviving spouse. This election is made on a timely filed estate tax return for the decedent with a surviving spouse. Note that simplified valuation provisions apply for those estates without a filing requirement absent the portability election.
+For additional information, refer to Instructions for Form 706 .
+[...]
+Page Last Reviewed or Updated: 22-Dec-2025

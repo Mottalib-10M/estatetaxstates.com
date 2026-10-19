@@ -1,0 +1,46 @@
+URL: https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax
+Lu le: 2026-10-19
+Titre: What's new — Estate and gift tax | Internal Revenue Service
+
+Working Families Tax Cuts
+The Working Families Tax Cuts Bill (WFTC) was signed into law on July 4, 2025 as Public Law 119-21. WFTC amends § 2010(c)(3) by increasing the basic exclusion amount to $15,000,000 for calendar year 2026.
+[...]
+Form 706 changes
+The basic exclusion amount for the year of death is as follows:
+Basic exclusion amount for year of death
+Year of death Basic exclusion amount
+2011 $5,000,000
+2012 $5,120,000
+2013 $5,250,000
+2014 $5,340,000
+2015 $5,430,000
+2016 $5,450,000
+2017 $5,490,000
+2018 $11,180,000
+2019 $11,400,000
+2020 $11,580,000
+2021 $11,700,000
+2022 $12,060,000
+2023 $12,920,000
+2024 $13,610,000
+2025 $13,990,000
+2026 $15,000,000
+For estate tax returns after 12/31/1976, Line 4 of Form 706, United States Estate (and Generation-Skipping Transfer) Tax Return PDF , lists the cumulative amount of adjusted taxable gifts within the meaning of IRC section 2503. The computation of gift tax payable (Line 7 of Form 706) uses the IRC section 2001(c) rate schedule in effect as of the date of the decedent's death, rather than the actual amount of gift taxes paid with respect to the gifts.
+With the top bracket tax rates decreasing from 55 percent (in 2001) to 35 percent (in 2010), and then increasing to 40 percent (in 2013), the IRS has encountered situations where gift taxes paid were greater than the tax calculated using the rate in effect at the date of death.
+It appears that some Form 706 software used by practitioners require a manual input of the gift tax payable line. Some preparers are reporting gift taxes actually paid rather than calculating the gift tax payable under date of death rates. These errors result in underpayment of estate tax due. Cases with this issue will involve estates where large gifts were made during life and at a time when tax rates were higher than at date of death. (Posted 6-5-06)
+Beginning Jan. 1, 2011, estates of decedents survived by a spouse may elect to pass any of the decedent's unused exclusion to the surviving spouse. This election is made on a timely filed estate tax return for the decedent with a surviving spouse. Note that simplified valuation provisions apply for those estates without a filing requirement absent the portability election. See the Instructions to Form 706 for additional information.
+Annual exclusions
+The annual exclusion amount for the year of gift is as follows:
+Annual exclusion per donee for year of gift
+Year of gift Annual exclusion per donee
+2011 through 2012 $13,000
+2013 through 2017 $14,000
+2018 through 2021 $15,000
+2022 $16,000
+2023 $17,000
+2024 $18,000
+2025 $19,000
+2026 $19,000
+For basic exclusion amounts, see the table above, in Form 706 changes .
+[...]
+Page Last Reviewed or Updated: 23-Jul-2026

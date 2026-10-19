@@ -1,0 +1,63 @@
+URL: https://tax.ri.gov/tax-sections/estate-tax (lue via Chrome, curl renvoie 403 ; accordéons dépliés)
+Lu le: 2026-10-19
+Titre: Estate Tax | RI Division of Taxation
+
+The Estate tax is imposed upon the transfer of the net value of the assets of every decedent with actual situs (both real and personal property) in this state.
+
+[...]
+
+Is there a filing extension for Estate Tax?
+
+A six-month filing extension may be granted, however, and regardless of the approval status of the extension, interest and penalty will continue to accrue from the date the tax is due until the tax due amount is paid.
+
+Requests for an extension should be filed by using Form RI-4768, found on the Estate Tax Forms webpage. A copy of the estate’s Federal request for extension (IRS Form 4768) should accompany the Form RI-4768 if applicable.
+
+[...]
+
+For date of death on or after 1/1/2025, there is no longer a filing fee due.
+
+[...]
+
+When is the Estate Tax due?
+
+The Estate Tax return is due nine months after the date of death of the decedent. Payment in full for any taxes and the filing fee payment must be made by that date.
+
+Interest at the rate of 12% per year and penalty at the rate of 0.5% per month to a maximum of 25% will start and continue to accrue from the date the tax is due until the tax due amount is paid.
+
+How do I determine if I have a taxable or non-taxable estate?
+
+Any estate where the value of the gross estate is below the statutory threshold would be considered a non-taxable estate. The threshold amounts are:
+
+For decedents dying on or after 1/1/2015 with a gross estate of more than $1,500,000
+[...]
+
+After 01/01/2016, the taxable threshold was indexed for inflation and can be found below:
+
+For decedents dying on or after 1/1/2016 with a gross estate of more than $1,500,000
+For decedents dying on or after 1/1/2017 with a gross estate of more than $1,515,156
+For decedents dying on or after 1/1/2018 with a gross estate of more than $1,537,656
+For decedents dying on or after 1/1/2019 with a gross estate of more than $1,561,719
+For decedents dying on or after 1/1/2020 with a gross estate of more than $1,579,922
+For decedents dying on or after 1/1/2021 with a gross estate of more than $1,595,156
+For decedents dying on or after 1/1/2022 with a gross estate of more than $1,648,611
+For decedents dying on or after 1/1/2023 with a gross estate of more than $1,733,264
+For decedents dying on or after 1/1/2024 with a gross estate of more than $1,774,583
+For decedents dying on or after 1/1/2025 with a gross estate of more than $1,802,431
+For decedents dying on or after 1/1/2026 with a gross estate of more than $1,838,056
+
+Gross Estate means the full fair market value of assets prior to any deductions. Deductions include reductions in value for items such as mortgages, debts, claims, etc.
+
+What return is used to file for the Estate Tax?
+
+Beginning January 1, 2022, all estates of a decedent dying on or after 01/01/2015 are required to use the form RI-706. [...] If you are the executor/executrix, administrator/administratix, or personal representative for the estate of a decedent who passed after January 1, 2015, and are filing a taxable or non-taxable estate return, you will need to use the RI-706 form.
+
+[...]
+
+Form T-77 must be filed along with Rhode Island estate tax return if the decedent had any interest (Real Property or other) located in Rhode Island. This form should be filed in triplicate.
+
+[...]
+
+Resources
+Statute: R.I. Gen. Law § 44-22
+Statute: R.I. Gen. Law § 44-23
+Regulation: RI Regulation 280-RICR-20-35

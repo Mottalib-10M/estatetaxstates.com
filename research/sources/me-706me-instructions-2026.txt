@@ -1,0 +1,98 @@
+URL: https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/26_706ME_instructions.pdf
+Lu le: 2026-10-19
+Titre: Instructions for Maine Estate Tax Return Form 706ME (2026) - Maine Revenue Services
+
+documents and select “Determining Residency Status.”
+Step 4 Tax Computation:  Complete this section based on
+the 2026 actual or pro forma federal Form 706. If
+Form 706ME is not required to be filed (see General
+Information above), a Statement of Value (700-SOV)
+may be used to request a discharge of the automatic
+property lien provided under 36 M.R.S. § 4112.
+Line 2.  Maine QTIP. Maine allows a deduction for
+assets that are eligible for the QTIP election under the
+Internal Revenue Code (the Code) Section 2056(b)(7),
+when a QTIP election is not made on that property for
+federal estate tax purposes. Entering an amount on
+this line constitutes a Maine QTIP election for eligible
+property. The maximum allowable Maine QTIP election
+is the difference between the decedent’s federal
+exclusion amount, net of any deceased spousal unused
+exclusion from a predeceased spouse, and the Maine
+exclusion amount. For 2026 decedents, this maximum
+election is $7,840,000 ($15,000,000 - $7,160,000). If
+the Maine QTIP is a portion of a trust or other property
+included in the federal taxable estate, the personal
+representative is considered to have made an election
+equal to a fraction of that trust or property. The numerator
+of the fraction is the amount of the Maine QTIP entered
+
+[...]
+
+GENERAL INFORMATION
+The Maine estate tax applies to the estate of every decedent
+who, at the time of death, was a resident of Maine, as well as to
+the estate of every nonresident decedent whose adjusted federal
+gross estate* consists of real and/or tangible personal property
+located in Maine on the date of death or, in the case of a gift
+made within one year of death, at the time of the gift. A Maine
+estate tax return must be filed if:
+●  a federal estate tax return is required to be filed;
+● the Maine qualified terminable interest property (QTIP)
+election (Form 706ME, line 2) is greater than zero; or
+●  the adjusted federal gross estate* exceeds $7.16 million.
+The Maine estate tax return is due nine months after the date
+of death.
+*Adjusted federal gross estate means the sum of federal Form
+706, line 1, the value of Maine elective property (see instructions
+for line 3) and the value of adjusted taxable gifts made within
+one year of death.
+
+[...]
+
+or intangible).
+Line 6a. Real and tangible personal property located
+in Maine. This line must be completed for both the
+estate of a Maine resident decedent and the estate of
+a nonresident decedent. Enter the amount of real and
+tangible personal property included in line 6 less the
+value of real and tangible personal property located
+outside of Maine on the date of death of the decedent
+or, in the case of a gift, on the date of the gift.
+On this line, the estate of a nonresident decedent must
+include real and tangible personal property located in
+Maine held in a trust, LLC or other pass-through entity,
+unless that property is acquired through a bona fide sale
+for full and adequate consideration, the ownership of the
+property in the entity is for a valid business purpose and
+the entity actively carries on a business for the purpose
+of profit and gain. See 36 M.R.S. § 4104 and MRS Rule
+603.
+Line 6b. Intangible personal property.  This line
+must be completed for the estate of a Maine resident
+decedent. The estate of a nonresident decedent should
+leave this line blank. For the estate of a Maine resident
+decedent, enter the value of all intangible personal
+property included in line 6. Examples of intangible
+personal property include, but are not limited to, cash,
+brokerage account balances, interest and dividends, life
+insurance proceeds, and annuities.
+Line 10. Net Maine estate tax. Residents: multiply line
+9 by line 7. Nonresidents: multiply line 9 by line 8. If the
+estate of a resident decedent pays estate tax to another
+jurisdiction on real or tangible personal property included
+in a trust, LLC, or other pass-through entity, Maine will
+
+[...]
+
+=== page 3 ===
+Table A - Maine Estate Tax Rate Schedule
+If Form 706ME, line 5 is: The tax for line 9 is:
+$7,160,000 or less  $0
+more than $7,160,000 but not more than $10,160,000 8% of the excess over $7,160,000
+more than $10,160,000 but not more than $13,160,000 $240,000 plus 10% of the excess over $10,160,000
+more than $13,160,000 $540,000 plus 12% of the excess over $13,160,000
+Extension. Maine allows an automatic extension to file equal
+to any federal extension or six months, whichever is longer. An
+extension to file is not an extension to pay the tax. An extension
+to pay the tax must be requested in writing.

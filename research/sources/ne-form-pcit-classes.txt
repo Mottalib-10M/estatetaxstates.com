@@ -1,0 +1,77 @@
+URL: https://revenue.nebraska.gov/sites/default/files/doc/pad/forms/Form_PCIT_Petitioner_County_Inheritance_Tax_Report.pdf
+Lu le: 2026-10-19
+Titre: Form PCIT - Petitioner's County Inheritance Tax Report, Nebraska Department of Revenue (Rev. 6-2023, supersedes 96-344-2022)
+Note: texte integral extrait du PDF (pypdf).
+
+Petitioner’s County Inheritance Tax Report
+County Where Inheritance Tax is Determined.
+Decedent Name Probate Number, if applicable
+Reporting Period
+July 1, 20___  to June 30, 20___
+sign
+here Petitioner Signature
+Email Address
+Date Phone Number
+FORM 
+PCIT
+General Instructions
+Who Must File. Nebraska law requires the petitioner in a proceeding to determine inheritance tax to submit a report to the county treasurer of 
+the county in which the order determining inheritance is entered, summarizing the amount of inheritance tax revenue collected, by class of beneficiary. 
+Neb. Rev. Stat. § 77-2015. Any time inheritance tax is required to be paid is a reportable event.
+When and 
+Where to File. The Form PCIT is due when an order determining inheritance tax has been made. File the Form PCIT with the 
+county treasurer of the county in which the entry of an order has been made. 
+Special Instructions
+Definitions:
+Petitioner: May include, but is not limited to a personal representative, administrator, or executor of a probated estate;  the trustee of a trust,  a filer of 
+an affidavit for transfer of real property  without probate, or a beneficiary of a transfer on death deed.
+Class 1 Beneficiaries, Immediate Relatives and Siblings are: Parents, grandparents, siblings, children (including legally adopted children), lineal 
+descendants, and spouse or surviving spouse of any of these receiving property that was subject to tax under Neb. Rev. Stat. § 77-2004.  
+Class 2 Beneficiaries, Remote relatives are: Uncles and aunts, nephews and nieces, or lineal relatives of such relatives and spouse or surviving spouse 
+of any of these receiving property that was subject to tax under Neb. Rev. Stat. § 77-2005. 
+Class 3 Beneficiaries, Non-relatives are: All others including non-relatives and non-exempt institutions receiving property that was subject to tax under 
+Neb. Rev. Stat. § 77-2006. 
+Reporting Period
+: This covers the period of July 1 to June 30 for the reporting year. For example the reporting period of July 1, 2023 to June 30, 2024 
+would be entered as July 1, 2023 to June 30, 2024 in the Reporting Period Box.
+I
+n lines 1, 2, and 3, columns A and B, enter the total number of Nebraska resident and nonresident beneficiaries for each class of beneficiary with 
+respect to all inheritance taxes that were paid to all counties in the state during the reporting period in columns A and B. 
+In lines 1, 2, 
+and 3, column C, enter the total amount of inheritance taxes paid by the estate to all counties in the state by class of beneficiary who 
+are Nebraska residents.
+Line 4. Total all three columns and enter the sums on line 4. The total tax paid amount in column D and total of column A plus B should match the Tax 
+Due amount and total number of beneficiaries listed on the Inheritance Tax Worksheet filed with the with Court, if applicable.
+In lines 1, 2, and 3 of Column D, enter the total inheritance tax paid to all counties in the state by both resident and nonresident beneficiaries. 
+Signatures. This report must be signed by the petitioner in the proceeding to determine inheritance tax. 
+Under penalties of perjury, I declare that, as the person signing below, I have examined this return and to the best of my knowledge and belief, it is true, correct, 
+and complete. I also acknowledge that as the personal representative, executive administrator, or trustee of the estate I must file all state tax returns and pay all 
+taxes owed by the decedent from the estate in my possession. Neb. Rev. Stat. §§ 30-2470 and 77 -2763.
+A B C D
+Number of 
+Nebraska Resident 
+Beneficiaries
+Class 1 Beneficiaries
+Class 2 Beneficiaries
+Class 3 Beneficiaries
+Total
+Number of 
+Nonresident 
+Beneficiaries
+Total Resident 
+Beneficiary Inheritance 
+Tax Paid to All Counties
+Total Inheritance 
+Tax Paid to all Counties
+(Residents and Nonresidents)
+1
+2
+3
+4
+$ $
+$ $
+$ $
+$ $
+Authorized by Neb. Rev. Stat. §77-2015. 
+Nebraska Department of Revenue
+Form No. Rev. Supersedes 96-344-2022 6-2023

@@ -1,0 +1,35 @@
+URL: https://www.maine.gov/revenue/faq/estate-tax
+Lu le: 2026-10-19
+Titre: Estate Tax FAQ | Maine Revenue Services
+
+Answer “Yes” or "No" to Questions A and B below:
+A) Is a federal estate tax return required?
+Yes     No
+B) Does the value of the federal gross estate plus taxable gifts made within one year of the date of death plus Maine elective property exceed the Maine filing requirement threshold listed below? (Note: The estate of a nonresident decedent must use the total value of the federal gross estate to make this calculation, not just the value of real and/or tangible personal property located in Maine.)
+Yes     No
+If you answered "Yes" to either Question A or B above, a Maine estate tax return (Form 706ME) is required if:
+(1) the decedent was a Maine resident at the time of death, or
+(2) the decedent was a nonresident and owned real and/or tangible personal property located in Maine at the time of death. (Note: Generally, when property is owned by a pass-through entity, the entity must be disregarded and the property must be treated as personally owned by the nonresident decedent. See 36 M.R.S. § 4104.
+C) If the answer is "No" to both A and B above, but the decedent owned real and/or tangible personal property located in Maine at the time of death, the estate should submit Form 700-SOV (Statement of Value) with a completed Certificate of Discharge of Estate Tax Lien to request a release of the automatic lien placed on that property at the time of death. For more information on requesting a lien release, see Question 4 below.
+History of Maine Exclusion Amounts
+Year | Maine Estate Tax Exclusion Amount – Filing Threshold |
+2026 | $7,160,000 |
+2025 | $7,000,000 |
+2024 | $6,800,000 |
+2023 | $6,410,000 |
+If an estate is subject to the probate process in Maine, you may be required to file Form 700-SOV (Statement of Value) or Form 706ME, even though taxes are not owed.  The probate court may require a copy of an official letter from Maine Revenue Services certifying that an estate tax return has been filed (Certification of Filing) and that any tax due has been paid (Certification of Payment).
+Revised: May 6, 2026
+Back to top
+2. Can I file and pay electronically?
+Yes. Estate tax forms and payments may be filed on the Maine Tax Portal (MTP) at revenue.maine.gov. The MTP is an online application that allows Maine taxpayers to file returns and make payments online quickly, easily, and eliminates the need to file a paper Form 706ME or Form 700-SOV (Statement of Value). You do not need to create an MTP account to file estate tax forms and payments. Additional filing information is available at revenue.maine.gov.
+Revised: May 6, 2026
+Back to top
+3. How can I get an extension of time to file Form 706ME?
+If you are unable to file the estate tax return within nine months of the date of death, Maine allows an automatic extension of time to file equal to any federal extension or six months, whichever is longer.
+A request for an extension of time to file in excess of the automatic six-month period must be submitted in writing prior to the expiration of the automatic six-month extension period. Generally, the total extension period cannot exceed eight months.
+CAUTION: An extension of time to file the Maine estate tax return is not an extension of time to pay the tax due. If the estate owes tax, the tax must be paid by the original due date for filing the return in order to avoid a failure to pay penalty. Interest is charged on any unpaid tax after the original due date of the return. (Note: Certain estates consisting largely of interest in a closely held business may qualify to request an extension of time for the payment of the Maine estate tax. See 36 M.R.S. § 4109.)
+
+[...]
+
+8. If a nonresident decedent owns property in Maine and the property qualifies for the estate tax marital deduction, is a Form 706ME required?
+Yes, if the federal gross estate plus taxable gifts made within one year of the date of death plus Maine elective property is equal to or greater than the Maine exclusion amount, regardless of whether the property is included in the marital deduction. For Maine exclusion amounts, see Question 1 above.

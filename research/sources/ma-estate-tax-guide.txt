@@ -1,0 +1,126 @@
+URL: https://www.mass.gov/info-details/estate-tax-guide (redirigée depuis https://www.mass.gov/info-details/massachusetts-estate-tax-guide ; lue via Chrome, curl renvoie 403)
+Lu le: 2026-10-19
+Titre: Estate Tax Guide | Mass.gov (Massachusetts Department of Revenue)
+
+There have been recent changes to the Massachusetts estate tax for decedents dying on or after August 1, 2025. These changes involve the steps for calculating the Massachusetts estate tax, which are demonstrated in detail in the “Massachusetts Estate Tax Computation” section below.
+
+Additionally, there have been changes to the Massachusetts estate tax for decedents dying on or after January 1, 2023. In addition to this guide, please go to the Estate Tax Changes FAQs for more information about estates of decedents who died on or after January 1, 2023 and prior to August 1, 2025.
+
+Updated: April 23, 2026
+
+[...]
+
+Massachusetts estate tax returns are required if the gross estate, plus adjusted taxable gifts (computed using the Internal Revenue Code in effect on December 31, 2000), exceeds the filing threshold as follows:
+
+For decedents dying on or after January 1, 2016, and before January 1, 2023, with a gross estate of more than $1,000,000.
+For decedents dying on or after January 1, 2023, with a gross estate of more than $2,000,000.
+
+Estates of decedents who died on or after January 1, 2023, are allowed a credit of $99,600 to reduce the amount of the estate tax. See MGL Ch. 65C, § 2A(f).
+
+Changes to the federal estate tax law after December 31, 2000, have no impact on the Massachusetts estate tax.
+
+[...]
+
+Massachusetts Estate Tax. The amount of the allowable federal credit for state death taxes, computed using the Internal Revenue Code in eﬀect on December 31, 2000, after Massachusetts modifications in M.G.L. c. 65C, § 2A.
+
+MA QTIP. Qualified Terminable Interest Property (QTIP) that is:
+not included in the federal gross estate of the decedent, and
+for which a Massachusetts estate tax deduction was allowed when transferred to the decedent.
+
+[...]
+
+For dates of death on or after January 1, 2023, the personal representative of a decedent who was a domiciliary of Massachusetts must file a Massachusetts Estate Tax Return (Form M-706) if the gross value of the decedent’s estate, plus adjusted taxable gifts, exceeds $2,000,000.
+
+The filing requirement for a nonresident decedent who owned or transferred real estate or tangible personal property located in Massachusetts is the same as for a resident and is based on their total worldwide estate plus adjusted taxable gifts.
+
+The personal representative of the estate of a nonresident decedent who owned or transferred real estate or tangible personal property located in Massachusetts must file a Massachusetts Nonresident Decedent Affidavit (Form M-NRA) with Form M-706. They can be filed using MassTaxConnect.
+
+[...]
+
+When must the return be filed?
+
+If the gross estate exceeds the filing threshold for the year of death, the return and tax payment are due nine months after the date of the decedent's death.
+
+Can an extension of time to file be granted?
+
+As of December 5, 2016, all filers of estate tax returns are automatically granted a six-month extension of time to file their tax returns provided they have paid at least 80% of the total amount of tax ultimately due on or before the payment due date.
+
+[...]
+
+Massachusetts Estate Tax Computation
+
+This guide explains how Massachusetts computes its estate tax by referencing the federal credit for state death taxes (Internal Revenue Code as of December 31, 2000), along with special adjustments and credits for estates of decedents with different dates of death and residency statuses.
+
+Key Components
+Federal gross estate (Internal Revenue Code § 2031(a) in eﬀect on December 31, 2000)
+Federal credit for state death taxes (Internal Revenue Code § 2011 in eﬀect on December 31, 2000)
+$99,600 MA credit reducing MA estate tax for decedents dying on or after January 1, 2023
+Exclusion of real and tangible property located outside of MA for the computation of the Massachusetts estate tax
+Inclusion of MA QTIP assets claimed on predeceased spouse’s MA estate tax return
+Use of tax Table B for the computation of the maximum credit for State Death Taxes. Table B worksheet is found on the Form 706 Instructions, July 1999 revision.
+
+The Massachusetts estate tax for the estates of residents and nonresidents is computed with reference to the allowable federal estate tax credit for state death taxes formerly allowed in the Internal Revenue Code in effect on December 31, 2000. If an estate consists solely of property subject to Massachusetts estate taxation, it pays to Massachusetts an amount equal to the federal credit for state death taxes computed using the Internal Revenue Code in effect on December 31, 2000. For estates of decedents dying on or after January 1, 2023, the Massachusetts estate tax is reduced by a credit of $99,600. The federal rate table, Table B, is used to compute the credit for state death taxes.
+
+The computation of the Massachusetts estate tax for resident decedents with or without out-of-state real and tangible property and nonresident decedents with Massachusetts real and tangible property is detailed below.
+
+1. Estates of Decedents Dying on or after August 1, 2025
+
+A. Resident Decedent with or without Out-of-State Property
+
+Federal gross estate.
+Minus value of real and tangible property outside Massachusetts, if any.
+Plus, value of MA QTIP assets, other than MA QTIP which is real or tangible property outside Massachusetts.
+Minus allowable federal deductions for Massachusetts purposes. This result is the Amount subject to Massachusetts estate tax
+Calculate (with Table B below) allowable federal credit for state death taxes using a taxable estate equal to the amount subject to Massachusetts estate tax.
+Subtract the $99,600 MA credit from the calculated result. This final amount, not less than zero, is the Massachusetts estate tax liability.
+
+B. Nonresident Decedent with Massachusetts Property
+
+Federal gross estate.
+Minus value of all property other than MA real and tangible property.
+Plus, value of MA QTIP assets which are real or tangible property in Massachusetts.
+Minus allowable federal deductions directly related to Massachusetts property. This result is the Amount subject to Massachusetts estate tax.
+Calculate (with Table B below) allowable federal credit for state death taxes using a taxable estate equal to the amount subject to Massachusetts estate tax.
+Subtract the $99,600 MA credit from the calculated result. This final amount, not less than zero, is the Massachusetts estate tax liability.
+
+2. Estates of Decedents Dying January 1, 2023 – July 31, 2025.
+
+The Massachusetts estate tax laws changed for deaths occurring on or after January 1, 2023, regarding out-of-state property.
+
+[...]
+
+4. Computation of Maximum Federal Credit for State Death Taxes
+
+The following table is used to compute the credit for state death taxes under Internal Revenue Code § 2011 in eﬀect on December 31, 2000. Table B worksheet is found on the Form 706 Instructions, July 1999 revision and on page 6 of the Form M-706, Rev. 08/25.
+
+Please note: For taxable estates of decedents dying in 2023 or after, the Massachusetts estate tax, as computed based on the maximum federal credit for state death taxes, is reduced by a credit of $99,600. MGL ch. 65C, § 2A(f).
+
+Table B - Computation of Maximum Credit for State Death Taxes
+
+Adjusted taxable estate *
+
+From To Credit + % of Excess over
+$0 $40,000 $0 0.0 $0
+40,000 90,000 0 0.8 40,000
+90,000 140,000 400 1.6 90,000
+140,000 240,000 1,200 2.4 140,000
+240,000 440,000 3,600 3.2 240,000
+440,000 640,000 10,000 4.0 440,000
+640,000 840,000 18,000 4.8 640,000
+840,000 1,040,000 27,600 5.6 840,000
+1,040,000 1,540,000 38,800 6.4 1,040,000
+1,540,000 2,040,000 70,800 7.2 1,540,000
+2,040,000 2,540,000 106,800 8.0 2,040,000
+2,540,000 3,040,000 146,800 8.8 2,540,000
+3,040,000 3,540,000 190,800 9.6 3,040,000
+3,540,000 4,040,000 238,800 10.4 3,540,000
+4,040,000 5,040,000 290,800 11.2 4,040,000
+5,040,000 6,040,000 402,800 12.0 5,040,000
+6,040,000 7,040,000 522,800 12.8 6,040,000
+7,040,000 8,040,000 650,800 13.6 7,040,000
+8,040,000 9,040,000 786,800 14.4 8,040,000
+9,040,000 10,040,000 930,800 15.2 9,040,000
+10,040,000 --------------- 1,082,800 16.0 10,040,000
+From To Credit + % of Excess over
+
+*The "adjusted taxable estate" used in determining the allowable credit for state death taxes in the above table is the taxable estate (total federal gross estate after Massachusetts modifications in M.G.L. c. 65C, § 2A, minus allowable federal deductions for Massachusetts purposes) less $60,000. There is no federal credit for state death taxes if the "adjusted taxable estate" is $40,000 or less.

@@ -1,0 +1,35 @@
+URL: https://tax.vermont.gov/individuals/estate-tax
+Lu le: 2026-10-19
+Titre: Estate Tax | Department of Taxes (Vermont)
+
+In 2026, the Vermont Legislature increased the Estate Tax filing threshold to $5 million to match the Estate Tax payment threshold. This legislation is effective June 18. 2026.
+Vermont collects a tax on the transfer of a Vermont estate of resident and nonresident deceased persons. Generally, Vermont Form EST-191, Estate Tax Return, must be filed if the deceased person has an interest in property located in Vermont and either (1) their federal gross estate plus federal adjusted taxable gifts made within two years of their death is worth more than $5 million, or (2) they are required to file federal Form 706, U.S. Estate (and Generation-Skipping Transfer) Tax Return. For Vermont resident decedents, property located in Vermont means all property interests, excluding real or tangible property located outside of Vermont at the time of death. For nonresident decedents, intangible property is also excluded.
+The Estate Tax is assessed only on the gross estate value exceeding $5 million plus taxable gifts made within two years of death.
+Year of Death |
+Gross Estate Value Exceeds |
+2000 & 2001 |
+$675,000 |
+2002 & 2003 |
+$1,000,000 |
+2004 & 2005 |
+$1,500,000 |
+2006-2010 |
+$2,000,000 |
+2011-2015 |
+$2,750,000 |
+Year of Death |
+Value of GROSS ESTATE Plus Adjusted taxable Gifts Made within Two Years of Death EXCEEDS |
+2016-2019 |
+$2,750,000 |
+2020 |
+$4,250,000 |
+2021 or after |
+$5,000,000 |
+How to File
+When a person dies, the person’s estate is responsible for filing:
+an income tax return for the months of the tax year the person was living and receiving income—from January of the tax year to the date of death. File Form IN-111, Vermont Income Tax Return
+a fiduciary return on behalf of the deceased person for the months of the tax year the estate earned income, such as rental income or an Investment Retirement Account (IRA) cashed in during administration of the estate. File Form FIT-161, Fiduciary Return of Income.
+an estate tax return on the transfer of a Vermont estate of resident and nonresident deceased persons.
+If death occurs on or after January 1, 2016, file Form EST-191, Estate Tax Return Resident and Nonresident
+If death occurs on or before December 31, 2015, file Form E-1, Estate Tax Return Resident and Nonresident
+​to obtain a six-month extension to file the Estate Tax Return, file Form EST-195, Application for Extension of Time to File Vermont Estate Tax Return on or before the due date of the Estate Tax Return.

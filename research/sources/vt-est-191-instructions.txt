@@ -1,0 +1,60 @@
+URL: https://tax.vermont.gov/sites/tax/files/documents/EST-191-Instr-2025.pdf
+Lu le: 2026-10-19
+Titre: Form EST-191 Instructions, Estate Tax Return (Rev. 10/25) - Vermont Department of Taxes
+
+Estate Tax Return
+General Information
+Please print in BLUE or BLACK ink only.
+Who Must File
+The executor or other fiduciary is required to file a Vermont return when property with situs in
+Vermont is included in the decedent’s federal gross estate and one or more of the following apply:
+1. A federal Form 706, United States Estate (and Generation-Skipping Transfer) Tax Return,
+is required to be filed under section 6018 of the Internal Revenue Code.
+2. For deaths occurring on or after Jan. 1, 2011, but before Jan. 1, 2020:  The sum of
+the federal gross estate and federal adjusted taxable gifts (as defined in section 2001(b)
+of the Internal Revenue Code) made within two years of the date of the decedent’s death
+exceeds $2,750,000.
+3. For deaths occurring on or after Jan. 1, 2020, but before Jan. 1, 2021:  The sum of
+the federal gross estate and federal adjusted taxable gifts (as defined in section 2001(b)
+of the Internal Revenue Code) made within two years of the date of the decedent’s death
+exceeds $4,250,000.
+4. For deaths occurring on or after Jan. 1, 2021:  The sum of the federal gross estate and
+federal adjustable taxable gifts (as defined in section 2001(b) of the Internal Revenue
+Code) made within two years of the date of the decedent’s death exceeds $5,000,000.
+Filing Due Date
+Form EST-191 is required to be filed within nine months of the death of the decedent.  To receive a
+six-month extension, file Form EST-195, Application for Extension of Time to File Vermont Estate
+Tax Return.
+Payment Due Date
+Any amount owed is due and payable by the executor or other fiduciary at the time the return is
+required to be filed.  An extension of time to file the return does not extend the time to pay.  The
+tax estimated to be due must be paid with the extension of time request.
+Required Information to be Included with the Vermont Return
+
+[...]
+
+Page 2 of 2
+Rev. 10/25
+Page 2
+Completing a Pro Forma Federal Form 706
+The Vermont Estate Tax is computed using certain values located on the federal estate tax form.
+These values are defined in federal statute, which Vermont statute adopts (except when stated
+otherwise).  Follow the instructions for federal Form 706 as you complete Lines 1 through 4.
+Definitions
+Exclusion amount (Line 5)
+
+Jan. 1, 2016 - Dec. 31, 2019 $2,750,000
+Jan. 1, 2020 - Dec. 31, 2020 $4,250,000
+Jan. 1, 2021 - present  $5,000,000
+For deaths occurring Exclusion amount is
+Vermont gross estate (Line 8)
+From the Federal Estate Tax Return (Form 706), add the gross value of each item of the
+decedent’s real and tangible personal property located in Vermont.  If the decedent is a
+resident of Vermont, include all intangible personal property.
+Gifts of property with Vermont situs (Line 9)
+From those federal taxable gifts included on Line 2b, add the gross value of each real or
+tangible item of personal property located in Vermont at the time the gift was executed.  If
+the decedent was a resident of Vermont at the time of the gift, include the gifts of intangible
+personal property.
+Intangible personal property
+Bank accounts, stocks, bonds, and mortgages are intangible assets and are taxable by the

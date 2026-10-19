@@ -1,0 +1,62 @@
+---
+/** Method: every rule, every formula, the tests, the limits. Figures from the kit. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { src, table } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('method', lang);
+const P = K.P, F = K.F, E = K.E;
+const title = 'Estate Tax Method 2026: State Laws, Tables and Tests';
+const description = 'How the 2026 estate and inheritance tax calculators work: each state method, the old federal credit table, apportionment, heir classes, federal tax, tests.';
+const METHOD: Record<string, string> = {
+  excess: 'Table applied to the amount above the exemption',
+  whole: 'Brackets printed in estate amounts, the first one starting at the threshold with no tax',
+  sdtc: `Table B on (estate minus $60,000), minus a fixed credit of ${K.usd(E.RI.credit!)}`,
+  ma: `Table B on (estate minus $60,000), minus ${K.usd(E.MA.credit!)}`,
+  ny: `Section 952 table, credit phased out up to ${K.pct(E.NY.cliff!, 0)} of the exclusion`,
+  il: 'Attorney General interrelated computation on Table B',
+  md: `Lesser of ${K.pct(E.MD.rate!, 0)} above the exclusion and the apportioned Table B credit`,
+};
+const GIFTS: Record<string, string> = { lifetime: 'all taxable gifts since 2005', '1y': 'within 1 year', '2y': 'within 2 years', '3y': 'within 3 years', none: 'not added', il: 'in the threshold test', md: 'in the credit computation', 'reduce-exclusion': 'reduce the exclusion' };
+const rows = K.ESTATE_CODES.map((c) => [E[c].name, METHOD[E[c].method], E[c].apportion === 'situs' ? 'property located there only' : 'tax times in-state share', GIFTS[E[c].gifts], E[c].sources.slice(0, 2).map((k) => src(k)).join('; ')]);
+const tests = [
+  ['Illinois, $5,000,000 taxable estate', K.usd(K.ilTax(5000000, 0)), 'Attorney General: $285,714'],
+  ['Illinois, $3,000,100 and $1,000,000 of gifts', K.usd(K.ilTax(3000100, 1000000)), 'Attorney General: $28 (cents dropped)'],
+  ['District of Columbia, $5,000,000', K.usd(K.stateTax('DC', 5000000)), 'D-76 table: $1,299'],
+  ['Federal tentative tax on $15,000,000', K.usd(K.tentativeTax(F.basicExclusion)), `Form 706 instructions: ${K.usd(F.basicCredit)}`],
+  ['Rhode Island credit against Table B at the threshold', K.usd(K.tableB(E.RI.exemption - 60000)), `RI-706: ${K.usd(E.RI.credit!)}`],
+  ['Massachusetts, Table B on $1,940,000', K.usd(K.tableB(1940000)), `DOR credit: ${K.usd(E.MA.credit!)}`],
+];
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'How we calculate', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'How we calculate', path }])]} breadcrumbs={[{ label: 'How we calculate' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>How the calculators work</h1>
+    <p>Every calculator on this site runs in your browser on one engine and one parameter file. The parameter file holds each exemption, table and class of heir with the official text it comes from and the date it was read ({K.day(P.retrieved_at)} for this edition, deaths from {K.day(P.valid_from)} to {K.day(P.valid_to)}). This page lists the rules, the formulas, the tests and what is left out.</p>
+    <h2>1. The estate you enter</h2>
+    <p>The amount is the net estate: everything included in the federal gross estate (real estate, accounts, securities, retirement accounts, life insurance the deceased owned, a business interest), minus debts, funeral costs and administration expenses. The share left to a spouse is deducted as the marital deduction, which assumes the spouse is a US citizen; the share left to charity is deducted too. What remains is split equally between the heirs you describe.</p>
+    <h2>2. State estate taxes</h2>
+    <p>Each state computes its tax in its own way, and the engine follows the method each state prints, not a single rate. Several states still use the table of the old federal credit for state death taxes, called Table B, applied to the "adjusted taxable estate", which is the estate minus $60,000.</p>
+    <Fragment set:html={table(['State', 'Method', 'Property elsewhere', 'Lifetime gifts', 'Read on'], rows, 'Methods applied by the engine for deaths in 2026.', ['l', 'l', 'l', 'l', 'l'])} />
+    <p>Washington has two tables in 2026: deaths from January 1 to June 30 use an exclusion of {K.usd(E.WA.firstHalf!.exemption)} and the rates in force since July 1, 2025; deaths from July 1 use {K.usd(E.WA.exemption)} and the table of <Fragment set:html={src('wa_esb6347', 'ESB 6347')} />. The calculator asks for the half of the year. Maryland's tax is reduced by the Maryland inheritance tax paid, as line 14a of Form MET 1 provides. Hawaii and Maryland let the survivor use a late spouse's unused state exclusion; the engine applies it, capped at the state exclusion, when you enter a DSUE amount.</p>
+    <h2>3. Real estate in another state</h2>
+    <p>For a resident, real estate in another state is taken out of the tax base of the home state. In the states that apportion, the tax on the whole estate is multiplied by the share of the estate located in the state; New York and Massachusetts instead compute the tax on the property they tax alone (<Fragment set:html={src('ny_960', 'Tax Law section 960')} />, <Fragment set:html={src('ma_dor', 'Massachusetts estate tax guide')} />). The state where the property sits computes its own nonresident tax the same way. Tangible property such as furniture or a car is treated like the rest of the estate.</p>
+    <h2>4. Inheritance taxes</h2>
+    <p>Each heir's share is placed in the class the state's law gives to that relationship, and the class rate or brackets apply to the share, before the estate pays its own taxes. Pennsylvania applies flat rates, New Jersey and Kentucky brackets after a class exemption, Nebraska a flat rate above a class exemption, Maryland {K.pct(K.I.MD.rate as number, 0)} with a list of exempt relatives. A nonresident's real estate is taxed by the state where it lies: New Jersey by the ratio of that property to the whole estate, Kentucky with a prorated exemption, the others directly on the property. Iowa's tax ended for deaths from January 1, 2025 and is not computed.</p>
+    <h2>5. Federal estate tax</h2>
+    <p>The federal tax is the tentative tax of <Fragment set:html={src('usc_2001', '26 U.S.C. 2001(c)')} /> on the taxable estate plus lifetime taxable gifts, minus the tentative tax on the applicable exclusion: {K.usd(F.basicExclusion)} for 2026 (<Fragment set:html={src('rp_2025_32', 'Rev. Proc. 2025-32')} />), plus any unused exclusion of a late spouse elected on Form 706. State death taxes, estate and inheritance, are deducted from the federal taxable estate (<Fragment set:html={src('usc_2058', 'section 2058')} />). Gift tax already paid is not modelled; the engine assumes lifetime gifts stayed within the exclusion.</p>
+    <h2>6. Tests</h2>
+    <p>Every published table is checked row by row: the base amount printed for each bracket must equal the tax of the previous rows at their rates, so a typing error in a table stops the build. The official examples are reproduced:</p>
+    <Fragment set:html={table(['Case', 'Engine', 'Official figure'], tests, 'Automated tests, tests/engine.test.ts.', ['l', 'r', 'l'])} />
+    <h2>7. What is not modelled</h2>
+    <ul>
+      <li>Valuation: appraisals, discounts, special-use valuation of farms and closely held business deductions.</li>
+      <li>Qualified terminable interest property elections made at a first death, and state QTIP elections.</li>
+      <li>Credits for tax paid to another state on the same property, beyond Maryland's credit for its own inheritance tax.</li>
+      <li>The generation-skipping transfer tax, gift tax already paid and the credit for tax on prior transfers.</li>
+      <li>Interest, penalties and payment plans.</li>
+    </ul>
+    <p>Corrections: <a href={route('contact', lang)}>contact page</a>. These are estimates made to compare situations, not a return and not legal or tax advice.</p>
+  </article>
+</PageLayout>

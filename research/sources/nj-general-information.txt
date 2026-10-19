@@ -1,0 +1,346 @@
+URL: https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/o10c.pdf
+Lu le: 2026-10-19
+Titre: GENERAL INFORMATION - Inheritance and Estate Tax, NJ Division of Taxation, O-10-C (01-17, R-13)
+Note: texte integral extrait du PDF (pypdf), mise en page en colonnes.
+
+--- page 1 ---
+AMENDMENTS TO AN ORIGINAL RETURN
+For all estates, any assets or liabilities not disclosed in
+the original return should be reported in the form of a
+supplemental affidavit executed by the duly authorized
+representative of the estate, next of kin, or beneficiary.
+Data submitted should consist of a thorough but concise
+description of the items being reported, including the fair
+market value of each on the decedent's date of death.
+The supplemental affidavit along with supporting docu-
+mentation should be forwarded to the Inheritance and
+Estate Tax Branch.
+IMPORTANT REMINDERS
+When filing with the Division
+lIf the decedent died Testate (with a will) you must
+supply a legible copy of the WILL, plus any CODI-
+CILS (addendums to the will) and/or any SEPARATE
+WRITINGS which may affect the distribution of the
+estate.
+lA copy of the decedent's last full year's FEDERAL
+INCOME TAX RETURN is required.
+lAll returns, forms and correspondence must contain
+the required SOCIAL SECURITY NUMBERS.
+lPAYMENTS ON ACCOUNT should be made to avoid
+the accrual of interest.
+lAll CHECKS should be made payable to NJ
+INHERITANCE AND ESTATE TAX
+lSEND correspondence, checks and documents to:
+New Jersey Division of Taxation
+Inheritance and Estate Tax
+PO Box 249
+Trenton, NJ 08695-0249
+GENERAL
+INFORMATION
+Inheritance and Estate Tax
+Inheritance and Estate Tax Branch 
+New Jersey Division of Taxation
+3 John Fitch Way, 6th Floor
+PO Box 249
+Trenton, NJ 08695-0249
+For additional information call:
+(609) 292-5033
+(8:30 AM–4:30 PM, M–F)
+or go to:
+nj.gov/taxation
+“Inheritance & Estate Tax”
+O-10-C
+(01-17, R-13)
+INTRODUCTION
+Transfer Inheritance Tax is a “beneficiary” tax, and is
+based on who specifically receives a decedent’s
+assets, and how much each beneficiary received.  The
+Estate Tax is based on the size of the entire estate, and
+does not break down the distribution of assets beyond
+exemptions for spouses and charities.  In New Jersey,
+the Inheritance Tax is a credit against the Estate Tax;
+an estate pays only the higher of the two.
+New Jersey has had an Inheritance Tax since 1892 when a
+5% tax was imposed on property transferred from a
+deceased person ("decedent") to a beneficiary.  Currently,
+the law imposes a graduated Inheritance Tax ranging from
+11% to 16% on the transfer of real and personal property
+with an aggregate value of $500 or more to certain benefi-
+ciaries.  New Jersey first enacted an Estate Tax in 1934.
+Its purpose was to ensure New Jersey receives the full
+amount of the Credit for State Death Taxes allowed against
+the Federal Estate Tax.
+WHAT’S NEW?
+P.L. 2016, c. 57 signed into law on Oct. 14, 2016, provides
+that the New Jersey Estate Tax exemption will increase
+from $675,000 to $2 million for the estates of resident
+decedents dying on or after January 1, 2017, but before
+January 1, 2018. For these estates, the New Jersey Estate
+Tax no longer conforms to the provisions of the Federal
+Internal Revenue Code in effect on Dec. 31, 2001, and
+instead follows the current Federal Internal Revenue Code
+for determining the value of the estate which will be subject
+to New Jersey Estate Tax.
+Additionally, no New Jersey Estate Tax will be imposed on
+the estates of resident decedents dying on or after Jan. 1,
+2018.
+FORMS, INSTRUCTIONS
+Necessary forms and instructions concerning the procedure
+to be followed in completing an Inheritance Tax or Estate
+Tax return may be obtained at or from the Inheritance and
+Estate Tax Branch in Trenton or downloaded from the
+Division's web page at nj.gov/taxation.
+WHEN INHERITANCE TAX RETURNS ARE DUE
+An Inheritance Tax return must be filed and the tax paid on
+the transfer of real or personal property within eight months
+after the date of death.
+For a resident decedent a return must be filed for the
+transfer of real or tangible personal property located in New
+Jersey and ALL intangible personal property.
+For a nonresident decedent a return must be filed for the
+transfer of real or tangible personal property located in New
+Jersey. Though there is no direct tax on intangible assets
+(e.g., bank accounts, stock, etc.), all such assets are used in
+the calculation of the tax and must be reported on the return. 
+For either a resident or nonresident decedenta return
+must be filed whenever any tax is due or when property is
+passing to someone other than Class A beneficiaries. The
+tax is a lien on all New Jersey property for 15 years from the
+date of death unless the tax is paid before that time, or an
+acceptable bond is filed. Interest on unpaid tax will accrue at
+the rate of 10% per annum beginning eight months after a
+decedent's date of death. The return should be filed directly
+with the Inheritance and Estate Tax Branch in Trenton. 
+BENEFICIARY CLASSES AND TAX RATES
+There are four active Inheritance Tax beneficiary classes as
+follows:
+lClass A – Exempt from tax
+Spouse,•
+Civil union partner after Feb. 19, 2007,•
+Domestic partner after July 10, 2004,•
+Child (includes legally adopted child)•
+Grandchild, great-grandchild, etc.,•
+Parents, grandparents, etc.,•
+Mutually acknowledged child,•
+Stepchild (but not step-grandchild or their issue).•
+lClass B – Eliminated by amendment July 1, 1963.
+lClass C
+Brother or sister of a decedent,•
+Spouse or surviving spouse of a child of a dece-•
+dent ( i.e., son-in-law or daughter-in-law),
+Civil union partner or surviving civil union partner•
+of a child of a decedent (after Feb. 19, 2007).
+Rate for Each Beneficiary
+First $25,000 No tax
+Next $1,075,000 @ 11%
+Next $300,000 @ 13%
+Next $300,000 @ 14%
+Over $1,700,000 @ 16%
+lClass D – Every other transferee, distributee or 
+beneficiary not classified as A, C, or E. 
+Rate for Each Beneficiary
+First $700,000 @ 15%
+Over $700,000 @ 16%
+lClass E – Exempt from tax
+Including but not limited to:
+Qualified charities (generally 501(c)3),•
+Religious institutions,•
+Educational and medical institutions,•
+Non-profit benevolent or scientific institutions,•
+The State of New Jersey or any of its political sub-•
+divisions.
+--- page 2 ---
+EXEMPTIONS
+In addition to the exemptions listed under "Beneficiary
+Classes and Tax Rates," no Inheritance Tax is imposed on:
+lTransfers to a beneficiary having an aggregate value 
+of less than $500.
+lLife insurance proceeds paid to a named beneficiary.
+lPayments from the New Jersey Public Employees
+Retirement System, the New Jersey Teachers' Pension
+and Annuity Fund, and the New Jersey Police and
+Firemen's Retirement System.
+lFederal Civil Service Retirement benefits payable to a 
+beneficiary other than the estate or the executor or 
+administrator of a decedent's estate.
+lAnnuities payable by the U.S. Government pursuant to
+the Retired Serviceman’s Family Protection Plan or the
+Survivor Benefit Plan to a Beneficiary other than the
+estate or the executor or administrator of a decedent.
+ESTATE TAX
+In addition to the Inheritance Tax, the State of New Jersey
+imposes an Estate Tax on the estates of certain resident
+decedents. (There is no Estate Tax assessed against non-
+resident decedent’s estates.)  Even estates that are partial-
+ly or fully exempt from Inheritance Tax may be subject to
+the New Jersey Estate Tax.  NOTE: A number of assets
+that are not reportable for Inheritance Tax are included in
+the gross estate for Estate Tax, most notably life insurance
+paid to a named beneficiary and non-NJ real estate.  
+For decedents dying after Dec. 31, 2001, but before
+Jan. 1, 2017
+The New Jersey Estate Tax is an amount equal to the cred-
+it for State death taxes allowed under Federal Estate Tax
+law, less that portion of the credit which is attributable to
+property located outside New Jersey, and less any New
+Jersey Inheritance Tax. 
+The credit allowable is calculated in accordance with the
+provisions of the Internal Revenue Code in effect on Dec.
+31, 2001. A 2001 Federal Form 706 must be completed in
+accordance with the provisions of the Internal Revenue
+Code in affect on Dec. 31, 2001. 
+Although the 2001 Internal Revenue Code did not permit a
+marital deduction for property passing to a surviving civil
+union partner, such a deduction is permitted for New
+Jersey Estate Tax purposes for decedents dying on or after
+Feb. 19, 2007. In these cases, the 2001 Form 706 should
+be completed as though the Internal Revenue Code treated
+a surviving civil union partner and a surviving spouse in the
+same manner.
+As an alternative to filing a completed 2001 Form 706, an
+estate may, in many cases, use the Simplified Method to
+compute the New Jersey Estate Tax. This method is based
+upon the net estate as determined for the New Jersey
+Inheritance Tax, with certain adjustments. The Simplified
+Method is not intended for use in all estates.  It may not be
+used if an estate files, or is required to file, a Federal Estate
+Tax return (Form 706) with the IRS, or if its use does not
+produce a tax liability similar to that produced using the 2001
+Federal Form 706. This method permits a marital deduction
+only for property passing outright to a surviving spouse or to
+a surviving civil union partner on, or after, Feb. 19, 2007. 
+For decedents dying on or after Jan. 1, 2017, but before
+Jan. 1, 2018
+The Estate Tax is calculated on the amount of the taxable
+estate pursuant to the current Internal Revenue Code, using
+a progressive rate schedule with rates ranging from 0% to
+16%.  Credits against the Tax will include: the portion of the
+tax attributable to property located outside New Jersey, any
+New Jersey Inheritance Tax, and a credit equal to the tax
+due on the $2 million exclusion amount ($99,600). 
+A completed current Federal Form 706 must be submitted
+along with the New Jersey Estate Tax Return whether or not
+the estate is subject to Federal Estate Tax.
+For decedents dying on or after Jan. 1, 2018
+There is no New Jersey Estate Tax imposed on the estates
+of resident decedents dying on or after Jan. 1, 2018.  This
+provision does not affect the New Jersey Inheritance Tax,
+which remains in force.  
+FEDERAL ESTATE TAX RETURN
+The law requires that a copy of the Federal Estate Tax return
+be filed with the Division within 30 days after the filing of the
+original with the federal government. Also, a copy of any
+communication from the Federal Government making any
+final change in the return, or confirming, increasing, or
+reducing the tax shown to be due must be filed with the
+Division within 30 days of receipt. 
+INHERITANCE AND ESTATE TAX WAIVERS
+Certain property in the name of or belonging to a decedent
+cannot be transferred without the written consent of the
+Director, Division of Taxation. This consent, commonly
+known as a "waiver," will not be granted until any tax due
+has been paid or provided for. 
+A. PERSONAL PROPERTY – RESIDENT DECEDENTS
+1.  Waivers are not required for automobiles or other
+vehicles, household goods, accrued wages, or mort-
+gages, but these assets must be reported in the tax
+return(s) filed. 
+2.  A membership certificate or stock in a cooperative
+housing corporation held in the name of a decedent and
+a surviving spouse, civil union partner or domestic part-
+ner as joint tenants with right of survivorship is exempt
+from the Inheritance Tax. However, a waiver is required
+to transfer ownership to the survivor.
+3.  Banks, savings and loan associations, and other
+financial institutions may release 50% of all funds on
+deposit with them to the proper party prior to the
+issuance of a waiver.  The full amount on deposit as of
+date of death of decedent must be listed in the tax
+return(s) and will eventually require a waiver.  This pro-
+cedure is referred to as a BLANKET WAIVER and is
+not available for the transfer of stocks and bonds. 
+4.  A SELF-EXECUTING WAIVER, FORM L-8, has
+been created for use in the estate of a RESIDENT
+decedent. This form may be used in most cases to
+transfer bank accounts, stocks, bonds and brokerage
+accounts, when the transfer is to a Class A beneficiary
+only. This form may NOT be used:
+a. For the transfer of real estate.
+b. For decedents dying after Dec. 31, 2001, but 
+before Jan. 1, 2017, and the taxable estate plus 
+adjusted taxable gifts exceeds $675,000 for 
+Federal Estate Tax purposes under the provisions 
+of the Internal Revenue Code in effect on Dec. 31,
+2001. (If the decedent died on or after Feb. 19, 
+2007, survived by a civil union partner a marital 
+deduction equal to that permitted a surviving 
+spouse under the provisions of the Internal 
+Revenue Code in effect on Dec. 31, 2001, may be
+used in determining the taxable estate.) 
+c. For decedents dying on or after Jan. 1, 2017, but 
+before Jan. 1, 2018, and the taxable estate 
+exceeds $2 million for Federal Estate Tax 
+purposes under the provisions of the current 
+Internal Revenue Code.
+The completed Form L-8 should be filed with the financial
+institution or transfer agentwho will then be authorized
+to release the subject asset, if warranted, without the
+necessity of receiving a waiver from the Division. 
+DO NOT file this form with the Division.
+B. PERSONAL PROPERTY – NONRESIDENT DECE-
+DENTS
+In the estate of a NONRESIDENT decedent, no waivers
+are required for bank accounts, brokerage accounts or
+other intangible property, including stock and membership
+certificates or shares held in a co-op.  However, all of
+these assets must be reported on the return.  For full infor-
+mation on nonresident filing requirements, see the
+Division’s website or call Inheritance Tax Information at
+609-292-5033.
+C.REAL PROPERTY – RESIDENTS AND NONRESI-
+DENTS
+Commonly called “real estate,” this refers to land and/or
+physical buildings that are permanent structures attached
+to land.
+1. Unpaid Inheritance and Estate Taxes constitute a lien on
+New Jersey real property.  Tax waivers are required to
+transfer the realty. However, real property held by husband
+and wife or civil union partners as "tenants by the entirety"
+in the estate of the spouse or civil union partner who dies
+first, need not be reported and may be transferred without
+a waiver.
+2. A REQUEST FOR A REAL PROPERTY TAX WAIVER,
+Forms L-9 (Resident Decedent) and L-9 NR (Non-Resident
+Decedent) have been created for use by Class A benefici-
+aries. These forms may be used if the entire estate is
+untaxable for Inheritance Tax purposes and passes to
+Class A beneficiaries, and the only reason to file a return is
+to obtain a tax waiver for real property. 
+Proper use of these forms may eliminate the need to file a
+formal tax return(s). Form L-9 may not be used if there is
+any New Jersey Estate Tax payable or:
+a. For resident decedents dying after Dec. 31, 2001, but
+before Jan. 1, 2017, the gross estate plus adjusted 
+taxable gifts exceeds $675,000 for Federal Estate 
+Tax purposes under the provisions of the Internal 
+Revenue Code in effect on Dec. 31, 2001, or 
+b For resident decedents dying on or after Jan. 1, 
+2017, but before Jan. 1, 2018, the gross estate 
+exceeds $2 million for Federal Estate Tax purposes 
+under the provisions of the current Internal Revenue 
+Code.
+These forms are to be filed with the Inheritance and Estate
+Tax Branch in Trenton. If the form is in order, the neces-
+sary waiver(s) will be promptly issued.
+NEITHER THE L-8 NOR L-9 MAY BE USED WHEN IT IS
+CLAIMED THAT A RELATIONSHIP OF MUTUALLY
+ACKNOWLEDGED CHILD EXISTS.
+SAFE DEPOSIT BOXES
+Safe deposit boxes are no longer inventoried by the New
+Jersey Division of Taxation. The Division has issued a
+blanket release in the form of a letter from the Director,
+Division of Taxation to all banking institutions, safe deposit
+companies, trust companies, and other institutions which
+serve as custodians of safe deposit boxes. The contents of
+the boxes may be released without inspection by the
+Division.

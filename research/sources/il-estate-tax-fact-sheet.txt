@@ -1,0 +1,73 @@
+URL: https://illinoisattorneygeneral.gov/Page-Attachments/EstateTaxInstructionFactSheet.pdf
+Lu le: 2026-10-19
+Titre: Important Notice Regarding Illinois Estate Tax and Fact Sheet, Illinois Attorney General
+
+Important Notice Regarding Illinois Estate Tax and Fact Sheet 
+For decedents dying prior to 2023, see the Instruction Fact Sheets previously posted on the 
+Attorney General’s website covering the specific year of death. 
+The exemption for Federal  Estate T ax purposes is higher than the exclusion amount 
+recognized by Illinois. The exclusion amount for Illinois E state Tax purposes is $4,000,000. The 
+exclusion amount is a taxable threshold  and not a credit against tax. If an estate’s gross  value 
+exceeds $4,000,000 after inclusion of adjusted taxable gifts, an Illinois Form 700 must be filed, 
+whether or not a Federal Return is required by the Internal Revenue Service. The estate representative 
+should prepare and submit the Illinois Form 700 with a Federal Form 706, including all  schedules, 
+appraisals, wills, trusts, attachments, etc. If an estate is not federally taxable and does not wish to 
+submit a Form 706, the information may be presented in an alternate format as long as all necessary 
+information is included. (See Ill. Admin. Code tit. 86, § 2000.110). The Illinois E state Tax will be 
+determined using an interrelated calculation. The calculator at the Illinois Attorney General’s website 
+(www.illinoisattorneygeneral.gov) may be used for this computation. To determine tax due, insert the 
+amounts from Lines 3 and 5 of Schedule A or B, Form 700. Please note that the calculator will not 
+perform the computation unless amounts are entered into both fields. 
+For both resident and non-resident decedents, a preliminary tax amount should be calculated 
+assuming all assets are located within Illinois. (Line 6, Schedule A or B, Form 700). The apportioned 
+tax can then be determined by multiplying that figure by the ratio of Illinois assets to total assets. 
+Estates with less than 100% of their assets located in Illinois should complete the  Form 700–
+Addendum.   
+Illinois QTIP Election (Qualified Terminable Interest Property) 
+
+[...]
+
+ 
+(Ill. Admin. Code tit. 86, § 2000.200) 
+ 
+Computation Examples of Illinois Estate Tax* 
+ 
+Decedent with an estate of $0 Illinois Estate Tax 
+$2,000,000 $0 Federal Estate Tax 
+ 
+Decedent with an estate of $0 Illinois Estate Tax 
+$3,000,000 $0 Federal Estate Tax 
+[page 2]
+ 
+Decedent with an estate of $28 Illinois Estate Tax 
+$3,000,100 and adjusted taxable $0 Federal Estate Tax 
+gifts of $1,000,000 
+ 
+Decedent with an estate of $0 Illinois Estate Tax 
+$4,000,000 (all Illinois property) $0 Federal Estate Tax 
+ 
+Decedent with an estate of $285,714 Illinois Estate Tax 
+$5,000,000 (all Illinois property) $0 Federal Estate Tax 
+ 
+Decedent with an estate of $142,857 Illinois Estate Tax 
+$5,000,000 with 50% in Illinois and (even though Florida imposes 
+50% in Florida no State Estate Tax) 
+$0 Federal Estate Tax 
+ 
+Decedent with an estate of $0 Illinois Estate Tax  
+$13,610,000, a surviving spouse, $0 Federal Estate Tax 
+and an IL QTIP election of $9,610,000.  
+ 
+Note: The portability and carry-over of the unused federal exemption to the surviving 
+spouse is inapplicable to the computation and assessment of the Illinois Estate 
+Tax. 
+ 
+The Illinois Attorney General administers the Illinois Estate Tax. The Illinois Estate Tax 
+Return is designated and titled Form 700 and is posted on the Attorney General’s website. The 
+original Return must be filed with the Illinois Attorney General’s Office, by U.S. mail, 
+courier, or hand delivery. For Cook, DuPage, Lake and McHenry Counties, the original Return 
+along with a copy of the Federal Return is filed at the Office of the Illinois Attorney General, 
+Revenue Litigation Bureau - Estate Tax Section, 115 S. LaSalle St., Chicago, Illinois 60603. For 
+all other counties, the original Return along with a copy of the Federal Return is filed at the Office 
+of the Illinois Attorney General, Revenue Litigation Bureau - Estate Tax Section, 500 South Second 
+Street, Springfield, Illinois 62701. All taxes, interest and penalties must be paid directly to the 

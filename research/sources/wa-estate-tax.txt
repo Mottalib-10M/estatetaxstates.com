@@ -1,0 +1,37 @@
+URL: https://dor.wa.gov/taxes-rates/other-taxes/estate-tax
+Lu le: 2026-10-19
+Titre: Estate tax | Washington Department of Revenue
+
+Important estate tax changes effective with dates of death occurring in 2026
+The filing threshold and exclusion amount is set at $3,076,000 for decedents passing away between January 1, 2026 and June 30, 2026.
+The filing threshold and exclusion amount is set at $3,000,000 for decedents passing away on or after July 1, 2026. It is not set to increase going forward due to an expired CPI in the statute.
+The maximum allowed qualified family-owned business interest (QFOBI) deduction was calculated for 2026 dates of death to be $3,076,000. It is not set to increase going forward due to an expired CPI in the statute.
+What is the estate tax?
+The estate tax is a tax on the right to transfer property at the time of death. A Washington decedent or a non-resident decedent who owns property in Washington state may owe estate tax depending on the value of their estate.
+Who must file a Washington estate tax return?
+A Washington estate tax return filing is required if a decedent's gross value of their property, all assets owned or in trust, wherever the assets are located, is over the filing threshold at the time of their death, and:
+They are domiciled in Washington, or
+They are a non-resident, but own real estate or tangible personal property located in Washington.
+If the above requirements are met, a filing is required even if no tax is due. If the decedent's estate is under the filing threshold, an estate tax return does not need to be filed, and no estate taxes would be due.
+For more details about filing requirements and reporting, see the Estate tax FAQs.
+General submission questions
+What are return, extension & payment due dates?
+One of the following is due nine months after the decedent's date of death:
+Washington estate tax forms and estate tax payment.
+A request for an extension to file the Washington estate tax return and an estimated payment.
+A return or extension may be submitted without payment if the estate does not owe any tax. A return or extension submitted without payment is still due nine months after the decedent’s date of death.
+Note: Any tax due must be paid within nine months after the date of death or interest will accrue daily on any unpaid principal. An extension of time to file a return does not grant relief from the accrual of interest.
+If you have questions, send an email to estates@dor.wa.gov, or call us at 360-704-5906 to speak with an estate tax examiner. Join the Notification Service to get future messages about important Washington estate tax information.
+How do I file an extension?
+If you need more time to file, you can apply for a six-month extension of time to file. Approval of an extension of time to file the Washington estate tax return does not grant additional time to pay the estate tax. We recommend submitting an estimated tax payment with the extension if the estate anticipates there will be tax due. Any amounts that remain unpaid after the nine-month due date will accrue daily interest. For interest rates, see our interest rate table.
+
+[...]
+
+Calculate the tax using the Washington taxable estate and Table W. The "Washington taxable estate" means the gross estate less:
+Allowable deductions from Schedule J, K, L, M and O.
+Applicable exclusion amounts.
+If applicable:
+Estate tax farm deduction.
+Qualified family-owned business interest deduction.
+Example:
+A Washington resident dies in 2024 leaving a gross estate of $4,000,000. The estate incurs funeral and attorney's fees of $50,000 during the administration of the estate, and the decedent had $50,000 in personal debt at death. The Washington tax due is calculated as follows:

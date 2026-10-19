@@ -1,0 +1,48 @@
+URL: https://services.marylandcomptroller.gov/taxes/en/estate-and-inheritance-tax-information?id=kb_article_view&sysparm_article=KB0010033
+Lu le: 2026-10-19
+Titre: Tax Guidance - Estate and Inheritance Tax Information - Taxpayer Services (Comptroller of Maryland, article KB0010033 ; page rendue en JavaScript, lue via Chrome)
+
+Inheritance Tax Information
+
+The inheritance tax is imposed on the clear value of property that passes from a decedent to some beneficiaries. The tax is levied on property that passes under a will, the intestate laws of succession, and property that passes under a trust, deed, joint ownership, or otherwise. The tax is collected by the Register of Wills located in the county where the decedent either lived or owned property. For more information, visit the Office of the Register of Wills.
+
+Estate Tax Information
+
+The Maryland estate tax is a state tax imposed on the transfer of property in a decedent's estate. Payment of the Maryland estate tax is due nine (9) months after the decedent's date of death.
+
+A Maryland estate tax return is required for every estate whose federal gross estate, plus adjusted taxable gifts, plus property for which a Maryland Qualified Terminal Interest Property (QTIP) election was previously made on a Maryland estate tax return filed for the estate of the decedent's predeceased spouse, equals or exceeds the Maryland estate tax exemption amount for the year of the decedent's death, and the decedent at the date of death was a Maryland resident or a nonresident but owned real or tangible personal property having a taxable situs in Maryland.
+
+[...]
+
+Estate Tax Rates
+
+The Maryland estate tax is based on the maximum credit for state death taxes allowable under 2011 of the Internal Revenue Code. The credit used to determine the Maryland estate tax cannot exceed 16% of the amount by which the decedent's taxable estate exceeds the Maryland estate tax exemption amount for the year of the decedent's death.
+
+Estate Tax Refund Information
+
+You may file for a refund of Maryland estate taxes by filing an amended estate tax return, using Form MET-1.
+
+The refund claim will be considered if:
+
+an erroneous amount of tax has been paid or collected, OR
+
+the Maryland estate tax is decreased as the result of action taken by IRS or the estate, or an inheritance tax payment was made after a Maryland estate tax payment.
+
+[...]
+
+If an additional inheritance tax payment is due to the Register of Wills, and the payment would result in a refund of previously paid Maryland estate tax, the personal representative of the estate may request the Comptroller of Maryland to pay the anticipated estate tax refund directly to the Register of Wills so the refund can be applied against the inheritance tax liability. To take this action, complete refund application Form MET-2 ADJ.
+
+If an inheritance tax refund would result in an increase in the Maryland estate tax imposed on an estate, the claimant may request the Register of Wills to pay the inheritance tax refund directly to the Comptroller of Maryland.
+
+Inheritance Tax Rates
+
+[...]
+
+Tax rates for decedents who died on or after July 1, 2000:
+
+Property passing to a child or other lineal descendant, spouse of a child or other lineal descendant, spouse, parent, grandparent, stepchild or stepparent, siblings or a corporation having only certain of these persons as stockholders is exempt from taxation.
+10% on property passing to other individuals.
+
+Effective for decedents who die on or after July 1, 2009, a primary residence that is owned by domestic partners held in joint tenancy at the time of one partner's death is exempt from the Maryland inheritance tax.
+
+For more information about the inheritance tax, contact the Office of the Register of Wills in the appropriate county.

@@ -1,0 +1,21 @@
+URL: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=7-305&enactments=false
+Lu le: 2026-10-19
+Titre: Maryland Code, Article - Tax - General, §7-305 (Maryland General Assembly, Statutes Text)
+
+Article - Tax - General
+
+[...]
+
+§7–305.
+(a)    If a federal estate tax return is required to be filed, the person responsible for filing the federal estate tax return shall complete, under oath, and file a Maryland estate tax return with the Comptroller 9 months after the date of the death of a decedent.
+(b)    If a federal estate tax return is not required to be filed but a federal estate tax return would be required to be filed if the applicable exclusion amount under § 2010(c) of the Internal Revenue Code were no greater than the applicable exclusion amount specified under § 7–309(b) of this subtitle, the person who would be responsible for filing the federal estate tax return shall complete, under oath, and file a Maryland estate tax return with the Comptroller 9 months after the date of the death of the decedent.
+(c)    (1)    If a person files a Maryland estate tax return solely for the purpose of making the election under § 7–309(b) of this subtitle to allow a surviving spouse to take into account the deceased spousal unused exclusion amount, the person shall file the Maryland estate tax return within the time period prescribed for making an election on a federal estate tax return to allow a surviving spouse to take into account the deceased spousal unused exclusion amount.
+(2)    The Comptroller shall adopt regulations necessary to ensure that the time period for making the election under § 7–309(b) of this subtitle on a Maryland estate tax return is identical to that for a similarly situated federal estate tax return.
+(d)    (1)    After a person files a Maryland estate tax return, the person shall file an amended Maryland estate tax return with the Comptroller if the Maryland estate tax liability is increased because of:
+(i)    a change in the federal gross estate, federal taxable estate, federal estate tax, or other change as determined under the Internal Revenue Code;
+(ii)    after–discovered property;
+(iii)    a correction to the value of previously reported property;
+(iv)    a correction to the amount of previously claimed deductions; or
+(v)    any other correction to a previously filed return.
+(2)    (i)    The amended return shall be filed within 90 days after the later to occur of the date of the event that caused the increase in the Maryland estate tax liability or the date on which the person required to file an amended Maryland estate tax return learned or reasonably should have learned of the increase in the Maryland estate tax liability.
+(ii)    On request, each register shall certify to the Comptroller the amount of inheritance tax paid for each decedent for whom an amended Maryland estate tax return is filed with the Comptroller.

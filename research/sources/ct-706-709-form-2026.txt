@@ -1,0 +1,41 @@
+URL: https://portal.ct.gov/-/media/drs/forms/2026/gifttax/ct-706-709-fillable_0626.pdf?rev=3423ec3e22184f20a634c422457e8764&hash=421B2F4DDBD00F5BF6B59D05A3AA8ECB
+Lu le: 2026-10-19
+Titre: Form CT-706/709, 2026 Connecticut Estate and Gift Tax Return (Rev. 06/26) - Connecticut DRS
+
+(Rev. 06/26)
+706709 0626W 01 9999
+5. Total gross estate for Connecticut estate tax purposes from Schedule D, Line 4.  5. .00
+6. Estate tax deductions from Schedule E, Line 4.  6. .00
+7. Subtract Line 6 from Line 5.  7. .00
+8. Current year Connecticut taxable gifts from Schedule A, Line 9: See instructions.  8. .00
+9. Enter total from Schedule B, Column B.  9. .00
+10. Connecticut taxable estate: Add Lines 7, 8, and 9. If $15,000,000.00 or less, see
+instructions.  10. .00
+11. Tax due: See instructions.  11. .00
+12. Nonresident decedent estate only: Tax due from Schedule G, Line 5.  12. .00
+Section 1 - Gift Tax Computation - Report taxable gifts made during calendar year 2026.
+
+[...]
+
+13. Enter tax due: See instructions.  13. .00
+14. Enter total from Schedule B, Column C.  14. .00
+15. Resident decedent estate only: Enter amount from Schedule F, Line 5.  15. .00
+16. Enter your Connecticut Innovations Inc Tax Credit. See instructions.  16. .00
+17. Total credits: Add Lines 14, 15, and 16.  17. .00
+18. Balance of tax payable: Subtract Line 17 from Line 13. See instructions about   18. .00
+the $15 million limitation.
+19. Prior payments and payments made with extension request (Form CT-706/709 EXT)  19. .00
+
+[...]
+
+(Rev. 06/26)
+706709 0626W 07 9999
+Schedule G  –  Computation of Tax for Nonresident Estates
+1. Enter tax due amount from Section 2, Line 11.  .............................................................  1. .00
+2. Total gross estate for Connecticut estate tax
+purposes from Section 2, Line 5.  ..............................  	2. .00
+3. Gross estate for Connecticut estate tax purposes
+within Connecticut  ......................................................	3. .00
+4. Divide Line 3 by Line 2. Round to four decimal
+places.  ....................................................................... 	4. .
+5. Multiply Line 1 by Line 4. Enter here and on Section 2, Line 12.  ...............................  5. .00

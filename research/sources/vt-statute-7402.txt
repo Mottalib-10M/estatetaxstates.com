@@ -1,0 +1,24 @@
+URL: https://legislature.vermont.gov/statutes/section/32/190/07402
+Lu le: 2026-10-19
+Titre: 32 V.S.A. § 7402. Definitions (Vermont General Assembly)
+
+(13) “Vermont gross estate” means for any decedent the value of the federal gross estate
+as provided under 26 U.S.C. § 2031, excluding the value of property that has its situs outside Vermont.
+(14) “Vermont taxable estate” means the federal taxable estate as provided under 26 U.S.C. § 2051, without regard to whether the estate is subject to the federal estate tax:
+(A) Increased by the amount of the deduction for state death taxes allowed under 26 U.S.C. § 2058, to the extent deducted in computing the federal taxable estate.
+(B) Increased by the amount of the deduction for foreign death taxes allowed under 26 U.S.C. § 2053(d), to the extent deducted in computing the federal taxable estate.
+(C) Increased by the aggregate amount of taxable gifts as defined in 26 U.S.C. § 2503, made by the decedent within two years of the date of death. For purposes of this
+subdivision (14), the amount of the addition equals the value of the gift under 26 U.S.C. § 2512 and excludes any value of the gift included in the federal gross estate.
+(15) “Situs of property” means, with respect to:
+(A) real property, the state or country in which it is located;
+(B) tangible personal property, the state or country in which it was normally kept or
+located at the time of the decedent’s death or for a gift of tangible personal property
+within two years of death, the state or country in which it was normally kept or located
+when the gift was executed;
+(C) a qualified work of art, as defined in 26 U.S.C. § 2503(g)(2), owned by a nonresident decedent and that is normally kept or located in this State
+because it is on loan to an organization, qualifying as exempt from taxation under
+26 U.S.C. § 501(c)(3), that is located in Vermont, the situs of the art is deemed to be outside Vermont;
+and
+(D) intangible personal property, the state or country in which the decedent was domiciled
+at death or for a gift of intangible personal property within two years of death,
+the state or country in which the decedent was domiciled when the gift was executed. (Added 1969, No. 269 (Adj. Sess.), § 1, eff. date, see note under § 7401 of this title; amended 2001, No. 140 (Adj. Sess.), § 13, eff. June 21, 2002; 2015, No. 146 (Adj. Sess.), § 1, eff. Jan. 1, 2016; 2017, No. 113 (Adj. Sess.), § 188; 2019, No. 51, § 6, eff. Jan. 1, 2019; 2019, No. 175 (Adj. Sess.), § 14, eff. Jan. 1, 2020; 2021, No. 9, § 23a, eff. Jan. 1, 2021; 2021, No. 73, § 24, eff. Jan. 1, 2021; 2021, No. 105 (Adj. Sess.), § 557, eff. July 1, 2022; 2021, No. 148 (Adj. Sess.), § 8, eff. Jan. 1, 2022; 2023, No. 72, § 2, eff. Jan. 1, 2023; 2023, No. 144 (Adj. Sess.), § 4, eff. Jan. 1, 2024; 2025, No. 27, § E.111.1, eff. Jan. 1, 2025; 2025, No. 164 (Adj. Sess.), § 61, eff. January 1, 2026.)

@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('contact', lang);
+const description = 'Write to the publisher of Estate Tax Atlas about a state exemption, a rate, a beneficiary class or a source. E-mail only, no review of your own estate, nothing sold.';
+---
+<PageLayout title="Contact Estate Tax Atlas: corrections to a state rule or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form, no appointment, no newsletter: we sell no planning service and need no address.</p>
+    <h2>Messages that help</h2>
+    <ul>
+      <li>An exemption, rate or class that differs from the state law or the revenue department page we cite: name the page and the line of the official text.</li>
+      <li>A new law or a 2027 amount published by a state that we have not added yet.</li>
+      <li>A case the calculator handles badly, with the figures you typed.</li>
+      <li>Embedding the calculator on a blog, a library guide or a course page: the code is on the <a href={route('widget', lang)}>embed page</a>.</li>
+    </ul>
+    <h2>What we cannot do</h2>
+    <p>We do not review estates, wills or trusts and give no legal or tax advice. For an estate, an estate attorney or a tax professional licensed in the state concerned; for a return, the state revenue department.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+  </div>
+</PageLayout>

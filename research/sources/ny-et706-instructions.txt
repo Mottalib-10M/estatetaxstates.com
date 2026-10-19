@@ -1,0 +1,105 @@
+URL: https://www.tax.ny.gov/pdf/current_forms/et/et706i.pdf
+Lu le: 2026-10-19
+Titre: Form ET-706-I (9/25), Instructions for Form ET-706 New York State Estate Tax Return - For an estate of an individual who died on or after January 1, 2025 (NYS Department of Taxation and Finance)
+
+=== page 1 ===
+General information
+The add back of taxable gifts has been extended for estates
+of decedents dying on or after January 16, 2019, and before
+January 1, 2032. An includible gift is any taxable gift under Internal
+Revenue Code (IRC) § 2503 that was made during the preceding
+three-year period ending on the decedent’s date of death and that
+was not already included in the decedent’s federal gross estate.
+However, a gift is not included if it was made:
+•  when the decedent was not a resident of New York State (NYS);
+•  before April 1, 2014;
+•  between January 1, 2019, and January 15, 2019; or
+•  that is real or tangible personal property having an actual situs
+outside New York State at the time the gift was made.
+For estates of decedents dying on or after January 1, 2019, and
+before January 16, 2019, there is no addback of taxable gifts.
+
+[...]
+
+Which estates must file Form ET-706 for New
+York State
+New York State residents
+The estate of an individual who was a NYS resident at the time of
+death must file a NYS estate tax return if the total of the federal
+gross estate plus any includible taxable gifts made while the
+individual was a resident of New York State exceeds the New York
+State basic exclusion amount ($7,160,000) applicable for dates of
+death on or after January 1, 2025. See General information above
+for information on includible taxable gifts.
+New York State nonresidents
+The estate of an individual who was not a resident of New York
+State at the time of death must file a NYS estate tax return if the
+estate includes real or tangible personal property having an actual
+location in NYS and the federal gross estate plus any includible
+taxable gifts of real or tangible personal property located in New
+York State and intangible personal property employed in a business,
+trade or profession carried on in New York State, made while the
+individual was a resident of NYS, exceeds the New York State
+basic exclusion amount ($7,160,000) applicable for dates of death
+on or after January 1, 2025. See General information above for
+information on includible taxable gifts.
+
+[...]
+
+When to file Form ET-706 for New York State
+You must file Form ET-706 within nine months after the decedent’s
+date of death, unless you receive an extension of time to file the
+return.
+An extension of time to file the estate tax return may not exceed six
+months, unless the executor is out of the country.
+The Tax Department may grant an extension of time to pay
+the estate tax for up to four years from the date of death, if it is
+established that payment of any part of the tax within nine months
+from the date of death would result in undue hardship to the estate.
+Annual installments may be required [NYS Tax Law § 976(a)].
+If you need an extension of time to file the estate tax return, pay the
+
+[...]
+
+1.  New York taxable estate  ................................. 1.
+2. New York basic exclusion  ............................... 2. 7,160,000
+3. Subtract line 2 from line 1  ............................... 3.
+4. 5% of basic exclusion ...................................... 4. 358,000
+5. Divide line 3 by line 4 (carry to four decimals) ..... 5.
+6. Subtract line 5 from 1.0  ................................... 6.
+7. Multiply line 2 by line 6 ..................................... 7.
+8. Applicable credit (tax amount for line 7 from tax
+table on Form ET-706, page 6). Enter here and
+on Form ET-706, line 3. ................................... 8.
+Worksheet
+
+[...]
+
+Line 3 – Applicable credit
+Compute the amount of the applicable credit on Form ET-706, line 3
+as follows:
+• If the taxable estate is not more than $7,160,000, enter the
+amount from Form ET-706, line 2 on Form ET-706, line 3.
+• If the taxable estate is more than $7,160,000 but not more than
+$7,518,000, complete the worksheet below.
+• If the taxable estate is more than $7,518,000, enter 0 on
+Form ET-706, line 3.
+1.  New York taxable estate  ................................. 1. 7,354,036
+2. New York basic exclusion  ............................... 2. 7,160,000
+3. Subtract line 2 from line 1  ............................... 3. 194,036
+4. 5% of basic exclusion ...................................... 4. 358,000
+5. Divide line 3 by line 4 (carry to four decimals) ..... 5. 0.5420
+6. Subtract line 5 from 1.0 .................................... 6. 0.4580
+7. Multiply line 2 by line 6 ..................................... 7. 3,279,280
+8. Applicable credit (tax amount for line 7 from tax
+table on Form ET-706, page 6). Enter here and
+on Form ET-706, line 3. ................................... 8. 208,011
+Example for Worksheet
+
+[...]
+
+Note: Since New York State Estate Tax Law does not conform
+with the federal portability rule, any amounts that are subject to the
+special rule of Regulation § 20.2010-2(a)(7)(ii) that is reported on
+line 23 of part V - Recapitulation, federal Form 706 do not apply for
+New York State. See TSB-M-15(4)M for more details.

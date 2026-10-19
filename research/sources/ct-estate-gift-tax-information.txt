@@ -1,0 +1,84 @@
+URL: https://portal.ct.gov/drs/individuals/individual-income-tax-portal/estate-and-gift-taxes/tax-information
+Lu le: 2026-10-19
+Titre: Estate and Gift Tax Information (Connecticut Department of Revenue Services)
+
+For estates of decedents dying during 2026, the Connecticut estate tax exemption amount is $15 million. Therefore, Connecticut estate tax is due from a decedent’s estate if the Connecticut taxable estate is more than $15 million.
+For Connecticut taxable gifts made on or after January 1, 2026, and the aggregate of all Connecticut taxable gifts made during all calendar years beginning on or after January 1, 2005, the amount of such gifts exempt from Connecticut gift tax will also be $15 million.
+For calendar years beginning on or after January 1, 2019, the aggregate amount of Connecticut gift and estate tax payable shall not exceed $15 million. The calculation of gift tax payable includes only those gifts made on or after January 1, 2016.
+Note that a donor’s prior year gift tax liability is not reduced as a result of the $15 million cap.
+
+[...]
+
+Calculation of Estate Tax for Nonresidents with Interests in Certain Pass-Through Entities
+For a nonresident decedent dying on or after January 1, 2019, real and tangible personal property located in Connecticut and owned by a pass‑through entity are treated as owned directly by the nonresident decedent if one of the following conditions is met:
+The entity does not carry on a business for the purpose of profit and gain;
+The ownership of the property by the entity was not for a valid business purpose; or
+The property was acquired by other than a bona fide sale for full and adequate consideration, and the decedent retained power over or an interest in the property such that it remained within the decedent’s federal gross estate.
+Such property is treated as owned by the nonresident decedent in proportion to the decedent’s constructive ownership in the pass‑through entity for purposes of computing the tax due for a nonresident estate.
+
+[...]
+
+The Connecticut gift tax applies to Connecticut taxable gifts, which are federal taxable gifts made by a resident or nonresident of Connecticut on or after January 1, 2005:
+For a Connecticut resident, the taxable gifts include real property or tangible personal property located in Connecticut as well as intangible personal property wherever located; and
+For a nonresident of Connecticut, the taxable gifts include only real property or tangible personal property located in Connecticut.
+A Connecticut gift tax return must be filed to report all Connecticut taxable gifts made in any calendar year on or after January 1, 2005, even though Connecticut gift tax may not be due.
+Change in Connecticut gift tax exemption: For Connecticut taxable gifts made during calendar year 2026, a donor will not pay Connecticut gift tax unless the aggregate amount of the Connecticut taxable gifts made on or after January 1, 2005, exceeds $15 million. A credit is allowed against the Connecticut gift tax for Connecticut gift taxes paid on Connecticut taxable gifts made during calendar years beginning on or after January 1, 2005; however, the credit will not exceed the amount of the Connecticut gift tax.
+Gift Tax Table for Connecticut Taxable Gifts Made During Calendar Year 2026
+If the Aggregate Amount
+of Connecticut Taxable Gifts
+Made on or After January 1, 2005, is:
+|
+The Amount of the Gift Tax is:
+|
+Not over $15,000,000
+|
+None
+|
+Over $15,000,000
+|
+12% of the excess over the federal basic exclusion amount.
+|
+Connecticut Estate Tax Overview
+Resident and nonresident estates are liable for the Connecticut estate tax if the amount of their Connecticut taxable estate is more than $15 million. A resident estate is an estate of a decedent who at the time of death was domiciled in Connecticut. A nonresident estate is an estate of a decedent who at the time of death was not domiciled in Connecticut but owned real or tangible personal property in Connecticut.
+The Connecticut taxable estate is the sum of:
+The decedent’s gross estate, as valued for federal estate tax purposes, less allowable federal estate tax deductions, as determined under Chapter 11 of the Internal Revenue Code (IRC); plus
+The aggregate amount of all Connecticut taxable gifts made by the decedent, during his or her lifetime, during all calendar years beginning on or after January 1, 2005, other than Connecticut taxable gifts that are includable in the decedent’s federal gross estate; plus
+The amount of any gift tax paid to this state by the decedent or the decedent’s estate on any gift made by the decedent or decedent’s spouse during the three-year period preceding the date of the decedent’s death.
+The deduction for state death taxes paid under IRC § 2058 shall be disregarded.
+If the amount of the Connecticut taxable estate exceeds $15 million, the estate must file Form CT‑706/709 with DRS. A copy of the completed Form CT‑706/709 must also be filed with the appropriate Probate Court.
+For a nonresident estate, if the amount of the Connecticut taxable estate exceeds $15 million, the tax calculated is then multiplied by a fraction. See CT-706/709 Line Instructions for Schedule G - Computation of Tax for Nonresident Estates.
+If the amount of the Connecticut taxable estate is $15 million or less, Connecticut estate and gift tax is not due. Except as noted below, the estate must file Form CT‑706 NT with the Probate Court for the district in which the decedent resided at the date of death, or if the decedent died as a nonresident of Connecticut, with the Probate Court for the district in which the decedent’s real property or tangible personal property is located. Do not file Form CT‑706 NT with DRS.
+An executor or administrator choosing to make a Connecticut qualified terminable interest property (QTIP) election (see Connecticut QTIP Election, below) must make the election by filing Form CT‑706/709, even if the amount of the decedent’s Connecticut taxable estate is less than or equal to the Connecticut estate tax exemption amount. The election may not be made by filing Form CT‑706 NT.
+Connecticut QTIP Election: An election may be made solely for Connecticut estate tax purposes to have a trust or other property of the decedent’s gross estate treated as qualified terminable interest property (QTIP). This election may only be made if no election was made for federal estate tax purposes under IRC § 2056(b)(7) to treat a trust or other property of the decedent’s gross estate as QTIP. A QTIP election made solely for Connecticut estate tax purposes (Connecticut QTIP election) must be made by filing Form CT‑706/709, and not by filing Form CT‑706 NT.
+Estate Tax Table for Estates of Decedents Dying During Calendar Year 2026
+If the Amount of Connecticut
+Taxable Estate Is:
+|
+The Amount of the Estate Tax Is:
+|
+Not over $15,000,000
+|
+None
+|
+Over $15,000,000
+|
+12% of the excess over the federal basic exclusion amount.
+|
+
+[...]
+
+Form CT‑706/709, Connecticut Estate and Gift Tax Return, is an annual return and covers the entire calendar year. File your 2026 Form CT‑706/709 on or before April 15, 2027.
+
+[...]
+
+Resident and nonresident estates are liable for the Connecticut estate tax if the amount of their Connecticut taxable estate is more than $15 million.
+A resident estate is an estate of a decedent who at the time of death was domiciled in Connecticut.
+A nonresident estate is an estate of a decedent who at the time of death was not domiciled in Connecticut but owned real or tangible personal property in Connecticut.
+
+[...]
+
+Form CT‑706/709 for Connecticut estate tax must be filed no later than six months after the decedent’s date of death unless an extension of time to file is requested.
+
+[...]
+
+Page Last Reviewed or Updated 30-June-2026

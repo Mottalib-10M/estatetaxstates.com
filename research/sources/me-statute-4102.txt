@@ -1,0 +1,10 @@
+URL: https://legislature.maine.gov/statutes/36/title36sec4102.html
+Lu le: 2026-10-19
+Titre: Title 36, §4102: Definitions (Maine Revised Statutes, Chapter 577 Maine Estate Tax After 2012)
+
+Maine exclusion amount.
+For estates of decedents dying on or after January 1, 2013, but before January 1, 2016, "Maine exclusion amount" means $2,000,000. For estates of decedents dying on or after January 1, 2016, but before January 1, 2018, "Maine exclusion amount" means the basic exclusion amount determined for the calendar year in accordance with the Code, Section 2010(c)(3). For estates of decedents dying on or after January 1, 2018, "Maine exclusion amount" means $5,600,000.
+
+[...]
+
+With respect to which an election is made, on a return timely filed with the assessor, to treat the property as Maine qualified terminable interest property for purposes of the tax imposed by this chapter. The amount of property with respect to which the election is made may not be less than zero or greater than the amount by which the federal applicable exclusion amount under the Code, Section 2010 exceeds the Maine exclusion amount. For the purposes of this paragraph, "federal applicable exclusion amount" does not include any deceased spousal unused exclusion amount under the Code, Section 2010.

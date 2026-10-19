@@ -1,0 +1,11 @@
+URL: https://www.revisor.mn.gov/statutes/cite/289A.10
+Lu le: 2026-10-19
+Titre: Minnesota Statutes 2025, section 289A.10 FILING REQUIREMENTS FOR ESTATE TAX RETURNS
+
+289A.10 FILING REQUIREMENTS FOR ESTATE TAX RETURNS.
+§
+Subdivision 1.Return required.
+In the case of a decedent who has an interest in property with a situs in Minnesota, the personal representative must submit a Minnesota estate tax return to the commissioner, on a form prescribed by the commissioner, if:
+(1) a federal estate tax return is required to be filed; or
+(2) the sum of the federal gross estate and federal adjusted taxable gifts, as defined in section 2001(b) of the Internal Revenue Code, made within three years of the date of the decedent's death exceeds $1,200,000 for estates of decedents dying in 2014; $1,400,000 for estates of decedents dying in 2015; $1,600,000 for estates of decedents dying in 2016; $2,100,000 for estates of decedents dying in 2017; $2,400,000 for estates of decedents dying in 2018; $2,700,000 for estates of decedents dying in 2019; and $3,000,000 for estates of decedents dying in 2020 and thereafter.
+The return must contain a computation of the Minnesota estate tax due. The return must be signed by the personal representative.

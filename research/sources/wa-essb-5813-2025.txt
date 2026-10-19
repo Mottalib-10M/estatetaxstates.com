@@ -1,0 +1,74 @@
+URL: https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5813-S.SL.pdf
+Lu le: 2026-10-19
+Titre: Engrossed Substitute Senate Bill 5813, Chapter 421, Laws of 2025 - Capital gains tax and estate tax - rates
+
+CERTIFICATION OF ENROLLMENT
+ENGROSSED SUBSTITUTE SENATE BILL 5813
+Chapter 421, Laws of 2025
+69th Legislature
+2025 Regular Session
+CAPITAL GAINS TAX AND ESTATE TAX —RATES
+EFFECTIVE DATE: May 20, 2025
+Passed by the Senate April 24, 2025
+
+[...]
+
+percent multiplied by the portion of an individual's Washington 17
+capital gains exceeding $1,000,000, and by creating a more 18
+progressive rate structure for the estate tax by increasing the top 19
+tier rates up to 35 percent. Further, the legislature intends to 20
+increase the exclusion amount to $3,000,000 for the estate tax. The 21
+legislature recognizes that levying these taxes with a more 22
+progressive rate structure, and increasing the exclusion amount for 23
+the estate tax, will have the additional effect of making material 24
+progress toward rebalancing the state's tax code. 25
+PART I26
+INCREASING THE CAPITAL GAINS TAX RATE ON ANNUAL LONG-TERM CAPITAL 27
+
+[...]
+
+Sec. 201.  RCW 83.100.020  and 2013 2nd sp.s. c 2 s 2 are each 3
+reenacted and amended to read as follows: 4
+The definitions in this section apply throughout this chapter 5
+unless the context clearly requires otherwise. 6
+(1)(a) The applicable exclusion amount for the decedent's estate 7
+is the applicable exclusion amount in effect as of the date of the 8
+decedent's death.  "Applicable exclusion amount" means:9
+(i) ((One million five hundred thousand dollars )) $1,500,000 for 10
+decedents dying before January 1, 2006; 11
+(ii) ((Two million dollars )) $2,000,000 for estates of decedents 12
+dying on or after January 1, 2006, and before January 1, 2014; 13
+((and))14
+(iii) $2,012,000 for estates of decedents dying on or after 15
+January 1, 2014, and before January 1, 2015;16
+(iv) $2,054,000 for estates of decedents dying on or after 17
+January 1, 2015, and before January 1, 2016;18
+(v) $2,079,000 for estates of decedents dying on or after January 19
+1, 2016, but before January 1, 2017;20
+(vi) $2,129,000 for estates of decedents dying on or after 21
+January 1, 2017, but before January 1, 2018;22
+(vii) $2,193,000 for estates of decedents dying on or after July 23
+1, 2018, but before July 1, 2025;24
+(viii) $3,000,000 for estates of decedents dying on or after July 25
+1, 2025, but before January 1, 2026; and26
+(ix) For estates of decedents dying in calendar year ((2014)) 27
+2026 and each calendar year thereafter, the amount in (a)(((ii))) 28
+(viii) of this subsection must be adjusted annually, except as 29
+otherwise provided in this subsection (1)(a)(((iii))) (ix). The 30
+annual adjustment is determined by multiplying ((two million 31
+dollars)) $3,000,000 by the sum of  one ((plus)) and the percentage by 32
+which the most recent October consumer price index exceeds the 33
+consumer price index for October ((2012)) 2024, and rounding the 34
+result to the nearest ((one thousand dollars )) $1,000. No adjustment 35
+is made for a calendar year if the adjustment would result in the 36
+same or a lesser applicable exclusion amount than the applicable 37
+exclusion amount for the immediately preceding calendar year. ((The 38
+applicable exclusion amount under this subsection (1)(a)(iii) for the 39
+p. 4 ESSB 5813.SL
+[page 5]
+decedent's estate is the applicable exclusion amount in effect as of 1
+the date of the decedent's death. ))2
+(b) For purposes of this subsection (1), "consumer price index" 3
+means the consumer price index for all urban consumers, all items, 4
+for the Seattle ((-Tacoma-Bremerton)) metropolitan area as calculated 5
+by the United States bureau of labor statistics. For the purposes of 6

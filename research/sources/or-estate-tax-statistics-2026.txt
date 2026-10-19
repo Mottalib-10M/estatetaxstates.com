@@ -1,0 +1,54 @@
+URL: https://www.oregon.gov/dor/programs/gov-research/Documents/Oregon%20Estate%20Transfer%20Tax%20Return%20Statistics%20Secured-UA.pdf
+Lu le: 2026-10-19
+Titre: 2026 Edition Oregon Estate Transfer Tax Return Statistics, Oregon Department of Revenue
+
+2026 EditionOregon Estate Transfer Tax 
+Return Statistics 
+2026 Edition: 
+
+[...]
+
+terms relating to estate taxes in effect on December 31, 2010. See Oregon Revised Statutes 
+relating to the estate tax (ORS 118.005 to 118.990). 
+This section describes how the Oregon estate tax works in 2026. It includes details on when an 
+estate tax return is required to be filed, how estates are valued, and how the tax is calculated, 
+including the various exemptions, deductions, exclusions, and credits available to filers. A 
+timeline of recent legislative changes follows. 
+Filing Requirements 
+Oregon’s estate tax applies when a decedent’s gross estate 
+at the date of their death is valued at $1 million or more 
+and includes property taxable by Oregon. In this case the 
+executor(s) of the decedent’s estate must file Form OR-
+706.4
+4 An executor is a personal representative, administrator, trustee, fiduciary, or custodian of the property, or  
+any person who has actual or constructive possession of the decedent’s property 
+ Estates valued at less than $1 million are not subject 
+to the tax and are not required to file a return. The gross 
+estate of the decedent is the value of all real and personal 
+property, tangible or intangible, valued at the date of their 
+
+[...]
+
+Deductions, Exemptions, and Exclusions 
+Deductions, exemptions, and exclusions are allowed for a variety of circumstances, reducing the 
+taxable value of an estate. A marital property deduction allows assets transferred to the 
+decedent’s surviving spouse to be excluded from the gross estate. This deduction functions as a 
+tax deferral and the property for which a marital deduction is allowed must be included in the 
+value of the gross estate when the spouse that received the benefit of the deduction dies. 
+Additional deductions are available for: 
+
+[...]
+
+Oregon Department of Revenue, Research Section 7 
+Tax Rates 
+The Oregon estate tax only applies to taxable value over $1 million. For taxable estate values of 
+$1 million or more the marginal tax rates range from 10 to 16 percent. Having an estate tax with 
+a marginal rate means that each portion of the total taxable value of the estate is taxed at a 
+progressively increasing rate. The first $1 million is not taxed, the next $500,000 is taxed at 10 
+percent, the next $1 million is taxed at 10.25 percent and so on according to the full schedule 
+(Exhibit 2). For example, an estate with a taxable value of $1.7 million would pay zero dollars on 
+the first $1 million in value. For the next $500,000 it would pay a 10 percent rate, or $50,000. 
+The remaining $200,000 in taxable value would be taxed at a rate of 10.25 percent, or $20,500, 
+for a total tax owed before credits of $70,500 (columns 3 plus 4 below). Because the highest 
+rate paid on this estate is 10.25 percent, it is referred to as a 10.25 percent marginal tax rate. 
+Exhibit 2. Oregon Estate Tax Rate Schedule 

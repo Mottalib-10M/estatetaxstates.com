@@ -1,0 +1,96 @@
+URL: https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-01/RI-706_w.pdf (lien « Form RI-706 Estate Tax Return - Date of Death o[n or after 1/1/2015] » de https://tax.ri.gov/forms/individual-tax-forms/estate-tax-forms ; PDF lu dans Chrome, texte extrait avec pdf.js, lignes reconstituées par position ; curl renvoie 403)
+Lu le: 2026-10-19
+Titre: Form RI-706, Estate Tax Return - Date of death on or after 1/1/2015 (State of Rhode Island Division of Taxation)
+
+--- Page 1 (Updated 07/2024) ---
+Check the box Alternate Special Use valuation? If checked, Deceased Spouse’s
+if you elected: Valuation you must complete and attach Unused Exclusion “portability”
+Schedule A-1 on Federal level
+PART 1 - NET TAXABLE ESTATE
+1 1 Total gross estate less exclusion from page 4, Part 6, line 12 ..
+IF TOTAL GROSS ESTATE IS LESS THAN $1,300,000.00
+SKIP LINES 2 THRU 10 AND CONTINUE TO LINE 11
+2 2 Total allowable deductions from page 4, Part 6, line 22..
+3 3 Net taxable estate. Subtract line 2 from line 1..
+4 $60,000 Exclusion.. 4 60000 00
+5 Adjusted taxable estate. Subtract line 4 from line 3.. 5
+6 Rhode Island Estate Tax from the Rhode Island Tax Computation Schedule on page 21.. 6
+7 Applicable Rhode Island credit amount from the Rhode Island credit chart on page 22.. 7
+8 Rhode Island Tax Due. Subtract line 7 from line 6.. 8
+9 9 Rhode Island Apportionment from page 2, Part 4, line 4.. __ . __ __ __ __
+10 Tax Payable to Rhode Island. Multiply line 8 by line 9.. 10
+11 Filing Fee:
+11 00
+For date of death on or before 12/31/2024, enter $50. For date of death on or after 1/1/2025, enter $0
+12 Total Amount Due. Add lines 10 and 11.. 12
+
+[...]
+
+--- Page 2 ---
+PART 4 - COMPUTATION OF TAX
+Rhode Island estate tax from Page 1, Part 1, line 8.. 1 1
+2 Total gross estate less exclusion from page 4, Part 6, line 12.. 2
+3 Rhode Island Gross Estate
+For a decedent domiciled in Rhode Island:
+Enter the amount of Rhode Island Assets excluding non-Rhode Island real and tangible property. 3
+For a decedent non-domiciled in Rhode Island:
+Enter the amount of Rhode Island real and tangible property.
+Percentage which Rhode Island gross estate is of federal gross estate. Divide line 3 by line 2 (carry to 4
+4 __ . __ __ __ __
+four decimal places)..
+
+[...]
+
+--- Page 21 ---
+Rhode Island Tax Computation Schedule
+(1) (2) (3) (4)
+Rate of credit
+Adjusted taxable Credit on on excess
+estate equal to Adjusted taxable amount in over amount
+or more than estate less than Column 1 in column 1
+(Percent)
+$0 $40,000 0 None
+40,000 90,000 0 0.8
+90,000 140,000 $400 1.6
+140,000 240,000 1,200 2.4
+240,000 440,000 3,600 3.2
+440,000 640,000 10,000 4.0
+640,000 840,000 18,000 4.8
+840,000 1,040,000 27,600 5.6
+1,040,000 1,540,000 38,800 6.4
+1,540,000 2,040,000 70,800 7.2
+2,040,000 2,540,000 106,800 8.0
+2,540,000 3,040,000 146,800 8.8
+3,040,000 3,540,000 190,800 9.6
+3,540,000 4,040,000 238,800 10.4
+4,040,000 5,040,000 290,800 11.2
+5,040,000 6,040,000 402,800 12.0
+6,040,000 7,040,000 522,800 12.8
+7,040,000 8,040,000 650,800 13.6
+8,040,000 9,040,000 786,800 14.4
+9,040,000 10,040,000 930,800 15.2
+10,040,000 ------------ 1,082,800 16.0
+Page 21
+
+--- Page 22 ---
+Rhode Island Credit Amount
+Form RI-706, page 1, line 7
+Pursuant to R.I. Gen. Laws § 44-22-1.1(a)(4)
+Instructions:
+Enter the applicable credit amount from below on Form RI-706, page 1, line 7.
+CREDIT AMOUNT
+For date of death on or after January 1, 2015 and prior to January 1, 2016.. $ 64,400
+For date of death on or after January 1, 2016 and prior to January 1, 2017.. $ 64,400
+For date of death on or after January 1, 2017 and prior to January 1, 2018.. $ 65,370
+For date of death on or after January 1, 2018 and prior to January 1, 2019.. $ 66,810
+For date of death on or after January 1, 2019 and prior to January 1, 2020.. $ 68,350
+For date of death on or after January 1, 2020 and prior to January 1, 2021.. $ 69,515
+For date of death on or after January 1, 2021 and prior to January 1, 2022.. $ 70,490
+For date of death on or after January 1, 2022 and prior to January 1, 2023.. $ 74,300
+For date of death on or after January 1, 2023 and prior to January 1, 2024.. $ 80,395
+For date of death on or after January 1, 2024 and prior to January 1, 2025.. $ 83,370
+For date of death on or after January 1, 2025 and prior to January 1, 2026.. $ 85,375
+For date of death on or after January 1, 2026 and prior to January 1, 2027.. $ 87,940
+Page 22
+Revised
+11/2025

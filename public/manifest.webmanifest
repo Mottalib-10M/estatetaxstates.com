@@ -1,0 +1,21 @@
+{
+  "name": "Estate Tax Atlas",
+  "short_name": "Estate Tax Atlas",
+  "description": "Estate and inheritance tax by state for deaths in 2026: state exemptions, heir classes and the federal exclusion, computed on your estate.",
+  "start_url": "/en/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2D4A6B",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

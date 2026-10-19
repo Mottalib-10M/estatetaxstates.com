@@ -1,0 +1,79 @@
+URL: https://www.irs.gov/pub/irs-drop/rp-22-32.pdf
+Lu le: 2026-10-19
+Titre: Rev. Proc. 2022-32 (simplified method, late portability election)
+
+(Also Part I, Section 2010; 20.2010- 2; 301.9100-3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev. Proc. 2022-32 
+ 
+ 
+SECTION 1. PURPOSE 
+     This revenue procedure supersedes Rev. Proc. 2017- 34, 2017-26 I.R.B. 1282, and 
+[...]
+SECTION 3. SCOPE 
+     .01  In General.  The simplified method of this revenue procedure is available to the 
+executor (either an appointed executor or, if none, a non- appointed executor, as 
+provided in § 20.2010-2(a)(6)) of the estate of a decedent if: 
+        (1)  The decedent: 
+           (a)  was survived by a spouse;  
+           (b)  died after December 31, 2010; and 
+           (c)  was a citizen or resident of the United States on the date of death.  
+        (2)  The executor is not required to file an estate tax return under § 6018(a) as 
+determined based on the value of the gross estate and adjusted t axable gifts and 
+without regard to the need to file for portability purposes;  
+        (3)  The executor did not file an estate tax return within the time required by 
+§ 20.2010-2(a)(1) for filing an estate tax return; and  
+        (4)  The executor satisfies all requirements of section 4.01 of this revenue 
+procedure. 
+     .02  Executors that Timely Filed an Estate Tax Return .  The simplified method of this 
+revenue procedure is not available to the estate of a decedent whose executor filed an 
+estate tax return within the time prescribed by § 20.2010-2(a)(1).  Such an executor 
+either will have elected portability of the DSUE amount by timely filing that estate tax 
+5 
+ 
+return or will have affirmatively opted out of portability in accordance with 
+§ 20.2010-2(a)(3)(i).    
+     .03  Estates with a § 6018 Filing Requirement.  As set forth in § 20.2010-2(a)(1), an 
+extension of time to elect portability under § 301.9100-3, including through the simplified 
+method of this revenue procedure, is not available to an estate tha t is required to file an 
+estate tax return under § 6018(a) (as determined based on the value of the gross estate 
+and adjusted taxable gifts) because, in that case, the due date of the election is 
+prescribed by statute and not by regulation.   
+     .04  Failure to Qualify for Relief under this Revenue Procedure .  The executor of an 
+estate not within the scope described in section 3.01 of this revenue procedure only 
+because the executor does not satisfy the requirements of section 4.01 of this revenue 
+procedure may request an extension of time to make the portability election under 
+§ 2010(c)(5)(A) by requesting a letter ruling under the provisions of §  301.9100-3.  The 
+requirements for requesting a letter ruling are described in Rev. Proc.  2022-1 (or any 
+successor revenue procedure).   
+SECTION 4. RELIEF FOR CERTAIN LATE PORTABILITY ELECTIONS  
+     .01  Requirements for Relief.  The requirements for relief under this revenue 
+procedure are as follows: 
+        (1)  A person permitted to make the election on behalf of the estate of a decedent--
+that is, an executor described in §  20.2010-2(a)(6)--must file a complete and properly 
+prepared Form 706, United States Estate (and Generation-Skipping Transfer) Tax 
+Return, on or before the fifth annual anniversary of the decedent’s date of death.  The 
+6 
+ 
+Form 706 will be considered complete and properly prepared if it is prepared in 
+accordance with § 20.2010-2(a)(7).   
+        (2)  The executor filing the Form 706 on behalf of the decedent’s estate must state 
+at the top of the Form 706 that the return is “FILED PURSUANT TO REV. PROC. 2022-
+32 TO ELECT PORTABILITY UNDER §  2010(c)(5)(A).” 
+     .02  Extent of Relief.  Satisfaction of the requirements for relief provided in section 
+4.01 of this revenue procedure, by an executor for whom the relief is available pursuant 
+to section 3.01 of this revenue procedure, is deemed to satisfy the requirements for 
+relief under § 301.9100-3 and upon that satisfaction, relief is granted under the 
+provisions of § 301.9100-3 to extend the time to elect portability under § 2010(c)(5)(A).  
+Accordingly, for purposes of electing portability, the Form 706 of that decedent’s estate 
+will be considered to have been filed timely in accordance with § 20.2010-2(a)(1).   
+     .03  Subsequent Determination that E xecutor Is Required to File a Return under
