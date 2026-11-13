@@ -30,7 +30,7 @@ ${h.table(['Class', 'Beneficiaries', 'Exempt amount', 'Rate on the excess'], [
   ['3', 'Everyone else, including non-exempt institutions', K.usd(C3.exemption!), K.pct(C3.rate!, 0)],
 ], 'Nebraska Revised Statutes 77-2004 to 77-2006, deaths on or after January 1, 2023.', ['l', 'l', 'r', 'r'])}
 <p>Children are exempt in New Jersey, Kentucky and Maryland; Pennsylvania charges them a flat rate from the first dollar, and Nebraska only on what exceeds the Class 1 exemption. A short summary of Nebraska as "1 % or 15 %" leaves out Class 2, which is the class that matters for nieces and nephews: ${K.pct(C2.rate!, 0)} above ${K.usd(C2.exemption!)}.</p>
-<h2>The tax in dollars</h2>
+<h2>The Nebraska inheritance tax in dollars</h2>
 <p>Each class subtracts its exempt amount from the share and taxes the rest at one rate. A share at or below the exempt amount is not taxed at all.</p>
 ${h.table(['Share received', 'Class 1 (child)', 'Class 2 (nephew)', 'Class 3 (friend)'], shares.map((x) => [K.usd(x), K.usd(t('child', x)), K.usd(t('nephew', x)), K.usd(t('other', x))]), 'Nebraska inheritance tax for one beneficiary aged 22 or older.', ['l', 'r', 'r', 'r'])}
 ${h.mini('inh', { t: 'Nebraska tax on one share', p: ['amt', 'rel'], d: { st: 'NE', amt: 200000, rel: 'nephew' } })}

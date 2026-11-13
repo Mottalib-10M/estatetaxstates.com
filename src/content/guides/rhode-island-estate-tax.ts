@@ -52,7 +52,7 @@ ${h.mini('state', { t: 'Rhode Island tax on your figure', p: ['estate'], d: { st
 <p>A Connecticut resident with an estate of ${K.usd(nrGross)} that includes a ${K.usd(nrHouse)} house in Newport files Form RI-706. Rhode Island computes ${K.usd(at(nrGross))} on the whole estate and keeps ${K.pct(nrHouse / nrGross, 0)}: ${K.usd(nrTax)}. The estate also deals with Connecticut, whose own exemption is far higher (${h.a('connecticut-estate-tax', 'Connecticut estate tax')}). A Rhode Island resident with a house in Florida sees the opposite effect: the Florida house reduces the Rhode Island share.</p>
 <h2>Spouses and gifts</h2>
 <p>What passes to a surviving spouse who is a US citizen is deducted like on the federal return. Rhode Island prints no rule letting the survivor use the first spouse's unused threshold, and the instructions read for this site add no lifetime gifts back to the estate. With a threshold this low, many Rhode Island couples cross the line at the second death even when the first death owed nothing; ${h.a('married-couples-state-estate-tax', 'married couples and state estate tax')} puts numbers on it.</p>
-<h2>Paying on time</h2>
+<h2>Paying the Rhode Island estate tax on time</h2>
 <p>The return and the full payment are due ${RI.dueMonths} months after death. A six-month extension to file can be requested on Form RI-4768, with a copy of the federal Form 4768 if one was filed, but it does not stop the clock on the tax. From the due date, interest and a monthly penalty, capped by the Division, run until the tax is paid. The filing fee that applied before was dropped for deaths from January 1, 2025. Other states' calendars are on ${h.a('estate-tax-return-deadline', 'the deadlines page')}.</p>
 `,
   faqs: [

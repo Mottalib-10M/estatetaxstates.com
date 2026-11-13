@@ -31,7 +31,7 @@ export default defineGuide({
   facts: [['Estate tax jurisdictions', String(K.ESTATE_CODES.length)], ['Inheritance tax states', String(K.INHERITANCE_CODES.length)], ['Both', both.map(K.nameOf).join(', ')], ['Federal', 'estate tax only']],
   resume: `The two taxes look alike on a family's bank statement, since both are paid after a death, but they are built differently. An estate tax is charged on the estate as a whole, after debts and deductions, once it crosses a threshold: ${K.usd(K.F.basicExclusion)} for the federal tax in 2026, from ${K.usd(K.E.OR.exemption)} in Oregon to ${K.usd(K.E.CT.exemption)} in Connecticut for the ${K.ESTATE_CODES.length} state-level jurisdictions. The executor files one return and pays from the estate. An inheritance tax is charged on each beneficiary's share, at a rate set by the relationship to the deceased, often from the first dollar and whatever the size of the estate; it exists in ${K.INHERITANCE_CODES.length} states. A spouse is exempt from both everywhere. Pennsylvania takes ${K.usd(pa.inhTotal)} from ${K.usd(3000000)} left to two children, while Massachusetts takes ${K.usd(ma.stateTotal)} in estate tax from the same estate. Maryland applies both and lets the inheritance tax reduce the estate tax.`,
   body: (h) => `
-<h2>Side by side</h2>
+<h2>Estate tax vs inheritance tax, side by side</h2>
 ${h.table(['', 'Estate tax', 'Inheritance tax'], [
   ['Charged on', 'The whole taxable estate', 'Each beneficiary’s share'],
   ['Threshold', 'Yes, a single exemption for the estate', 'Per heir, often none'],

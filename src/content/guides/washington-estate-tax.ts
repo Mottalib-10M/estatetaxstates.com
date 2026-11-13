@@ -51,7 +51,7 @@ ${h.table(['Situation', 'Gross estate', 'Washington part', 'Washington tax'], [
   [`Oregon resident, ${K.usd(condo)} Seattle condo`, K.usd(nrG), K.usd(condo), K.usd(nrApp)],
 ], 'Deaths from July 1, 2026, apportionment by the Washington share of the gross estate.', ['l', 'r', 'r', 'r'])}
 <p>The Oregon resident in the last line also files in Oregon on the rest of the estate (${h.a('oregon-estate-tax', 'Oregon estate tax')}).</p>
-<h2>Paying, and the 2027 question</h2>
+<h2>Paying the Washington estate tax, and the 2027 question</h2>
 <p>The return, or a request for a six-month extension with an estimated payment, is due ${WA.dueMonths} months after death. An extension to file does not extend the time to pay: interest accrues daily on any tax unpaid after the ${WA.dueMonths}-month date.</p>
 <p>For 2027 the sources do not agree. The Department of Revenue writes that the ${K.usd(exH2)} exclusion "is not set to increase going forward due to an expired CPI in the statute", and its table lists ${K.usd(exH2)} for 2027 and after. The text of chapter 209 contains an annual adjustment from 2027, based on the October consumer price index against October 2024 and rounded to the nearest thousand dollars. The Department and the statute read differently; the 2027 figure will be confirmed when published.</p>
 `,

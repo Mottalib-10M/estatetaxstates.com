@@ -33,7 +33,7 @@ ${h.table(['Class', 'Beneficiaries', 'Exemption', 'Rates'], [
   ['C', 'Everyone else: cousins, friends, great-nephews and great-nieces, nephews and nieces by marriage, institutions not exempt', K.usd(Cc.exemption!), `${lo(Cc.slices!)} to ${hi(Cc.slices!)}`],
 ], 'KRS 140.070 and 140.080 as amended by 2026 Ky. Acts ch. 198, deaths on or after January 1, 2026.', ['l', 'l', 'r', 'r'])}
 <p>Exempt educational, religious and charitable institutions listed in KRS 140.060 pay nothing. The class exemption is charged against the lowest bracket or brackets, so the ${K.usd(B.exemption!)} of Class B is taken out of the slice taxed at ${lo(B.slices!)}.</p>
-<h2>Brackets in dollars</h2>
+<h2>Kentucky inheritance tax brackets in dollars</h2>
 <p>Class B climbs through eight brackets, from ${lo(B.slices!)} on the first ${K.usd(B.slices![0][0]!)} to ${hi(B.slices!)} on value above ${K.usd(B.slices![B.slices!.length - 2][0]!)}. Class C uses six brackets and reaches ${hi(Cc.slices!)} above ${K.usd(Cc.slices![Cc.slices!.length - 2][0]!)}, so a cousin reaches the top rate on a much smaller share than a son-in-law.</p>
 ${h.table(['Share received', 'Class B (in-law, aunt, uncle)', 'Class C (cousin, friend)'], amounts.map((x) => [K.usd(x), K.usd(b(x)), K.usd(c(x))]), 'Kentucky inheritance tax for one beneficiary, before the early payment discount.', ['l', 'r', 'r'])}
 ${h.mini('inh', { t: 'Kentucky tax on one share', p: ['amt', 'rel'], d: { st: 'KY', amt: 80000, rel: 'cousin' } })}
