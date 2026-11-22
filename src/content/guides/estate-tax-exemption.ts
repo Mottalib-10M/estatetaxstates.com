@@ -38,7 +38,7 @@ ${h.mini('fed', { t: 'Federal tax on an estate above the exemption', p: ['estate
 ${h.table(['Jurisdiction', '2026 exemption', '2025', 'State tax on ' + K.usd(10000000)], states.map((c) => [h.a(c === 'DC' ? 'district-of-columbia-estate-tax' : `${K.nameOf(c).toLowerCase().replace(/ /g, '-')}-estate-tax`, K.nameOf(c)), K.usd(K.E[c].exemption), K.usd(K.E[c].prev), K.usd(K.stateTax(c, 10000000))]), `State exemptions for deaths in 2026, lowest first, and the tax each state levies on a ${K.usd(10000000)} taxable estate of a resident (no gifts, no property elsewhere). Washington: deaths from July 1, 2026.`, ['l', 'r', 'r', 'r'])}
 <p>The last column explains why the state matters more than the federal number for an estate of that size. A ${K.usd(10000000)} estate owes no federal tax in 2026, yet it owes something in every one of these jurisdictions except Connecticut. The detail of each method, including the New York cliff and the Massachusetts credit, is on ${h.a('state-estate-tax', 'the state estate tax page')}.</p>
 <h2>What indexing from 2027 means</h2>
-<p>The new law brought back inflation adjustment with 2025 as the base year. The IRS publishes the amounts for future years in annual revenue procedures; until the 2027 one is out, no 2027 figure is official, and this site does not print a forecast. Section 2010(c)(3) rounds the adjusted amount to the nearest multiple of $10,000, which is why every exclusion in the IRS table ends in four zeros. Section 70106 contains no ending date: the amount it sets applies to every estate and gift after December 31, 2025, adjusted each year from 2027.</p>
+<p>The new law brought back inflation adjustment with 2025 as the base year. The IRS publishes the amounts for future years in annual revenue procedures, and ${h.src('rp_2026_35', 'Rev. Proc. 2026-35')} sets the basic exclusion for deaths and gifts in 2027 at ${K.usd(F.y2027.basicExclusion)}. The ${h.a('federal-estate-tax-changes', '2027 estate tax page')} compares the two years. Section 2010(c)(3) rounds the adjusted amount to the nearest multiple of $10,000, which is why every exclusion in the IRS table ends in four zeros. Section 70106 contains no ending date: the amount it sets applies to every estate and gift after December 31, 2025, adjusted each year from 2027.</p>
 <h2>Gifts made before 2026</h2>
 <p>People who made large gifts in 2024 or 2025, when the exclusion was ${K.usd(H['2024'])} and then ${K.usd(H['2025'])}, have used part of an exclusion that is now larger. The remaining room is simply the 2026 amount minus the adjusted taxable gifts already made. The IRS gift tax FAQ addresses this case and confirms that the ${K.usd(ex)} applies to gifts made in 2026 (${h.src('irs_gift_faq', 'IRS gift tax questions')}).</p>
 `,
@@ -50,6 +50,6 @@ ${h.table(['Jurisdiction', '2026 exemption', '2025', 'State tax on ' + K.usd(100
   ],
   tool: 'fed',
   toolArg: { estate: big },
-  related: ['portability', 'estate-tax-rates', 'gift-tax', 'state-estate-tax', 'connecticut-estate-tax', 'married-couples-state-estate-tax'],
-  sources: ['pl_119_21', 'rp_2025_32', 'irs_whats_new', 'irs_i706', 'irs_gift_faq'],
+  related: ['portability', 'estate-tax-rates', 'gift-tax', 'state-estate-tax', 'connecticut-estate-tax', 'married-couples-state-estate-tax', 'federal-estate-tax-changes'],
+  sources: ['pl_119_21', 'rp_2025_32', 'rp_2026_35', 'irs_whats_new', 'irs_i706', 'irs_gift_faq'],
 });

@@ -2,7 +2,7 @@
  *  while pages are being written; the "all planned pages exist" test fails until each has its file. */
 export const PLANNED_GUIDES = [
   // Federal estate and gift tax
-  'estate-tax-exemption', 'gift-tax', 'gift-tax-limit', 'estate-tax-rates', 'portability', 'non-citizen-spouse',
+  'estate-tax-exemption', 'gift-tax', 'gift-tax-limit', 'estate-tax-rates', 'portability', 'non-citizen-spouse', 'federal-estate-tax-changes',
   // State estate tax
   'state-estate-tax', 'connecticut-estate-tax', 'district-of-columbia-estate-tax', 'hawaii-estate-tax', 'illinois-estate-tax', 'maine-estate-tax',
   'maryland-estate-tax', 'massachusetts-estate-tax', 'minnesota-estate-tax', 'new-york-estate-tax', 'new-york-estate-tax-cliff', 'oregon-estate-tax',

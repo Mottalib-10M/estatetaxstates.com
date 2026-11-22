@@ -165,6 +165,24 @@ export const SPECS: Record<string, (arg?: Record<string, number | string>) => To
     },
   }),
 
+  /* Federal estate tax: death in 2026 against death in 2027 (Rev. Proc. 2026-35) */
+  fed2027: (arg) => ({
+    inputs: [
+      MONEY('estate', 'Taxable estate after the spouse and charity', Number(arg?.estate ?? 16000000)),
+      MONEY('gifts', 'Lifetime taxable gifts', Number(arg?.gifts ?? 0)),
+      MONEY('dsue', 'Unused exclusion from a late spouse', Number(arg?.dsue ?? 0), 'Only if portability was elected', true, 15000000),
+    ],
+    run: (v) => {
+      const x = { taxableEstate: n(v, 'estate'), gifts: n(v, 'gifts'), dsue: n(v, 'dsue') };
+      const a = federalEstateTax(x), b = federalEstateTax({ ...x, bea: FED.y2027.basicExclusion });
+      return {
+        label: 'Federal estate tax for a death in 2027', value: usd(b.tax),
+        sub: a.tax > b.tax ? `${usd(a.tax - b.tax)} less than for the same estate in 2026.` : b.tax > 0 ? 'Same as in 2026.' : `${usd(b.exclusion - b.base)} of exclusion left unused.`,
+        rows: [['Estate plus lifetime gifts', usd(b.base)], ['Exclusion 2026', usd(a.exclusion)], ['Exclusion 2027', usd(b.exclusion)], ['Federal tax, death in 2026', usd(a.tax)], ['Federal tax, death in 2027', usd(b.tax), b.tax]],
+      };
+    },
+  }),
+
   /* Gifts during life */
   gift: (arg) => ({
     inputs: [

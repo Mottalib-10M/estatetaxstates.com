@@ -11,11 +11,11 @@ export const F = P.federal;
 const RT = F.rateTable as Bracket[];
 export const tentativeTax = (x: number) => taxFromTable(RT, x);
 
-export interface FedIn { taxableEstate: number; gifts: number; dsue: number }
+export interface FedIn { taxableEstate: number; gifts: number; dsue: number; bea?: number }
 export interface FedOut { base: number; exclusion: number; tentative: number; credit: number; tax: number; overBy: number }
-export function federalEstateTax({ taxableEstate, gifts, dsue }: FedIn): FedOut {
+export function federalEstateTax({ taxableEstate, gifts, dsue, bea = F.basicExclusion }: FedIn): FedOut {
   const base = Math.max(0, taxableEstate) + Math.max(0, gifts);
-  const exclusion = F.basicExclusion + Math.min(Math.max(0, dsue), F.basicExclusion);
+  const exclusion = bea + Math.min(Math.max(0, dsue), bea);
   const tentative = tentativeTax(base), credit = tentativeTax(exclusion);
   return { base, exclusion, tentative, credit, tax: Math.max(0, tentative - credit), overBy: Math.max(0, base - exclusion) };
 }

@@ -47,6 +47,12 @@
     "en": "IRS, Estate tax for nonresidents not citizens of the United States"
    }
   },
+  "rp_2026_35": {
+   "url": "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf",
+   "label": {
+    "en": "Rev. Proc. 2026-35, 2027 inflation-adjusted amounts"
+   }
+  },
   "rp_2025_32": {
    "url": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf",
    "label": {
@@ -470,6 +476,14 @@
    "2024": 185000,
    "2025": 190000,
    "2026": 194000
+  },
+  "y2027": {
+   "_note": "Rev. Proc. 2026-35, sections 3.44 to 3.46 and 3.56, read on 2026-11-22",
+   "basicExclusion": 15480000,
+   "annualExclusion": 20000,
+   "nonCitizenSpouse": 201000,
+   "specialUseCap": 1500000,
+   "installmentTwoPct": 2010000
   },
   "nraThreshold": 60000,
   "nraCredit": 13000,
