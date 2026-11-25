@@ -354,7 +354,7 @@
    }
   },
   "nj_classes": {
-   "url": "https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/transferinheritanceclasses.pdf",
+   "url": "https://www.nj.gov/treasury/taxation/inheritance-estate/classes.shtml",
    "label": {
     "en": "New Jersey Division of Taxation, beneficiary classes"
    }
@@ -366,7 +366,7 @@
    }
   },
   "nj_nrfaq": {
-   "url": "https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/itnrfaq.pdf",
+   "url": "https://www.nj.gov/treasury/taxation/inheritance-estate/faqs.shtml",
    "label": {
     "en": "New Jersey Division of Taxation, nonresident inheritance tax questions"
    }

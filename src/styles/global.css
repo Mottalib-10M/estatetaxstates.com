@@ -5,7 +5,7 @@
 @font-face { font-family: 'Inter'; font-style: normal; font-weight: 400 700; font-display: swap; src: url('/fonts/inter-var.woff2') format('woff2'); }
 @theme {
   --color-navy-50: #f8fafc; --color-navy-100: #f1f5f9; --color-navy-200: #e2e8f0; --color-navy-300: #cbd5e1; --color-navy-400: #94a3b8; --color-navy-500: #64748b; --color-navy-600: #475569; --color-navy-700: #334155; --color-navy-800: #1e293b; --color-navy-900: #0f172a; --color-navy-950: #020617;
-  --color-accent-50: #f1f5f9; --color-accent-100: #dfe7f1; --color-accent-200: #bed0e4; --color-accent-300: #93b0d2; --color-accent-400: #6891c0; --color-accent-500: #2D4A6B; --color-accent-600: #263f5b; --color-accent-700: #20344b; --color-accent-800: #19293c; --color-accent-900: #14212f;
+  --color-accent-50: #F9EDF0; --color-accent-100: #F4DCE3; --color-accent-200: #E8BAC6; --color-accent-300: #D98CA0; --color-accent-400: #C65271; --color-accent-500: #B31942; --color-accent-600: #981538; --color-accent-700: #7D122E; --color-accent-800: #620E24; --color-accent-900: #480A1A;
   --color-success: #15803d; --color-warning: #b45309; --color-error: #dc2626;
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
@@ -88,3 +88,74 @@ h1 { font-weight: 700; } h2 { font-weight: 650; } h3 { font-weight: 600; }
 :where(form, div, fieldset):has(> .grid-rows-subgrid) { align-content: start; }
 /* Dans une grille, le cadre du formulaire s'arrête sous ses champs au lieu de s'étirer à la hauteur du résultat. */
 .grid > form:has(> .grid-rows-subgrid) { align-self: start; }
+
+/* === Charte du pays (refonte d'identité validée par l'éditeur, appliquée le 2026-11-25) ===
+   En-tête plein, bandeau héros, simulateur en carte, sections alternées, chiffres-résultats, boutons et pied
+   aux couleurs du pays ; l'échelle --color-accent-* du @theme porte la couleur forte. */
+html,body { overflow-x:clip; }
+/* en-tête plein + filet */
+header nav[aria-label] { background:#AC183F !important; border-bottom:4px solid #0A3161 !important; }
+header nav[aria-label] > div:first-child > a, header nav[aria-label] > div:first-child > a span,
+header nav[aria-label] .nav-dropdown-trigger, header nav[aria-label] .nav-link, header nav[aria-label] > div:first-child > div > a,
+header nav[aria-label] #mobile-menu-toggle, header nav[aria-label] .burger { color:#fff !important; }
+header nav[aria-label] > div:first-child > a span[class*="accent"] { color:#ECC4CE !important; }
+header nav[aria-label] .nav-dropdown-trigger:hover, header nav[aria-label] .nav-link:hover { background:rgba(255,255,255,.16) !important; }
+header nav[aria-label] .burger span, header nav[aria-label] .burger::before, header nav[aria-label] .burger::after { background:#fff !important; }
+header nav[aria-label] img[src^="data:"] { background:#fff; border-radius:8px; padding:2px; }
+header nav[aria-label] #mobile-menu { background:#fff !important; }
+header nav[aria-label] #mobile-menu, header nav[aria-label] #mobile-menu * { color:#0f172a; }
+/* bandeau héros pleine largeur */
+main > div:first-child { padding-top:0 !important; }
+main > div:first-child > header:first-child,
+main > div:first-child > header:first-child ~ *:has(~ [data-outil]),
+main > div:first-child > [data-outil] { box-shadow:0 0 0 100vmax #AC183F;clip-path:inset(0 -100vmax);background:#AC183F; margin-top:0 !important; margin-bottom:-1px !important; border:0 !important; }
+main > div:first-child > header:first-child { padding:26px 0 14px !important; }
+main > div:first-child > header:first-child ~ *:has(~ [data-outil]) { padding-bottom:14px !important; }
+main > div:first-child > header:first-child *,
+main > div:first-child > header:first-child ~ *:has(~ [data-outil]) > p,
+main > div:first-child > header:first-child ~ p:has(~ [data-outil]),
+main > div:first-child > header:first-child ~ p:has(~ [data-outil]) * { color:#fff !important; }
+main > div:first-child > header:first-child h1 { color:#fff !important; letter-spacing:-0.02em; }
+main > div:first-child > header:first-child a { text-decoration:underline; text-decoration-color:#0A3161; }
+main > div:first-child > [data-outil] { padding:4px 0 34px !important; margin-bottom:26px !important; }
+main [data-outil] astro-island > div:first-child, main [data-outil] > div:not(astro-island):first-child { border-top:6px solid #0A3161 !important; border-radius:14px; box-shadow:0 14px 34px rgba(0,0,0,.22); background:#fff; }
+/* raccourcis en boutons pleins */
+nav[data-profils] p { color:#fff !important; }
+nav[data-profils] a, main a[class*="border-accent"], main a[class*="bg-accent-50"]:not([data-outil] *) { background:#0A3161 !important; color:#FFFFFF !important; border-color:#0A3161 !important; border-radius:10px; font-weight:600; }
+nav[data-profils] a:hover, main a[class*="border-accent"] * { color:inherit !important; }
+main a[class*="border-accent"]:hover { background:#092A53 !important; }
+main button:is([class~="bg-accent-500"],[class~="bg-accent-600"],[class~="bg-accent-700"]), main a[class~="bg-accent-500"], main a[class~="bg-accent-600"], main a[class~="bg-accent-700"], main button[type="submit"] { background:#0A3161 !important; color:#FFFFFF !important; border-color:#0A3161 !important; }
+main button:is([class~="bg-accent-500"],[class~="bg-accent-600"],[class~="bg-accent-700"]):hover, main button[type="submit"]:hover { background:#092A53 !important; }
+/* chiffres-résultats */
+main [data-outil] [class*="tabular-nums"][class*="font-bold"] { color:#B31942 !important; line-height:1.1; }
+main [data-outil] [class*="tabular-nums"][class*="font-bold"]:not([class*="text-4xl"]):not([class*="text-5xl"]):not([class*="text-[2"]) { font-size:2rem !important; }
+main [data-outil] div:has(> [class*="tabular-nums"][class*="font-bold"]) { background:#F7E8EC !important; border-left:5px solid #0A3161; border-radius:10px; padding:10px 14px; }
+main [class*="bg-accent-50"] { background:#F7E8EC !important; border-left:5px solid #0A3161; }
+/* sections alternées */
+main > div:first-child > section:nth-of-type(even), main > div:first-child > div.mt-8:has(> details.fold) { box-shadow:0 0 0 100vmax #F7E8EC;clip-path:inset(0 -100vmax);background:#F7E8EC; padding-top:18px; padding-bottom:22px; }
+main h2 { color:#AC183F !important; }
+main section > h2, main .prose h2, main section > div > h2 { display:block; padding-bottom:6px; border-bottom:5px solid #0A3161; width:fit-content; max-width:100%; }
+main details.fold > summary h2, main .fold-h { border-left:6px solid #0A3161; padding-left:10px; }
+main table thead th { color:#AC183F !important; border-bottom:3px solid #0A3161 !important; }
+main details { border-color:#E8BAC6 !important; }
+main details[open] > summary, main details > summary:hover { background:#F7E8EC; }
+/* liens soulignés colorés */
+main .prose a, main p a { color:#B31942 !important; text-decoration:underline; text-decoration-color:#0A3161; text-decoration-thickness:2px; text-underline-offset:3px; }
+/* pied plein */
+footer { background:#3C0816 !important; border-top:5px solid #0A3161 !important; }
+footer, footer * { color:#E5E7EB !important; border-color:rgba(255,255,255,.18) !important; }
+footer a:hover { color:#fff !important; }
+footer [class*="bg-white"], footer [class*="bg-navy-50"] { background:transparent !important; }
+/* --- reprise v3 du 2026-11-25 : corrections de contraste --- */
+footer .rounded-full, footer [class*="bg-"] { background:transparent !important; border-color:rgba(255,255,255,.35) !important; }
+main :is(p,li,td,caption) a:not([class*="rounded"]):not(#z) { text-decoration-thickness:auto !important; text-underline-offset:auto !important; text-decoration-color:currentColor !important; }
+main button[aria-pressed="true"]:not(#z) { background:#0A3161 !important; color:#FFFFFF !important; }
+main button[aria-pressed="false"]:not(#z) { background:#fff !important; color:#3C0816 !important; }
+body button.fixed:not(#z), body button.fixed:not(#z) * { background:#EEF1F6 !important; color:#3C0816 !important; }
+body button.fixed:not(#z) { border:0 !important; border-top:4px solid #0A3161 !important; }
+.skip-link:not(#z) { background:#3C0816 !important; color:#fff !important; }
+.skip-link:not(:focus) { opacity:0; }
+body :is(a,div,button,aside)[class*="fixed"][class*="bottom-"]:not(nav):not(#z), body :is(a,div,button,aside)[class*="fixed"][class*="bottom-"]:not(nav):not(#z) * { background:#EEF1F6 !important; color:#3C0816 !important; }
+main table thead th:not(#z) { border-bottom-color:transparent !important; box-shadow:inset 0 -3px 0 #0A3161; }
+main :is(p,li,td,caption,span) > a:not([class*="rounded"]):not([class*="block"]):not([class*="flex"]) { padding-block:3px; }
+/* === fin de la charte du pays === */
